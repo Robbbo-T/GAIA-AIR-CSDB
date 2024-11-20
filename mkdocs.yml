@@ -1,3 +1,6 @@
+              - name: Attest Build Provenance
+                uses: actions/attest-build-provenance@v1.4.4
+            
 site_name: 'GAIA AIR Documentation'
 theme: 'readthedocs'
 nav:
