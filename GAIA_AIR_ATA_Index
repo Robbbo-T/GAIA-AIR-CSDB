@@ -1,0 +1,56 @@
+# GAIA_AIR_ATA_Index
+
+
+	1.	ATA21 - Aire Acondicionado
+	2.	ATA22 - Autoflight
+	3.	ATA23 - Comunicaciones
+	4.	ATA24 - Energía Eléctrica
+	5.	ATA25 - Equipos y Mobiliario
+	6.	ATA26 - Protección contra Incendios
+	7.	ATA27 - Controles de Vuelo
+	8.	ATA28 - Sistema de Combustible
+	9.	ATA29 - Sistema Hidráulico
+	10.	ATA30 - Protección contra Hielo y Lluvia
+	11.	ATA31 - Instrumentación
+	12.	ATA32 - Tren de Aterrizaje
+	13.	ATA33 - Iluminación
+	14.	ATA34 - Navegación
+	15.	ATA35 - Oxígeno
+	16.	ATA36 - Neumática
+	17.	ATA37 - Sistema de Vacío
+	18.	ATA38 - Agua y Aguas Residuales
+	19.	ATA39 - Componentes Eléctricos Generales
+	20.	ATA40 - Sistemas de Información
+	21.	ATA41 - Sistema de Energía Eléctrica Integrada
+	22.	ATA42 - Monitoreo de Vuelo
+	23.	ATA44 - Propulsión Eléctrica
+	24.	ATA45 - Sistemas de Grabación de Datos
+	25.	ATA46 - Sistemas de Información de Vuelo
+	26.	ATA47 - Sistemas Inerciales
+	27.	ATA49 - APU (Unidad de Potencia Auxiliar)
+	28.	ATA50 - Sistema de Distribución de Carga
+	29.	ATA51 - Estructura
+	30.	ATA52 - Puertas
+	31.	ATA53 - Fuselaje
+	32.	ATA54 - Nacelas/Pilones
+	33.	ATA55 - Estabilizadores
+	34.	ATA56 - Ventanas
+	35.	ATA57 - Alas
+	36.	ATA70 - Motor Estándar
+	37.	ATA71 - Sistema de Propulsión
+	38.	ATA72 - Turbina del Motor
+	39.	ATA73 - Sistema de Combustible del Motor
+	40.	ATA74 - Control del Motor
+	41.	ATA75 - Aire del Motor
+	42.	ATA76 - Control Automático del Motor
+	43.	ATA77 - Indicaciones del Motor
+	44.	ATA78 - Sistema de Escape del Motor
+	45.	ATA79 - Sistema de Aceite del Motor
+	46.	ATA80 - Sistema de Arranque
+	47.	ATA85 - Monitoreo del Motor
+
+Nota
+
+Cada capítulo puede ser adaptado o complementado con subcapítulos específicos, dependiendo de las necesidades del proyecto. Por ejemplo, el ATA24 - Energía Eléctrica puede desglosarse en subsistemas para abordar componentes como generación, distribución y almacenamiento de energía.
+
+¿Te gustaría ayuda para desarrollar un README.md base para alguno de estos capítulos? ¡Puedo preparar uno para un capítulo inicial, como el ATA21 - Aire Acondicionado!
