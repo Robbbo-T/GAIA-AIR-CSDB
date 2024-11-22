@@ -1,27 +1,32 @@
-name: Deploy MkDocs site to GitHub Pages
+name: Deploy GitHub Pages
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
 
-    - name: Install MkDocs and dependencies
-      run: |
-        pip install mkdocs mkdocs-material
+      - name: Install dependencies
+        run: npm install
 
-    - name: Deploy to GitHub Pages
-      run: |
-        mkdocs gh-deploy --force
+      - name: Build site
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
