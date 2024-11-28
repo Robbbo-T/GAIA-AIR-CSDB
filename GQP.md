@@ -115,8 +115,354 @@ GAIA AIR es un **portal cuántico** diseñado para revolucionar la industria aer
 ---
 
 ## 4. Capítulos ATA
+Entiendo que deseas almacenar estas etiquetas y sus respectivas jerarquías en una base de datos SQL. A continuación, te proporcionaré un esquema SQL que crea una tabla adecuada para almacenar estos códigos y títulos, incluyendo la relación jerárquica entre ellos. Además, incluiré ejemplos de sentencias `INSERT` para que puedas comenzar.
 
-*Nota: Asegúrese de completar esta sección con detalles específicos sobre los capítulos ATA relevantes para el proyecto GAIA AIR.*
+## 1. Esquema de la Base de Datos
+
+Crearemos una única tabla llamada `system_codes` que contendrá los códigos, títulos y una referencia al código padre para mantener la estructura jerárquica.
+
+```sql
+-- Crear la tabla system_codes
+CREATE TABLE system_codes (
+    code VARCHAR(10) PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    parent_code VARCHAR(10),
+    FOREIGN KEY (parent_code) REFERENCES system_codes(code)
+);
+```
+
+### Descripción de los Campos:
+
+- **code**: Código único para cada sistema o componente.
+- **title**: Título descriptivo del sistema o componente.
+- **parent_code**: Código del elemento padre para mantener la jerarquía. Este campo es opcional (`NULL`) para los elementos de nivel superior.
+
+## 2. Ejemplos de Sentencias INSERT
+
+A continuación, se muestran ejemplos de cómo insertar los datos proporcionados en la tabla `system_codes`. Debido a la gran cantidad de datos, incluiré una muestra representativa. Puedes continuar agregando el resto siguiendo este patrón.
+
+```sql
+-- Insertar datos en system_codes
+
+-- Nivel 1
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('11', 'Placards and Markings', NULL),
+('12', 'Servicing', NULL),
+('14', 'Hardware', NULL),
+('18', 'Helicopter Vibration', NULL),
+('21', 'Air Conditioning', NULL),
+('22', 'Auto Flight', NULL),
+('23', 'Communications', NULL),
+('24', 'Electrical Power', NULL),
+('25', 'Equipment/Furnishings', NULL),
+('26', 'Fire Protection', NULL),
+('27', 'Flight Controls', NULL),
+('28', 'Fuel', NULL),
+('29', 'Hydraulic Power', NULL),
+('30', 'Ice and Rain Protection', NULL),
+('31', 'Instruments', NULL),
+('32', 'Landing Gear', NULL),
+('33', 'Lights', NULL),
+('34', 'Navigation', NULL),
+('35', 'Oxygen', NULL),
+('36', 'Pneumatic', NULL),
+('37', 'Vacuum', NULL),
+('38', 'Water/Waste', NULL),
+('45', 'Central Maint. System', NULL),
+('49', 'Airborne Auxiliary Power', NULL),
+('51', 'Standard Practices/Structures', NULL),
+('52', 'Doors', NULL),
+('53', 'Fuselage', NULL),
+('54', 'Nacelles/Pylons', NULL),
+('55', 'Stabilizers', NULL),
+('56', 'Windows', NULL),
+('57', 'Wings', NULL),
+('61', 'Propellers/Propulsors', NULL),
+('62', 'Main Rotor', NULL),
+('63', 'Main Rotor Drive', NULL),
+('64', 'Tail Rotor', NULL),
+('65', 'Tail Rotor Drive', NULL),
+('67', 'Rotors Flight Control', NULL),
+('71', 'Powerplant', NULL),
+('72', 'Turbine/Turboprop Engine', NULL),
+('73', 'Engine Fuel and Control', NULL),
+('74', 'Ignition', NULL),
+('75', 'Air', NULL),
+('76', 'Engine Controls', NULL),
+('77', 'Engine Indicating', NULL),
+('78', 'Engine Exhaust', NULL),
+('79', 'Engine Oil', NULL),
+('80', 'Starting', NULL),
+('81', 'Turbocharging', NULL),
+('82', 'Water Injection', NULL),
+('83', 'Accessory Gearboxes', NULL),
+('85', 'Reciprocating Engine', NULL);
+
+-- Nivel 2 (Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('1100', 'Placards and Markings', '11'),
+('1210', 'Fuel Servicing', '12'),
+('1220', 'Oil Servicing', '12'),
+('1230', 'Hydraulic Fluid Servicing', '12'),
+('1240', 'Coolant Servicing', '12'),
+('1400', 'Miscellaneous Hardware', '14'),
+('1410', 'Hoses and Tubes', '14'),
+('1420', 'Electrical Connectors', '14'),
+('1430', 'Fasteners', '14'),
+('1497', 'Miscellaneous Wiring', '14'),
+('1800', 'Helicopter Vib/Noise Analysis', '18'),
+('1810', 'Helicopter Vibration Analysis', '18'),
+('1820', 'Helicopter Noise Analysis', '18'),
+('1897', 'Helicopter Vibration System Wiring', '18'),
+('2100', 'Air Conditioning System', '21'),
+('2110', 'Cabin Compressor System', '21'),
+('2120', 'Air Distribution System', '21'),
+('2121', 'Air Distribution Fan', '2120'),
+('2130', 'Cabin Pressure Control System', '21'),
+('2131', 'Cabin Pressure Controller', '2130'),
+('2132', 'Cabin Pressure Indicator', '2130'),
+('2133', 'Pressure Regul/Outflow Valve', '2130'),
+('2134', 'Cabin Pressure Sensor', '2130'),
+('2140', 'Heating System', '21'),
+('2150', 'Cabin Cooling System', '21'),
+('2160', 'Cabin Temperature Control System', '21'),
+('2161', 'Cabin Temperature Controller', '2160'),
+('2162', 'Cabin Temperature Indicator', '2160'),
+('2163', 'Cabin Temperature Sensor', '2160'),
+('2170', 'Humidity Control System', '21'),
+('2197', 'Air Conditioning System Wiring', '21');
+
+-- Nivel 3 (Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2211', 'Autopilot Computer', '2210'),
+('2212', 'Altitude Controller', '2210'),
+('2213', 'Flight Controller', '2210'),
+('2214', 'Autopilot Trim Indicator', '2210'),
+('2215', 'Autopilot Main Servo', '2210'),
+('2216', 'Autopilot Trim Servo', '2210'),
+('2311', 'UHF Communication System', '2310'),
+('2312', 'VHF Communication System', '2310'),
+('2121', 'Air Distribution Fan', '2120'),
+('2131', 'Cabin Pressure Controller', '2130');
+
+/INSERT ¡Claro! Puedo ayudarte a continuar con la inserción de los códigos restantes o a optimizar el proceso según tus necesidades. A continuación, te proporcionaré algunos pasos adicionales y recomendaciones para manejar eficientemente la inserción y gestión de los datos en tu base de datos SQL.
+
+## 1. Continuación de las Sentencias `INSERT`
+
+Si tienes una lista completa de códigos y títulos, puedes continuar agregando las sentencias `INSERT` siguiendo el patrón que ya has establecido. A continuación, te muestro cómo podrías proceder con algunos ejemplos adicionales:
+
+```sql
+-- Nivel 3 (Continuación de Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2313', 'HF Communication System', '2310'),
+('2314', 'Satellite Communication System', '2310'),
+('2320', 'Radio Communication System', '2310'),
+('2321', 'VHF Radio', '2320'),
+('2322', 'UHF Radio', '2320'),
+('2330', 'Data Communication System', '2310'),
+('2331', 'Digital Data Link', '2330'),
+('2332', 'Analog Data Link', '2330'),
+-- Agrega más inserciones según tu estructura jerárquica
+;
+```
+
+### Automatización de las Inserciones
+
+Para evitar errores y facilitar la gestión, considera utilizar scripts o herramientas que generen automáticamente las sentencias `INSERT` a partir de tus datos fuente.
+
+#### Ejemplo en Python para Generar Sentencias `INSERT`
+
+```python
+import csv
+
+# Ruta al archivo CSV
+csv_file = 'system_codes.csv'
+
+# Leer el archivo CSV y generar sentencias INSERT
+with open(csv_file, newline='', encoding='utf-8') as f:
+    reader = csv.DictReader(f)
+    insert_statements = []
+    for row in reader:
+        code = row['code']
+        title = row['title'].replace("'", "''")  # Escapar comillas simples
+        parent_code = row['parent_code'] if row['parent_code'] != 'NULL' else 'NULL'
+        if parent_code != 'NULL':
+            parent_code = f"'{parent_code}'"
+        insert = f"INSERT INTO system_codes (code, title, parent_code) VALUES ('{code}', '{title}', {parent_code});"
+        insert_statements.append(insert)
+
+# Escribir las sentencias INSERT en un archivo SQL
+with open('insert_system_codes.sql', 'w', encoding='utf-8') as f:
+    for stmt in insert_statements:
+        f.write(stmt + '\n')
+
+print("Archivo insert_system_codes.sql generado exitosamente.")
+```
+
+Este script lee un archivo `system_codes.csv` y genera un archivo `insert_system_codes.sql` con todas las sentencias `INSERT` necesarias.
+
+## 2. Validación de la Integridad Referencial
+
+Asegúrate de que todos los `parent_code` referencien códigos que ya existen en la tabla. Puedes realizar una validación antes de la inserción masiva para evitar errores de clave foránea.
+
+### Consulta de Validación
+
+```sql
+-- Encontrar parent_code que no existen en la tabla
+SELECT DISTINCT parent_code
+FROM system_codes
+WHERE parent_code IS NOT NULL
+  AND parent_code NOT IN (SELECT code FROM system_codes);
+```
+
+Si esta consulta devuelve resultados, significa que hay `parent_code` que no tienen un correspondiente `code` en la tabla, lo cual causará errores al intentar insertar.
+
+## 3. Optimización y Mejora del Rendimiento
+
+### Índices Adicionales
+
+Además del índice en `parent_code`, podrías considerar agregar índices en otros campos si planeas realizar consultas frecuentes sobre ellos.
+
+```sql
+-- Crear un índice para el campo title
+CREATE INDEX idx_title ON system_codes(title);
+```
+
+### Uso de Transacciones
+
+Al realizar inserciones masivas, es recomendable utilizar transacciones para asegurar la atomicidad de las operaciones.
+
+```sql
+BEGIN TRANSACTION;
+
+-- Tus sentencias INSERT aquí
+
+COMMIT;
+```
+
+En caso de que ocurra un error durante la inserción, puedes hacer un `ROLLBACK` para revertir los cambios.
+
+## 4. Manejo Avanzado de la Jerarquía
+
+### Consultas Recursivas
+
+Como mencionaste, puedes utilizar CTEs recursivos para manejar consultas que involucren la jerarquía completa. A continuación, un ejemplo más detallado:
+
+```sql
+WITH RECURSIVE hierarchy AS (
+    SELECT code, title, parent_code, 1 AS level
+    FROM system_codes
+    WHERE parent_code IS NULL
+    UNION ALL
+    SELECT sc.code, sc.title, sc.parent_code, h.level + 1
+    FROM system_codes sc
+    INNER JOIN hierarchy h ON sc.parent_code = h.code
+)
+SELECT * FROM hierarchy
+ORDER BY level, parent_code, code;
+```
+
+Este CTE recursivo obtiene todos los niveles de la jerarquía, asignando un nivel numérico a cada registro.
+
+### Modelos Alternativos
+
+Si tu aplicación requiere manejar jerarquías muy profundas o realizar operaciones complejas, podrías considerar modelos alternativos como **Nested Sets** o utilizar bases de datos que soporten tipos de datos jerárquicos de manera nativa.
+
+## 5. Consideraciones Finales
+
+### Respaldo de Datos
+
+Antes de realizar inserciones masivas, asegúrate de tener un respaldo de tu base de datos para evitar pérdidas de información en caso de errores.
+
+### Documentación
+
+Mantén una documentación actualizada de los códigos y su jerarquía para facilitar el mantenimiento y futuras expansiones de la base de datos.
+
+### Seguridad
+
+Asegura que solo usuarios autorizados tengan permisos para insertar, actualizar o eliminar registros en la tabla `system_codes` para mantener la integridad de los datos.
+
+---
+
+Si tienes una lista completa de códigos y necesitas ayuda para generar todas las sentencias `INSERT` o si deseas asistencia en alguna otra parte del proceso, no dudes en proporcionarme más detalles y estaré encantado de ayudarte.
+```
+
+## 3. Consideraciones Adicionales
+
+### a. Inserción Masiva de Datos
+
+Dado el gran volumen de datos, puedes considerar preparar un archivo CSV con todas las etiquetas y utilizar herramientas como `LOAD DATA` en MySQL o `COPY` en PostgreSQL para realizar una inserción masiva. A continuación, se muestra un ejemplo de cómo estructurar el archivo CSV:
+
+**system_codes.csv**
+```
+code,title,parent_code
+11,Placards and Markings,NULL
+1100,Placards and Markings,11
+12,Servicing,NULL
+1210,Fuel Servicing,12
+1220,Oil Servicing,12
+...
+```
+
+Luego, utilizarías una sentencia SQL similar a la siguiente para importar los datos:
+
+**Para MySQL:**
+```sql
+LOAD DATA INFILE 'path/to/system_codes.csv'
+INTO TABLE system_codes
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(code, title, parent_code);
+```
+
+**Para PostgreSQL:**
+```sql
+COPY system_codes(code, title, parent_code)
+FROM '/path/to/system_codes.csv'
+DELIMITER ','
+CSV HEADER;
+```
+
+### b. Índices y Optimización
+
+Para mejorar el rendimiento de las consultas, especialmente si la base de datos crecerá considerablemente, considera agregar índices adicionales según sea necesario. Por ejemplo:
+
+```sql
+-- Crear un índice para parent_code
+CREATE INDEX idx_parent_code ON system_codes(parent_code);
+```
+
+### c. Manejo de la Jerarquía
+
+Si necesitas realizar consultas que involucren la jerarquía completa (por ejemplo, obtener todos los hijos de un padre), podrías considerar utilizar extensiones o modelos específicos para manejar árboles en SQL, como el modelo de **Adjacency List** (que estamos usando) o **Nested Sets**. Alternativamente, en bases de datos que lo soporten, podrías utilizar **CTE recursivos** para manejar estas estructuras.
+
+**Ejemplo de consulta recursiva en PostgreSQL:**
+
+```sql
+WITH RECURSIVE subordinates AS (
+    SELECT code, title, parent_code
+    FROM system_codes
+    WHERE code = '21' -- Código raíz
+    UNION ALL
+    SELECT sc.code, sc.title, sc.parent_code
+    FROM system_codes sc
+    INNER JOIN subordinates s ON sc.parent_code = s.code
+)
+SELECT * FROM subordinates;
+```
+
+Este ejemplo obtendría todos los sistemas y componentes bajo el código `21` (Air Conditioning).
+
+## 4. Resumen
+
+- **Tabla Única**: Utilizamos una sola tabla `system_codes` para almacenar todos los códigos y sus títulos, manteniendo la relación jerárquica mediante el campo `parent_code`.
+- **Inserción de Datos**: Se proporcionaron ejemplos de sentencias `INSERT` y una metodología para inserción masiva utilizando archivos CSV.
+- **Optimización**: Se sugirió la creación de índices adicionales para mejorar el rendimiento.
+- **Manejo de Jerarquía**: Se explicó cómo realizar consultas recursivas para manejar la estructura jerárquica.
+
+Esta estructura te permitirá gestionar eficientemente las etiquetas y sus relaciones dentro de una base de datos SQL. Si tienes alguna pregunta adicional o necesitas ayuda con aspectos específicos de la implementación, no dudes en preguntar.
 
 ---
 
