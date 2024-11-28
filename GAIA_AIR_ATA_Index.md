@@ -1,4 +1,4 @@
-```markdown
+
 # Índice de Contenidos Dinámico y Evolutivo para la Aviación del Futuro (Versión 1.3)
 
 *Actualizado a noviembre de 2024*
