@@ -1,54 +1,7 @@
-# GAIA AIR
-# ChatQuantum
-# ROBBBOTX
-# EPIC-DM
-# TERRABRAIN
-# GREENTRACK
-# QUADRATIC AGI
-# TERRAQUANTUM
-# NEURONBIT ALGORITHMS
-# AMPEL
-# PERCEPTRON 
+El archivo Markdown con la documentación completa está listo. Puedes descargarlo usando el siguiente enlace:
 
-# GAIA AIR Documentation
+[Descargar GAIA_AIR_Documentation.md](sandbox:/mnt/data/GAIA_AIR_Documentation.md)
 
----
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Robbbo-T/GAIA-AIR-CSDB)
-![GitHub issues](https://img.shields.io/github/issues/Robbbo-T/GAIA-AIR-CSDB)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Robbbo-T/GAIA-AIR-CSDB)
-![GitHub stars](https://img.shields.io/github/stars/Robbbo-T/GAIA-AIR-CSDB?style=social)
-
-![GAIA AIR Logo](./images/gaia_air_logo.png)
-
----
-
-## **GAIA AIR**
-
-**GAIA AIR** es un **portal cuántico** avanzado que representa la evolución de **InnovaDiva**. Esta plataforma integra inteligencia artificial (IA), computación cuántica y blockchain para transformar la industria aeronáutica, enfocándose en la sostenibilidad, eficiencia operativa y seguridad. Al evolucionar desde InnovaDiva, GAIA AIR amplía sus capacidades, incorporando tecnologías emergentes para ofrecer soluciones más robustas y avanzadas.
-
-### **Características Principales:**
-
-- **Inteligencia Artificial (IA):** Implementación de modelos avanzados de aprendizaje automático para predicción y optimización.
-- **Computación Cuántica:** Utilización de perceptrones cuánticos para mejorar la capacidad de procesamiento y resolución de problemas complejos.
-- **Blockchain:** Aseguramiento de la transparencia y seguridad en las transacciones y manejo de datos.
-- **Portal Cuántico:** Plataforma centralizada que facilita el acceso y la integración de tecnologías cuánticas con aplicaciones prácticas en la aeronáutica.
-
----
-
-## **Tabla de Contenidos**
-
-1. [Descripción General](#1-descripción-general)
-2. [Objetivos del Proyecto](#2-objetivos-del-proyecto)
-3. [Tecnologías Implementadas](#3-tecnologías-implementadas)
-4. [Capítulos ATA](#4-capítulos-ata)
-5. [Diagramas](#5-diagramas)
-6. [Próximos Pasos](#6-próximos-pasos)
-7. [Contribuciones](#7-contribuciones)
-8. [Licencia](#8-licencia)
-9. [Notas Adicionales](#9-notas-adicionales)
-10. [Contacto](#10-contacto)
 
 ---
 
@@ -245,7 +198,127 @@ INSERT INTO system_codes (code, title, parent_code) VALUES
 ('2121', 'Air Distribution Fan', '2120'),
 ('2131', 'Cabin Pressure Controller', '2130');
 
-/INSERT ¡Claro! Puedo ayudarte a continuar con la inserción de los códigos restantes o a optimizar el proceso según tus necesidades. A continuación, te proporcionaré algunos pasos adicionales y recomendaciones para manejar eficientemente la inserción y gestión de los datos en tu base de datos SQL.
+/-- Nivel 3 (Más Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2410', 'Main Electrical Power System', '24'),
+('2411', 'Battery System', '2410'),
+('2412', 'Generator System', '2410'),
+('2413', 'Inverter System', '2410'),
+('2420', 'Emergency Power System', '24'),
+('2421', 'Emergency Battery', '2420'),
+('2422', 'Emergency Generator', '2420'),
+('2430', 'Power Distribution System', '24'),
+('2431', 'AC Power Distribution', '2430'),
+('2432', 'DC Power Distribution', '2430'),
+('2440', 'Lighting Power System', '24'),
+('2441', 'Cockpit Lighting', '2440'),
+('2442', 'Cabin Lighting', '2440'),
+('2443', 'Exterior Lighting', '2440'),
+('2497', 'Electrical Power System Wiring', '24'),
+
+-- Nivel 4 (Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2431A', 'AC Bus 1', '2431'),
+('2431B', 'AC Bus 2', '2431'),
+('2431C', 'AC Emergency Bus', '2431'),
+('2432A', 'DC Bus 1', '2432'),
+('2432B', 'DC Bus 2', '2432'),
+('2432C', 'DC Emergency Bus', '2432'),
+('2441A', 'Cockpit Overhead Lighting', '2441'),
+('2441B', 'Cockpit Instrument Panel Lighting', '2441'),
+('2442A', 'Cabin Overhead Lighting', '2442'),
+('2442B', 'Cabin Side Panel Lighting', '2442'),
+('2443A', 'Navigation Lights', '2443'),
+('2443B', 'Landing Lights', '2443'),
+('2443C', 'Strobe Lights', '2443'),
+('2443D', 'Taxi Lights', '2443'),
+('2443E', 'Logo Lights', '2443'),
+('2497A', 'Main Electrical Harness', '2497'),
+('2497B', 'Auxiliary Electrical Harness', '2497');
+
+-- Nivel 3 (Más Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2410', 'Main Electrical Power System', '24'),
+('2411', 'Battery System', '2410'),
+('2412', 'Generator System', '2410'),
+('2413', 'Inverter System', '2410'),
+('2420', 'Emergency Power System', '24'),
+('2421', 'Emergency Battery', '2420'),
+('2422', 'Emergency Generator', '2420'),
+('2430', 'Power Distribution System', '24'),
+('2431', 'AC Power Distribution', '2430'),
+('2432', 'DC Power Distribution', '2430'),
+('2440', 'Lighting Power System', '24'),
+('2441', 'Cockpit Lighting', '2440'),
+('2442', 'Cabin Lighting', '2440'),
+('2443', 'Exterior Lighting', '2440'),
+('2497', 'Electrical Power System Wiring', '24');
+
+-- Nivel 4 (Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2431A', 'AC Bus 1', '2431'),
+('2431B', 'AC Bus 2', '2431'),
+('2431C', 'AC Emergency Bus', '2431'),
+('2432A', 'DC Bus 1', '2432'),
+('2432B', 'DC Bus 2', '2432'),
+('2432C', 'DC Emergency Bus', '2432'),
+('2441A', 'Cockpit Overhead Lighting', '2441'),
+('2441B', 'Cockpit Instrument Panel Lighting', '2441'),
+('2442A', 'Cabin Overhead Lighting', '2442'),
+('2442B', 'Cabin Side Panel Lighting', '2442'),
+('2443A', 'Navigation Lights', '2443'),
+('2443B', 'Landing Lights', '2443'),
+('2443C', 'Strobe Lights', '2443'),
+('2443D', 'Taxi Lights', '2443'),
+('2443E', 'Logo Lights', '2443'),
+('2497A', 'Main Electrical Harness', '2497'),
+('2497B', 'Auxiliary Electrical Harness', '2497');
+
+-- Nivel 4 (Ejemplos)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2431A', 'AC Bus 1', '2431'),
+('2431B', 'AC Bus 2', '2431'),
+('2431C', 'AC Emergency Bus', '2431'),
+('2432A', 'DC Bus 1', '2432'),
+('2432B', 'DC Bus 2', '2432'),
+('2432C', 'DC Emergency Bus', '2432'),
+('2441A', 'Cockpit Overhead Lighting', '2441'),
+('2441B', 'Cockpit Instrument Panel Lighting', '2441'),
+('2442A', 'Cabin Overhead Lighting', '2442'),
+('2442B', 'Cabin Side Panel Lighting', '2442'),
+('2443A', 'Navigation Lights', '2443'),
+('2443B', 'Landing Lights', '2443'),
+('2443C', 'Strobe Lights', '2443'),
+('2443D', 'Taxi Lights', '2443'),
+('2443E', 'Logo Lights', '2443'),
+('2497A', 'Main Electrical Harness', '2497'),
+('2497B', 'Auxiliary Electrical Harness', '2497');
+
+-- Nivel 3 (Continuación)
+INSERT INTO system_codes (code, title, parent_code) VALUES
+('2500', 'Fire Detection System', '26'),
+('2501', 'Smoke Detectors', '2500'),
+('2502', 'Heat Detectors', '2500'),
+('2503', 'Fire Suppression System', '2500'),
+('2600', 'Flight Control System', '27'),
+('2601', 'Primary Flight Controls', '2600'),
+('2602', 'Secondary Flight Controls', '2600'),
+('2700', 'Fuel System', '28'),
+('2701', 'Fuel Tanks', '2700'),
+('2702', 'Fuel Pumps', '2700'),
+('2703', 'Fuel Lines', '2700'),
+('2800', 'Fuel Management System', '28'),
+('2801', 'Fuel Level Indicator', '2800'),
+('2802', 'Fuel Flow Meter', '2800'),
+-- Agrega más inserciones según tu estructura
+;
+
+SELECT code, COUNT(*) 
+FROM system_codes 
+GROUP BY code 
+HAVING COUNT(*) > 1;
+
+
 
 ## 1. Continuación de las Sentencias `INSERT`
 
