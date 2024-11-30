@@ -2,10 +2,13 @@
 
 ## Estructura del Código:
 
-   •   Primeros 2 dígitos (XX): Capítulo principal.
-   •   Siguientes 2 dígitos (YY): Subcapítulo.
-   •   Siguientes 2 dígitos (ZZ): Sub-subcapítulo.
-   •   Últimos 2 dígitos (AA): Sub-sub-subcomponente (Detalle específico).
+### 2️⃣ digitos ▶️ Primeros 2 dígitos (XX): Capítulo principal 🔽
+
+### 4️⃣ digitos ▶️ Siguientes 2 dígitos (YY): Subcapítulo 🔽
+
+### 6️⃣ dígitos ▶️ (ZZ): Sub-subcapítulo 🔽
+
+### 6️⃣ dígitos ▶️ (AA): Sub-sub-subcomponente (Detalle específico) ⏩️
 
 # Capítulo 11: PLACARDS AND MARKINGS
 
@@ -2231,35 +2234,60 @@
 ##### 99970002 Signal Cables
 ##### 99970003 Connector Assemblies
 
-Notas Importantes:
+## **Notas Importantes**
 
-	1.	Personalización a 8 Dígitos: El estándar ATA JASC utiliza hasta 6 dígitos, pero para satisfacer las necesidades de GAIA AIR, se ha extendido a 8 dígitos. Este nivel adicional de detalle permite una categorización más específica de sub-subcomponentes.
-	2.	Consistencia y Estandarización: Asegúrate de mantener una nomenclatura consistente al asignar códigos de 8 dígitos. Esto facilita la navegación, búsqueda y mantenimiento de la documentación.
-	3.	Ilustrated Parts List (Lista de Piezas Ilustrada): Para cada sub-sub-subcomponente (8 dígitos), es recomendable crear una lista de piezas que incluya ilustraciones detalladas, códigos de parte, descripciones y cantidades necesarias. Esto agiliza el proceso de mantenimiento y reemplazo de componentes.
-	4.	Catálogo de Mantenimiento y Figuras de Instalación:
-      •   Procedimientos Detallados: Desarrolla procedimientos paso a paso para el mantenimiento y la instalación de cada componente, acompañados de figuras ilustrativas que muestren los pasos clave.
-      •   Seguridad y Precauciones: Incluye notas de seguridad y recomendaciones específicas para cada procedimiento para asegurar una manipulación segura de los componentes.
-	5.	Herramientas de Gestión de Documentación:
-      •   Software CMMS: Considera utilizar software de gestión de mantenimiento asistido por computadora (CMMS) para organizar y acceder fácilmente a las listas de piezas y los procedimientos de mantenimiento.
-      •   Formatos Digitales: Utiliza formatos digitales como Excel, Access o herramientas de documentación técnica para mantener y actualizar el índice de manera eficiente.
-	6.	Colaboración Interdepartamental:
-      •   Trabaja estrechamente con los equipos de ingeniería, mantenimiento y documentación para asegurar que todos los sistemas y componentes de GAIA AIR estén correctamente categorizados y documentados.
-      •   Realiza revisiones periódicas para incorporar nuevas tecnologías y mejoras en el sistema.
-	7.	Capacitación del Personal:
-      •   Asegúrate de que el personal de mantenimiento esté capacitado para utilizar el índice de 8 dígitos, así como las listas de piezas ilustradas y los catálogos de mantenimiento.
-      •   Proporciona sesiones de capacitación y materiales de referencia para facilitar la comprensión y utilización eficiente del índice.
-	8.	Validación con Normativas:
-      •   Verifica que cualquier adaptación y personalización del índice cumple con las normativas y estándares relevantes de la industria aeroespacial para asegurar la conformidad y la seguridad.
+1. **Personalización a 8 Dígitos:**  
+   El estándar ATA JASC utiliza hasta 6 dígitos, pero para satisfacer las necesidades de GAIA AIR, se ha extendido a 8 dígitos. Este nivel adicional de detalle permite una categorización más específica de sub-subcomponentes.
 
-Próximos Pasos:
+2. **Consistencia y Estandarización:**  
+   Asegúrate de mantener una nomenclatura consistente al asignar códigos de 8 dígitos. Esto facilita la navegación, búsqueda y mantenimiento de la documentación.
 
-	1.	Revisión y Validación: Revisa cada capítulo y subcapítulo para asegurar que todos los sistemas y sub-sistemas de GAIA AIR están correctamente categorizados y no hay omisiones importantes.
-	2.	Desarrollo de Listas de Piezas y Catálogos: Utiliza el índice proporcionado para desarrollar listas de piezas ilustradas y catálogos de mantenimiento detallados para cada sub-sub-subcomponente.
-	3.	Implementación de Herramientas de Gestión: Configura herramientas de gestión de documentación y mantenimiento para organizar y acceder fácilmente a la información.
-	4.	Capacitación y Actualización: Capacita al personal en el uso del nuevo índice y establece un proceso regular de actualización para incorporar nuevas tecnologías y mejoras.
+3. **Ilustrated Parts List (Lista de Piezas Ilustrada):**  
+   Para cada sub-sub-subcomponente (8 dígitos), es recomendable crear una lista de piezas que incluya ilustraciones detalladas, códigos de parte, descripciones y cantidades necesarias. Esto agiliza el proceso de mantenimiento y reemplazo de componentes.
 
-Conclusión
+4. **Catálogo de Mantenimiento y Figuras de Instalación:**
+   - **Procedimientos Detallados:**  
+     Desarrolla procedimientos paso a paso para el mantenimiento y la instalación de cada componente, acompañados de figuras ilustrativas que muestren los pasos clave.
+   - **Seguridad y Precauciones:**  
+     Incluye notas de seguridad y recomendaciones específicas para cada procedimiento para asegurar una manipulación segura de los componentes.
 
-La creación de un Índice ATA JASC de 8 Dígitos completo para GAIA AIR proporciona una estructura detallada y organizada que facilita el mantenimiento, la instalación y la gestión de componentes aeronáuticos avanzados. Este enfoque no solo mejora la eficiencia operativa, sino que también asegura la conformidad con los estándares de la industria y promueve una aviación más segura y sostenible.
+5. **Herramientas de Gestión de Documentación:**
+   - **Software CMMS:**  
+     Considera utilizar software de gestión de mantenimiento asistido por computadora (CMMS) para organizar y acceder fácilmente a las listas de piezas y los procedimientos de mantenimiento.
+   - **Formatos Digitales:**  
+     Utiliza formatos digitales como Excel, Access o herramientas de documentación técnica para mantener y actualizar el índice de manera eficiente.
 
-Si necesitas asistencia adicional para desarrollar secciones específicas, crear plantillas personalizadas o integrar tecnologías avanzadas de GAIA AIR dentro de este índice, no dudes en indicármelo. ¡Estoy aquí para ayudarte en todo lo que necesites!
+6. **Colaboración Interdepartamental:**
+   - **Trabajo en Equipo:**  
+     Trabaja estrechamente con los equipos de ingeniería, mantenimiento y documentación para asegurar que todos los sistemas y componentes de GAIA AIR estén correctamente categorizados y documentados.
+   - **Revisiones Periódicas:**  
+     Realiza revisiones periódicas para incorporar nuevas tecnologías y mejoras en el sistema.
+
+7. **Capacitación del Personal:**
+   - **Entrenamiento en el Índice:**  
+     Asegúrate de que el personal de mantenimiento esté capacitado para utilizar el índice de 8 dígitos, así como las listas de piezas ilustradas y los catálogos de mantenimiento.
+   - **Materiales de Referencia:**  
+     Proporciona sesiones de capacitación y materiales de referencia para facilitar la comprensión y utilización eficiente del índice.
+
+8. **Validación con Normativas:**
+   - **Conformidad Regulatoria:**  
+     Verifica que cualquier adaptación y personalización del índice cumple con las normativas y estándares relevantes de la industria aeroespacial para asegurar la conformidad y la seguridad.
+
+## **Próximos Pasos**
+
+1. **Revisión y Validación:**  
+   Revisa cada capítulo y subcapítulo para asegurar que todos los sistemas y sub-sistemas de GAIA AIR están correctamente categorizados y no hay omisiones importantes.
+
+2. **Desarrollo de Listas de Piezas y Catálogos:**  
+   Utiliza el índice proporcionado para desarrollar listas de piezas ilustradas y catálogos de mantenimiento detallados para cada sub-sub-subcomponente.
+
+3. **Implementación de Herramientas de Gestión:**  
+   Configura herramientas de gestión de documentación y mantenimiento para organizar y acceder fácilmente a la información.
+
+4. **Capacitación y Actualización:**  
+   Capacita al personal en el uso del nuevo índice y establece un proceso regular de actualización para incorporar nuevas tecnologías y mejoras.
+
+## **Conclusión**
+
+La creación de un **Índice ATA JASC de 8 Dígitos** completo para **GAIA AIR** proporciona una estructura detallada y organizada que facilita el mantenimiento, la instalación y la gestión de componentes aeronáuticos avanzados. Este enfoque no solo mejora la eficiencia operativa, sino que también asegura la conformidad con los estándares de la industria y promueve una aviación más segura y sostenible.
+
