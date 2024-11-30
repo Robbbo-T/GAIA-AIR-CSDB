@@ -8,8 +8,8 @@
   },
   "author": "Robbbo-T",
   "license": "ISC",
-  "dependencies": {
-    // 
+  "dependencies": { }
+}
 {
   "name": "gaia-air-csdb",
   "version": "1.0.0",
@@ -20,8 +20,7 @@
   },
   "author": "Robbbo-T",
   "license": "ISC",
-  "dependencies": {
-    // Add your dependencies here
+  "dependencies": {Add your dependencies here
   }
 }
 
