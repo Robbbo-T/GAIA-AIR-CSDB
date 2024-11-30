@@ -105,10 +105,6 @@ El siguiente ejemplo proporciona una representación XML detallada de la codific
 3. **Integración en Plataformas de Gestión**:
    - Conectar este XML con herramientas como SAP o sistemas ERP para automatizar la gestión de partes y recursos.
 
-¿Quieres ayuda para crear un esquema XSD o integrar esta lista en un flujo de trabajo automatizado? ¡Estoy listo para colaborar!
-
-¡Claro! A continuación, te proporciono un esquema XSD detallado y corregido que valida el XML estructurado que has compartido. Este esquema asegura que tu documento XML cumpla con las reglas definidas, facilitando la integridad y consistencia de los datos dentro del sistema DIFFUSP.
-
 Esquema XSD para Validación del XML de CSN
 
 <?xml version="1.0" encoding="UTF-8"?>
