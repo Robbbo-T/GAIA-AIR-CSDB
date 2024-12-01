@@ -2867,6 +2867,9 @@
 
 ## **Notas Importantes**
 
+![image](https://github.com/user-attachments/assets/541b6c2f-56f6-44b0-a8c3-c1fa1f98cbbc)
+
+
 1. **Personalización a 8 Dígitos:**  
    El estándar ATA JASC utiliza hasta 6 dígitos, pero para satisfacer las necesidades de GAIA AIR, se ha extendido a 8 dígitos. Este nivel adicional de detalle permite una categorización más específica de sub-subcomponentes.
 
