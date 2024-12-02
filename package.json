@@ -1,0 +1,18 @@
+{
+  "name": "gaia-air-csdb",
+  "version": "1.0.0",
+  "description": "Documentación Técnica y Digitalizada by GAIA AIR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbbo-T",
+  "license": "ISC",
+  "dependencies": {
+    // Aquí debes listar las dependencias reales de tu proyecto.
+    // Por ejemplo:
+    // "express": "^4.17.1",
+    // "mongoose": "^5.10.9"
+  }
+}
+
