@@ -9,10 +9,6 @@
   "author": "Robbbo-T",
   "license": "ISC",
   "dependencies": {
-    // Aquí debes listar las dependencias reales de tu proyecto.
-    // Por ejemplo:
-    // "express": "^4.17.1",
-    // "mongoose": "^5.10.9"
   }
 }
 
