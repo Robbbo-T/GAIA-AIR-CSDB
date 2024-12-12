@@ -1,0 +1,14 @@
+{
+  "name": "gaia-air-csdb",
+  "version": "1.0.0",
+  "description": "Documentación Técnica y Digitalizada by GAIA AIR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbbo-T",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
+
