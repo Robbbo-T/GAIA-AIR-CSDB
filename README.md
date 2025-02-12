@@ -1159,29 +1159,29 @@ This part of the COAFI document contains all documentation related to the AMPEL3
 ##### 2.1.3 AMPEL360XWLRGA Maintenance Manuals:
 [Back to Section 2.1](#21-ampel360xwlrga-advanced-aircraft-systems) | [Back to Part II](#part-ii-gaia-pulse-air-modules-gpam---atmospheric-operations) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
 **P/N:** GPAM-AMPEL-0201-MAINT *(Section P/N)*
-*   📄 **IN:** GPAM-AMPEL-0201-MAINT-0001 - **[AMPEL360XWLRGA Aircraft Maintenance Manual (AMM) (S100D)](docs/GPAM/GPAM-AMPEL-0201-MAINT-0001-A.md)**
+*   📄 **IN:** GPAM-AMPEL-0201-MAINT-0001 - **[AMPEL360XWLRGA Aircraft Maintenance Manual (AMM) (S1000D)](docs/GPAM/GPAM-AMPEL-0201-MAINT-0001-A.md)**
         *   **DMC:** *(Multiple DMCs, structured according to ATA chapters - see examples in description)*
         *   **Document:** GPAM-AMPEL-0201-MAINT-0001-A.md
 
-*   📄 **IN:** GPAM-AMPEL-0201-MAINT-0002 - **[AMPEL360XWLRGA Component Maintenance Manuals (CMM) (S100D)](docs/GPAM/GPAM-AMPEL-0201-MAINT-0002-A.md)**
+*   📄 **IN:** GPAM-AMPEL-0201-MAINT-0002 - **[AMPEL360XWLRGA Component Maintenance Manuals (CMM) (S1000D)](docs/GPAM/GPAM-AMPEL-0201-MAINT-0002-A.md)**
         *   **DMC:** *(Multiple DMCs, organized by component or system - see examples in description)*
         *   **Document:** GPAM-AMPEL-0201-MAINT-0002-A.md
 
-*   📄 **IN:** GPAM-AMPEL-0201-MAINT-0003 - **[AMPEL360XWLRGA Troubleshooting Manual (TSM) (S100D)](docs/GPAM/GPAM-AMPEL-0201-MAINT-0003-A.md)**
+*   📄 **IN:** GPAM-AMPEL-0201-MAINT-0003 - **[AMPEL360XWLRGA Troubleshooting Manual (TSM) (S1000D)](docs/GPAM/GPAM-AMPEL-0201-MAINT-0003-A.md)**
         *   **DMC:** *(Multiple DMCs, structured according to ATA chapters or systems - see examples in description)*
         *   **Document:** GPAM-AMPEL-0201-MAINT-0003-A.md
 
 ##### 2.1.4 AMPEL360XWLRGA Illustrated Parts Catalog:
 [Back to Section 2.1](#21-ampel360xwlrga-advanced-aircraft-systems) | [Back to Part II](#part-ii-gaia-pulse-air-modules-gpam---atmospheric-operations) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
 **P/N:** GPAM-AMPEL-0201-IPD *(Section P/N)*
-*   📄 **IN:** GPAM-AMPEL-0201-IPD-0001 - **[AMPEL360XWLRGA Illustrated Parts Data (IPD) (S100D)](docs/GPAM/GPAM-AMPEL-0201-IPD-0001-A.md)**
+*   📄 **IN:** GPAM-AMPEL-0201-IPD-0001 - **[AMPEL360XWLRGA Illustrated Parts Data (IPD) (S1000D)](docs/GPAM/GPAM-AMPEL-0201-IPD-0001-A.md)**
         *   **DMC:** *(Multiple DMCs, structured according to ATA chapters - see examples in description)*
         *   **Document:** GPAM-AMPEL-0201-IPD-0001-A.md
 
 ##### 2.1.5 AMPEL360XWLRGA Wiring and Schematics:
 [Back to Section 2.1](#21-ampel360xwlrga-advanced-aircraft-systems) | [Back to Part II](#part-ii-gaia-pulse-air-modules-gpam---atmospheric-operations) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
 **P/N:** GPAM-AMPEL-0201-WIRE *(Section P/N)*
-*   📄 **IN:** GPAM-AMPEL-0201-WIRE-0001 - **[AMPEL360XWLRGA Wiring and Schematics Manual (WSM) (S100D)](docs/GPAM/GPAM-AMPEL-0201-WIRE-0001-A.md)**
+*   📄 **IN:** GPAM-AMPEL-0201-WIRE-0001 - **[AMPEL360XWLRGA Wiring and Schematics Manual (WSM) (@S1000D)](docs/GPAM/GPAM-AMPEL-0201-WIRE-0001-A.md)**
         *   **DMC:** *(Multiple DMCs, structured according to ATA chapters - see examples in description)*
         *   **Document:** GPAM-AMPEL-0201-WIRE-0001-A.md
 
