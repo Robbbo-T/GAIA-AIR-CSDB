@@ -1,4 +1,1349 @@
-![image](https://github.com/user-attachments/assets/bd7abda3-34aa-47de-a106-3355d843284c)
+![image](https://githubCosmic Omnidevelopable Aero Foresights Index (COAFI) - Complete Table of Contents
+
+```markdown
+Cosmic Omnidevelopable Aero Foresights Index (COAFI) - Complete Table of Contents
+
+Part 0: GAIA AIR - General and Governance (GP-GG)
+
+0.1 Project Charter and Governance
+
+0.2 Vision, Mission, Values, and Ethics
+
+0.3 Project History
+
+0.4 Current Project Status and Short/Mid Term Objectives
+
+0.5 Open Initiatives and Community Engagement
+
+Part I: GAIA PULSE ID (GP-ID) - Core Project Identity
+
+1.1 Vision, Mission, and Values
+
+1.2 Project History and Evolution
+
+1.3 Current Status and Objectives
+
+1.4 Future Directions and Foresights
+
+1.5 Ethical Considerations & Framework
+
+1.6 "Cosmic Index" Introduction and User Guide
+
+1.7 ML-P Integration
+
+1.8 Open Skyway Initiative
+
+1.9 Future Concepts and Initiatives
+
+1.10 Numbering and Naming
+
+Part II: GAIA PULSE AIR MODULES (GPAM) - Atmospheric Operations
+
+2.1 AMPEL360XWLRGA (Advanced Aircraft Systems)
+
+Part III: GAIA PULSE SPACE MODULES (GPSM) - Orbital and Space Operations
+
+Part IV: GAIA PULSE PROPULSION MODULES (GPPM) - Propulsion Technologies
+
+Part V: GAIA PULSE GREENTECH & AERO COMMON MODULES (GPGM)
+
+Part VI: Project Management and Operations
+
+Part VII: Documentation and Knowledge Management
+
+Part VIII: Appendices
+    8.1 Glossary of Terms and Abbreviations  *(Added Glossary to Appendices)*
+
+Part IX: GAIA GALACTIC MINING OPERATIONS (GGMO)
+
+Part 0: GAIA AIR - General and Governance (GP-GG)
+
+Part Name: Project Foundation & Governance
+
+0.1 Project Charter and Governance
+
+Section Name: Governance Documents
+
+IN: GP-GG-CHRT-0101-001-A - GAIA AIR Project Charter
+* Document: GP-GG-CHRT-0101-001-A.md
+* Content: [Placeholder]
+
+IN: GP-GG-GOV-0101-002-A - GAIA AIR Governance Structure and Processes
+* Document: GP-GG-GOV-0101-002-A.md
+* Content: [Placeholder]
+
+IN: GP-GG-RISK-0101-003-A - GAIA AIR Risk Management Framework
+* Document: GP-GG-RISK-0101-003-A.md
+* Content: [Placeholder]
+
+IN: GP-GG-COMM-0101-004-A - GAIA AIR Communication Plan
+* Document: GP-GG-COMM-0101-004-A.md
+* Content: [Placeholder]
+
+0.2 Vision, Mission, Values, and Ethics
+
+Section Name: Core Identity
+
+IN: GP-ID-VIS-0101-001-A - Long-Term Vision Statement
+* Document: GP-ID-VIS-0101-001-A.md
+* Content: [Link]
+
+IN: GP-ID-VIS-0101-002-A - Core Principles and Values
+* Document: GP-ID-VIS-0101-002-A.md
+* Content: [Link]
+
+IN: GP-ID-VIS-0101-003-A - Sustainability Commitment
+* Document: GP-ID-VIS-0101-003-A.md
+* Content: [Link]
+
+IN: GP-ID-VIS-0101-004-A - Technological Innovation Goals
+* Document: GP-ID-VIS-0101-004-A.md
+* Content: [Link]
+
+IN: GP-ID-VIS-0101-005-A - Community and Societal Impact
+* Document: GP-ID-VIS-0101-005-A.md
+* Content: [Link]
+
+IN: GP-ID-VIS-0101-006-A - Future-Forward Scalability
+* Document: GP-ID-VIS-0101-006-A.md
+* Content: [Link]
+
+IN: GP-ID-VIS-0101-007-A - Diversity and Inclusion Framework
+* Document: GP-ID-VIS-0101-007-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-VIS-0101-008-A - Global Partnership Strategy
+* Document: GP-ID-VIS-0101-008-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-ETH-0105-001-A - Ethics by Design Principles
+* Document: GP-ID-ETH-0105-001-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-ETH-0105-002-A - AI Ethics Guidelines
+* Document: GP-ID-ETH-0105-002-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-ETH-0105-003-A - Quantum Technology Ethics
+* Document: GP-ID-ETH-0105-003-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-ETH-0105-004-A - Data Privacy Ethics Framework
+* Document: GP-ID-ETH-0105-004-A.md
+* Content: [Placeholder]
+
+0.3 Project History
+
+Section Name: Project History & Background
+
+IN: GP-ID-HIST-0102-001-A - Founding Principles and Early Concepts
+* Document: GP-ID-HIST-0102-001-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-HIST-0102-002-A - Major Technological Milestones
+* Document: GP-ID-HIST-0102-002-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-HIST-0102-003-A - Roadmap Evolution
+* Document: GP-ID-HIST-0102-003-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-HIST-0102-004-A - Legacy System Analysis
+* Document: GP-ID-HIST-0102-004-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-HIST-0102-005-A - Stakeholder Collaboration History
+* Document: GP-ID-HIST-0102-005-A.md
+* Content: [Placeholder]
+
+0.4 Current Project Status and Short/Mid Term Objectives
+
+Section Name: Project Status & Objectives
+
+IN: GP-ID-STAT-0103-001-A - Current Project Status Report
+* Document: GP-ID-STAT-0103-001-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-STAT-0103-002-A - Short-Term Objectives (1-2 years)
+* Document: GP-ID-STAT-0103-002-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-STAT-0103-003-A - Mid-Term Objectives (2-5 years)
+* Document: GP-ID-STAT-0103-003-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-STAT-0103-004-A - Risk Assessment Report
+* Document: GP-ID-STAT-0103-004-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-STAT-0103-005-A - Financial Status Summary
+* Document: GP-ID-STAT-0103-005-A.md
+* Content: [Placeholder]
+
+0.5 Open Skyway Initiative
+
+Section Name: Open Skyway Initiative
+
+IN: GP-ID-OPENSKY-0108-001-A - Open Skyway Initiative Charter
+* Document: GP-ID-OPENSKY-0108-001-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-OPENSKY-0108-002-A - Open Skyway Community Engagement Plan
+* Document: GP-ID-OPENSKY-0108-002-A.md
+* Content: [Placeholder]
+
+IN: GP-ID-OPENSKY-0108-003-A - Open Skyway Technical Standards
+* Document: GP-ID-OPENSKY-0108-003-A.md
+* Content: [Placeholder]
+
+Part VII: Documentation and Knowledge Management
+    Section Name: Documentation Processes and Standards
+        IN: GP-DOC-PROC-0701-001-A - Documentation Version Control Procedures *(Added Version Control Note)*
+            * Document: GP-DOC-PROC-0701-001-A.md
+            * Content: [Placeholder: Document outlining version control strategy using Git or similar system.]
+
+Part II: GAIA PULSE AIR MODULES (GPAM) - Atmospheric Operations
+
+2.1 AMPEL360XWLRGA (Advanced Aircraft Systems)
+
+Section Name: AMPEL360XWLRGA Aircraft
+
+Aircraft Type Designation: AMPEL-360
+
+P/N (Top-Level Assembly): GAIAPULSE-AM-ASSY-00001-Q
+
+2.1.1 ATA Chapters
+
+P/N: GPAM-AMPEL-0201-ATA
+
+2.1.1.A ATA 05 - Time Limits/Maintenance Checks
+
+P/N: GPAM-AMPEL-0201-05 (Section P/N)
+
+IN: GPAM-AMPEL-0201-05-001 - Scheduled Maintenance Program (S100D)
+* DMC: DMC-GAIAPULSE-AMPEL-0201-05-001-A-001-00_EN-US
+* Document: GPAM-AMPEL-0201-05-001-A.md
+
+IN: GPAM-AMPEL-0201-05-002 - Maintenance Time Limits (S100D)
+* DMC: DMC-GAIAPULSE-AMPEL-0201-05-002-A-001-00_EN-US
+* Document: GPAM-AMPEL-0201-05-002-A.md
+
+IN: GPAM-AMPEL-0201-05-003 - Airworthiness Limitations (S100D)
+* DMC: DMC-GAIAPULSE-AMPEL-0201-05-003-A-001-00_EN-US
+* Document: GPAM-AMPEL-0201-05-003-A.md
+
+2.1.1.B ATA 06 - Dimensions and Areas
+
+P/N: GPAM-AMPEL-0201-06 (Section P/N)
+
+IN: GPAM-AMPEL-0201-06-001-A - Aircraft Dimensions and Stations (S100D)
+* DMC: DMC-GAIAPULSE-AMPEL-0201-06-001-A-001-00_EN-US
+* Document: GPAM-AMPEL-0201-06-001-A.md
+* PDR: PDR-GAIAPULSE-AMPEL-0201-06-001
+* PBS: PBS-GAIAPULSE-AMPEL-0201-06-001
+* BOM: BOM-GAIAPULSE-AMPEL-0201-06-001
+
+IN: GPAM-AMPEL-0201-06-002-A - Compartment Layout and Dimensions (S100D)
+* DMC: DMC-GAIAPULSE-AMPEL-0201-06-002-A-001-00_EN-US
+* Document: GPAM-AMPEL-0201-06-002-A.md
+* PDR: PDR-GAIAPULSE-AMPEL-0201-06-002
+* PBS: PBS-GAIAPULSE-AMPEL-0201-06-002
+* BOM: BOM-GAIAPULSE-AMPEL-0201-06-002
+
+IN: GPAM-AMPEL-0201-06-003-A - AMPEL360XWLRGA Measurement Point Definitions
+* DMC: DMC-GAIAPULSE-AMPEL-0201-06-003-A-001-00_EN-US
+* Document: GPAM-AMPEL-0201-06-003-A.md
+* PDR: PDR-GAIAPULSE-AMPEL-0201-06-003
+* PBS: PBS-GAIAPULSE-AMPEL-0201-06-003
+* BOM: BOM-GAIAPULSE-AMPEL-0201-06-003
+
+2.1.1.C ATA 07 - Lifting and Shoring
+
+P/N: GPAM-AMPEL-0201-07 (Section P/N)
+
+IN: GPAM-AMPEL-0201-07-001 - Lifting Procedures and Diagrams (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-07-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-07-001-A.md
+
+IN: GPAM-AMPEL-0201-07-002 - Shoring Procedures and Diagrams (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-07-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-07-002-A.md
+
+2.1.1.D ATA 08 - Leveling and Weighing
+
+P/N: GPAM-AMPEL-0201-08 (Section P/N)
+
+IN: GPAM-AMPEL-0201-08-001 - Leveling Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-08-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-08-001-A.md
+
+IN: GPAM-AMPEL-0201-08-002 - Aircraft Weighing Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-08-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-08-002-A.md
+
+2.1.1.E ATA 09 - Towing and Taxiing
+
+P/N: GPAM-AMPEL-0201-09 (Section P/N)
+
+IN: GPAM-AMPEL-0201-09-001 - Towing Procedures (S100D)
+   * DMC: DMC-GAIAPULSE-AMPEL-0201-09-001-A-001-00_EN-US
+   * Document: GPAM-AMPEL-0201-09-001-A.md
+
+IN: GPAM-AMPEL-0201-09-002 - Taxiing Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-09-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-09-002-A.md
+
+2.1.1.F ATA 10 - Parking, Mooring, Storage and Return to Service
+
+P/N: GPAM-AMPEL-0201-10 (Section P/N)
+
+IN: GPAM-AMPEL-0201-10-001 - Parking Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-10-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-10-001-A.md
+IN: GPAM-AMPEL-0201-10-002 - Mooring Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-10-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-10-002-A.md
+IN: GPAM-AMPEL-0201-10-003 - Storage Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-10-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-10-003-A.md
+IN: GPAM-AMPEL-0201-10-004 - Return to Service Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-10-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-10-004-A.md
+IN: GPAM-AMPEL-0201-10-005 - Return to Service Checklists (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-10-005-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-10-005-A.md
+2.1.1.G ATA 11 - Placards and Markings
+
+P/N: GPAM-AMPEL-0201-11 (Section P/N)
+
+IN: GPAM-AMPEL-0201-11-001 - Exterior Placards and Markings (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-11-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-11-001-A.md
+IN: GPAM-AMPEL-0201-11-002 - Interior Placards and Markings (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-11-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-11-002-A.md
+
+2.1.1.H ATA 12 - Servicing
+
+P/N: GPAM-AMPEL-0201-12 (Section P/N)
+
+IN: GPAM-AMPEL-0201-12-001 - Servicing Procedures (S100D)
+     * DMC: DMC-GAIAPULSE-AMPEL-0201-12-001-A-001-00_EN-US
+     * Document: GPAM-AMPEL-0201-12-001-A.md
+IN: GPAM-AMPEL-0201-12-002 - Servicing Equipment List (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-12-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-12-002-A.md
+IN: GPAM-AMPEL-0201-12-003 - Cold Weather Maintenance Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-12-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-12-003-A.md
+2.1.1.I ATA 20 - Standard Practices - Airframe systems
+
+P/N: GPAM-AMPEL-0201-20 (Section P/N)
+
+IN: GPAM-AMPEL-0201-20-001-A - Torque Values & Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-20-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-20-001-A.md
+
+IN: GPAM-AMPEL-0201-20-002-A - Electrical Bonding Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-20-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-20-002-A.md
+
+2.1.1.J ATA 21 - Air Conditioning:
+
+P/N: GPAM-AMPEL-0201-21 (Section P/N)
+
+IN: GPAM-AMPEL-0201-21-001-A - Air Conditioning System Schematics (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-21-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-21-001-A.md
+
+IN: GPAM-AMPEL-0201-21-002-A - Cabin Temperature Control System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-21-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-21-002-A.md
+
+IN: GPAM-AMPEL-0201-21-003-A - Air Source Selection and Configuration (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-21-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-21-003-A.md
+
+2.1.1.K ATA 22 - Auto Flight:
+
+P/N: GPAM-AMPEL-0201-22 (Section P/N)
+
+IN: GPAM-AMPEL-0201-22-001-A - Flight Control Computer Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-22-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-22-001-A.md
+
+IN: GPAM-AMPEL-0201-22-002-A - Autopilot Modes and Functions (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-22-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-22-002-A.md
+
+IN: GPAM-AMPEL-0201-22-003-A - Flight Director System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-22-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-22-003-A.md
+
+IN: GPAM-AMPEL-0201-22-004-A - Optimized Influence Protocol (OIP) for Pilot-Aircraft Synergy (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-22-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-22-004-A.md
+2.1.1.L ATA 23 - Communications:
+
+P/N: GPAM-AMPEL-0201-23 (Section P/N)
+
+IN: GPAM-AMPEL-0201-23-001-A - VHF/UHF Radio Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-23-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-23-001-A.md
+
+IN: GPAM-AMPEL-0201-23-002-A - Satellite Communication System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-23-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-23-002-A.md
+
+IN: GPAM-AMPEL-0201-23-003-A - Emergency Locator Transmitter (ELT) Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-23-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-23-003-A.md
+
+2.1.1.M ATA 24 - Electrical Power:
+
+P/N: GPAM-AMPEL-0201-24 (Section P/N)
+
+IN: GPAM-AMPEL-0201-24-001-A - Primary Power Generation System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-24-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-24-001-A.md
+
+IN: GPAM-AMPEL-0201-24-002-A - Power Distribution Schematics (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-24-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-24-002-A.md
+
+IN: GPAM-AMPEL-0201-24-003-A - Emergency Power System (Backup Batteries) (S100D) *(Consistent "Emergency Power System" naming)*
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-24-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-24-003-A.md
+
+2.1.1.N ATA 25 - Equipment / Furnishings:
+
+P/N: GPAM-AMPEL-0201-25 (Section P/N)
+
+IN: GPAM-AMPEL-0201-25-001-A - Passenger Seat Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-25-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-25-001-A.md
+
+IN: GPAM-AMPEL-0201-25-002-A - Galley Equipment Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-25-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-25-002-A.md
+IN: GPAM-AMPEL-0201-25-003-A - Lavatory System Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-25-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-25-003-A.md
+
+2.1.1.O ATA 26 - Fire Protection:
+
+P/N: GPAM-AMPEL-0201-26 (Section P/N)
+
+IN: GPAM-AMPEL-0201-26-001-A - Fire Detection System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-26-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-26-001-A.md
+
+IN: GPAM-AMPEL-0201-26-002-A - Fire Suppression System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-26-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-26-002-A.md
+
+2.1.1.P ATA 27 - Flight Controls:
+
+P/N: GPAM-AMPEL-0201-27 (Section P/N)
+
+IN: GPAM-AMPEL-0201-27-001-A - Primary Flight Control System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-27-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-27-001-A.md
+IN: GPAM-AMPEL-0201-27-002-A - Secondary Flight Control System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-27-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-27-002-A.md
+IN: GPAM-AMPEL-0201-27-003-A - High-Lift System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-27-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-27-003-A.md
+
+2.1.1.Q ATA 28 - Fuel:
+
+P/N: GPAM-AMPEL-0201-28 (Section P/N)
+
+IN: GPAM-AMPEL-0201-28-001-A - Fuel System Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-28-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-28-001-A.md
+IN: GPAM-AMPEL-0201-28-002-A - Fuel Tanks Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-28-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-28-002-A.md
+IN: GPAM-AMPEL-0201-28-003-A - Fuel Pumps and Distribution System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-28-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-28-003-A.md
+IN: GPAM-AMPEL-0201-28-004-A - Refueling Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-28-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-28-004-A.md
+
+2.1.1.Q.1  Alternative Energy Harvesting and Control System (AEHCS) *(Added AEHCS Sub-section)*
+    * P/N: GPAM-AMPEL-0201-28-Q (Section P/N)
+    IN: GPAM-AMPEL-0201-28-Q1-001 - AEHCS System Overview and Architecture (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q1-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q1-001-A.md
+    IN: GPAM-AMPEL-0201-28-Q2-003 - TENGs Integration and Performance (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q2-003-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q2-003-A.md
+    IN: GPAM-AMPEL-0201-28-Q2-004 - Piezoelectric Energy Harvesters Integration and Performance (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q2-004-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q2-004-A.md
+    IN: GPAM-AMPEL-0201-28-Q2-005 - Concave Solar Panels Design and Performance (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q2-005-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q2-005-A.md
+    IN: GPAM-AMPEL-0201-28-Q4-002 - Cryogenic System Integration (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q4-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q4-002-A.md
+    IN: GPAM-AMPEL-0201-28-Q5-002 - Battery Management System Integration (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q5-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q5-002-A.md
+    IN: GPAM-AMPEL-0201-28-Q6-001 - AI Control Algorithms (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q6-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q6-001-A.md
+    IN: GPAM-AMPEL-0201-28-Q6-002 - Real-Time Monitoring Procedures (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q6-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q6-002-A.md
+    IN: GPAM-AMPEL-0201-28-Q7-001 - Performance Test Results (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q7-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q7-001-A.md
+    IN: GPAM-AMPEL-0201-28-Q7-002 - Efficiency Data Analysis (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q7-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q7-002-A.md
+    IN: GPAM-AMPEL-0201-28-Q8-001 - Fail-Safe Mechanisms (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q8-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q8-001-A.md
+    IN: GPAM-AMPEL-0201-28-Q8-002 - Redundancy Protocols (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q8-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q8-002-A.md
+    IN: GPAM-AMPEL-0201-28-Q9-001 - Maintenance Procedures (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q9-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q9-001-A.md
+    IN: GPAM-AMPEL-0201-28-Q9-002 - Inspection Checklists (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-28-Q9-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-28-Q9-002-A.md
+
+2.1.1.R ATA 29 - Hydraulic Power:
+
+P/N: GPAM-AMPEL-0201-29 (Section P/N)
+
+IN: GPAM-AMPEL-0201-29-001 - Hydraulic System Schematics (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-29-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-29-001-A.md
+IN: GPAM-AMPEL-0201-29-002 - Hydraulic Pumps and Power Units (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-29-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-29-002-A.md
+IN: GPAM-AMPEL-0201-29-003 - Hydraulic Actuators Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-29-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-29-003-A.md
+IN: GPAM-AMPEL-0201-29-004-A - Hydraulic Fluid Servicing (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-29-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-29-004-A.md
+
+2.1.1.S ATA 30 - Ice and Rain Protection:
+
+P/N: GPAM-AMPEL-0201-30 (Section P/N)
+
+IN: GPAM-AMPEL-0201-30-001-A - Wing De-Icing System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-30-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-30-001-A.md
+IN: GPAM-AMPEL-0201-30-002-A - Windshield Wiper System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-30-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-30-002-A.md
+
+2.1.1.T ATA 31 - Instruments:
+
+P/N: GPAM-AMPEL-0201-31 (Section P/N)
+
+IN: GPAM-AMPEL-0201-31-001-A - Flight Instrument Calibration Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-001-A.md
+IN: GPAM-AMPEL-0201-31-002-A - Instrument Panel Layout Diagrams (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-002-A.md
+IN: GPAM-AMPEL-0201-31-003-A - Flight Instruments Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-003-A.md
+IN: GPAM-AMPEL-0201-31-004-A - Engine Instruments Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-004-A.md
+IN: GPAM-AMPEL-0201-31-005-A - Navigation Instruments Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-005-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-005-A.md
+IN: GPAM-AMPEL-0201-31-006-A - Warning and Caution System Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-006-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-006-A.md
+IN: GPAM-AMPEL-0201-31-007-A - Instruments System Maintenance Manual (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-007-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-007-A.md
+IN: GPAM-AMPEL-0201-31-008-A - Instruments System Troubleshooting Guide (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-008-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-008-A.md
+IN: GPAM-AMPEL-0201-31-009-A - Instruments System FMEA Report (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-009-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-009-A.md
+IN: GPAM-AMPEL-0201-31-010-A - Instruments System Validation and Test Plan (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-31-010-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-31-010-A.md
+
+2.1.1.U ATA 32 - Landing Gear:
+
+P/N: GPAM-AMPEL-0201-32 (Section P/N)
+
+IN: GPAM-AMPEL-0201-32-001-A - Landing Gear Structural Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-32-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-32-001-A.md
+IN: GPAM-AMPEL-0201-32-002-A - Retraction/Extension System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-32-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-32-002-A.md
+IN: GPAM-AMPEL-0201-32-003-A - Braking System Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-32-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-32-003-A.md
+
+2.1.1.V ATA 33 - Lights:
+
+P/N: GPAM-AMPEL-0201-33 (Section P/N)
+
+IN: GPAM-AMPEL-0201-33-001-A - Exterior Lighting System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-33-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-33-001-A.md
+IN: GPAM-AMPEL-0201-33-002-A - Interior Emergency Lighting (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-33-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-33-002-A.md
+
+2.1.1.W ATA 34 - Navigation:
+
+P/N: GPAM-AMPEL-0201-34 (Section P/N)
+
+IN: GPAM-AMPEL-0201-34-W1-001 - GPS Receiver Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W1-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W1-001-A.md
+IN: GPAM-AMPEL-0201-34-W1-002 - GPS Antenna Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W1-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W1-002-A.md
+IN: GPAM-AMPEL-0201-34-W2-001 - INS Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W2-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W2-001-A.md
+IN: GPAM-AMPEL-0201-34-W2-002 - Quantum Enhancement for INS (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W2-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W2-002-A.md
+IN: GPAM-AMPEL-0201-34-W3-001 - RNAV System Description (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W3-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W3-001-A.md
+IN: GPAM-AMPEL-0201-34-W3-002 - RNP Approach Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W3-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W3-002-A.md
+IN: GPAM-AMPEL-0201-34-W4-001 - Q-01 Navigation Interface Protocols (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W4-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W4-001-A.md
+IN: GPAM-AMPEL-0201-34-W4-002 - Navigation Algorithms for Q-01 Integration (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-34-W4-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-34-W4-002-A.md
+
+2.1.1.X ATA 35 - Oxygen:
+
+P/N: GPAM-AMPEL-0201-35 (Section P/N)
+
+IN: GPAM-AMPEL-0201-35-001-A - Crew Oxygen System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-35-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-35-001-A.md
+IN: GPAM-AMPEL-0201-35-002-A - Passenger Oxygen System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-35-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-35-002-A.md
+
+2.1.1.Y ATA 36 - Pneumatic:
+
+P/N: GPAM-AMPEL-0201-36 (Section P/N)
+
+IN: GPAM-AMPEL-0201-36-001-A - Pneumatic System Design and Schematics (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-36-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-36-001-A.md
+IN: GPAM-AMPEL-0201-36-002-A - Bleed Air System Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-36-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-36-002-A.md
+
+2.1.1.Z ATA 38 - Water/Waste:
+
+P/N: GPAM-AMPEL-0201-38 (Section P/N)
+
+IN: GPAM-AMPEL-0201-38-001 - Potable Water System Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-38-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-38-001-A.md
+IN: GPAM-AMPEL-0201-38-002-A - Waste Water System Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-38-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-38-002-A.md
+IN: GPAM-AMPEL-0201-38-003-A - Water System Servicing Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-38-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-38-003-A.md
+
+2.1.1.AA ATA 45 - Central Maintenance System:
+
+P/N: GPAM-AMPEL-0201-45 (Section P/N)
+
+IN: GPAM-AMPEL-0201-45-001 - Central Maintenance Computer (CMC) Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-45-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-45-001-A.md
+IN: GPAM-AMPEL-0201-45-002 - Diagnostics and Troubleshooting Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-45-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-45-002-A.md
+
+2.1.1.AB ATA 46 - Information Systems:
+
+P/N: GPAM-AMPEL-0201-46 (Section P/N)
+
+IN: GPAM-AMPEL-0201-46-001-A - Data Network Architecture (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-46-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-46-001-A.md
+IN: GPAM-AMPEL-0201-46-002-A - Software Specifications for Information Systems (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-46-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-46-002-A.md
+IN: GPAM-AMPEL-0201-46-003-A - Information Systems Security Protocols (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-46-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-46-003-A.md
+IN: GPAM-AMPEL-0201-46-004-A - Data Logging and Telemetry System (S100D) *(Added Data Logging IN)*
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-46-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-46-004-A.md
+IN: GPAM-AMPEL-0201-46-005-A - System Health Monitoring (SHM) Software (S100D) *(Added SHM Software IN)*
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-46-005-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-46-005-A.md
+
+2.1.1.AC ATA 49 - Airborne Auxiliary Power:
+
+P/N: GPAM-AMPEL-0201-49 (Section P/N)
+
+IN: GPAM-AMPEL-0201-49-001 - APU Integration and Operation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-49-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-49-001-A.md
+IN: GPAM-AMPEL-0201-49-002-A - Emergency Power System Design (S100D) *(Consistent "Emergency Power System" naming)*
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-49-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-49-002-A.md
+
+2.1.1.AD ATA 51 - Standard Practices - Airframe Structures:
+
+P/N: GPAM-AMPEL-0201-51 (Section P/N)
+
+IN: GPAM-AMPEL-0201-51-001-A - Structural Repair Manual (SRM) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-51-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-51-001-A.md
+IN: GPAM-AMPEL-0201-51-002-A - Corrosion Prevention and Control Program (CPCP) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-51-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-51-002-A.md
+
+2.1.1.AE ATA 52 - Doors:
+
+P/N: GPAM-AMPEL-0201-52
+
+2.1.1.AE.1 Door Design and Operation
+    * P/N: GPAM-AMPEL-0201-52-01 (Section P/N)
+    IN: GPAM-AMPEL-0201-52-01-001 - Door Mechanical Design Specifications (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-01-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-01-001-A.md
+    IN: GPAM-AMPEL-0201-52-01-002 - Door Electrical and Control Systems (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-01-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-01-002-A.md
+    IN: GPAM-AMPEL-0201-52-01-003 - Door Seals and Insulation Materials (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-01-003-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-01-003-A.md
+
+2.1.1.AE.2 Safety and Locking Mechanisms
+    * P/N: GPAM-AMPEL-0201-52-02 (Section P/N)
+    IN: GPAM-AMPEL-0201-52-02-001 - Primary Locking Mechanism Specifications (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-02-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-02-001-A.md
+    IN: GPAM-AMPEL-0201-52-02-002 - Redundant Locking System Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-02-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-02-002-A.md
+    IN: GPAM-AMPEL-0201-52-02-003 - Anti-Tampering Security Measures (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-02-003-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-02-003-A.md
+
+2.1.1.AE.3 Emergency Exits and Evacuation Procedures
+    * P/N: GPAM-AMPEL-0201-52-03 (Section P/N)
+    IN: GPAM-AMPEL-0201-52-03-001 - Emergency Exit Design and Operation (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-03-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-03-001-A.md
+    IN: GPAM-AMPEL-0201-52-03-002 - Evacuation Slide Deployment System (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-03-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-03-002-A.md
+    IN: GPAM-AMPEL-0201-52-03-003 - Emergency Lighting and Signage (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-03-003-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-03-003-A.md
+
+2.1.1.AE.4 Maintenance and Inspection
+    * P/N: GPAM-AMPEL-0201-52-04 (Section P/N)
+    IN: GPAM-AMPEL-0201-52-04-001 - Routine Inspection Procedures (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-04-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-04-001-A.md
+    IN: GPAM-AMPEL-0201-52-04-002 - Repair Procedures (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-04-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-04-002-A.md
+    IN: GPAM-AMPEL-0201-52-04-003 - Component Replacement Guidelines (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-52-04-003-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-52-04-003-A.md
+
+2.1.1.AF ATA 53 - Fuselage:
+
+P/N: GPAM-AMPEL-0201-53
+
+2.1.1.AF.1 53-10-00-000 Nose Section
+    * P/N: GPAM-AMPEL-0201-53-10 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-10-000-001 - Nose Section Structural Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-10-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-10-000-001-A.md - Nose Section Structural Design
+    IN: GPAM-AMPEL-0201-53-10-000-002 - Nose Section Material Specifications (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-10-000-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-10-000-002-A.md - Nose Section Material Specifications
+    IN: GPAM-AMPEL-0201-53-10-ASM-001-A - Nose Section Frame Assembly Procedure (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-10-ASM-001-A-401-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-10-ASM-001-A.md
+
+2.1.1.AF.2 53-20-00-000 Forward Section
+    * P/N: GPAM-AMPEL-0201-53-20 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-20-000-001 - Forward Section Structural Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-20-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-20-000-001-A.md - Forward Section Structural Design
+    IN: GPAM-AMPEL-0201-53-20-000-002 - Forward Section Compartment Layout (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-20-000-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-20-000-002-A.md - Forward Section Compartment Layout
+
+2.1.1.AF.3 53-30-00-000 Central Section
+    * P/N: GPAM-AMPEL-0201-53-30 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-30-000-001 - Central Section Structural Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-30-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-30-000-001-A.md - Central Section Structural Design
+    IN: GPAM-AMPEL-0201-53-30-000-002 - Central Section Systems Integration (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-30-000-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-30-000-002-A.md - Central Section Systems Integration
+
+2.1.1.AF.4 53-40-00-000 Belly Section
+    * P/N: GPAM-AMPEL-0201-53-40 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-40-000-001 - Belly Section Structural Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-40-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-40-000-001-A.md - Belly Section Structural Design
+    IN: GPAM-AMPEL-0201-53-40-000-002 - Belly Section Systems Integration (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-40-000-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-40-000-002-A.md - Belly Section Systems Integration
+
+2.1.1.AF.5 53-50-00-000 Tail Cone Section
+    * P/N: GPAM-AMPEL-0201-53-50 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-50-000-001 - Tail Cone Structural Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-50-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-50-000-001-A.md - Tail Cone Structural Design
+    IN: GPAM-AMPEL-0201-53-50-000-002 - Tail Cone Material Specifications (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-50-000-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-50-000-002-A.md - Tail Cone Material Specifications
+    IN: GPAM-AMPEL-0201-53-50-000-003 - Generative Design Process for Tail Cone (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-50-000-003-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-50-000-003-A.md - Generative Design Process for Tail Cone
+    IN: GPAM-AMPEL-0201-53-50-FEA-001 - FEA Report for Tail Cone (S100D)
+        * Document: GPAM-AMPEL-0201-53-50-FEA-001-A.md
+    IN: GPAM-AMPEL-0201-53-50-CFD-001 - CFD Analysis for Tail Cone (S100D)
+        * Document: GPAM-AMPEL-0201-53-50-CFD-001-A.md
+    IN: GPAM-AMPEL-0201-53-50-TEST-001-A - Wind Tunnel Test Report (S100D)
+        * Document: GPAM-AMPEL-0201-53-50-TEST-001-A.md
+
+2.1.1.AF.6 53-60-00-000 APU Compartment
+    * P/N: GPAM-AMPEL-0201-53-60 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-60-000-001 - APU Compartment Structural Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-60-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-60-000-001-A.md - APU Compartment Structural Design
+    IN: GPAM-AMPEL-0201-53-60-000-002 - APU Integration and Support Systems (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-60-000-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-60-000-002-A.md - APU Integration and Support Systems
+
+2.1.1.AF.7 53-70-00-000 Additional Stations (Reserved for Future Use)
+    * P/N: GPAM-AMPEL-0201-53-70 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-70-000-001 - Future Station Design Concepts (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-70-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-70-000-001-A.md - Future Station Design Concepts
+
+2.1.1.AF.8 53-80-00-000 Auxiliary Stations (Reserved for Future Use)
+    * P/N: GPAM-AMPEL-0201-53-80 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-80-000-001 - Auxiliary Station Design Concepts (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-80-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-80-000-001-A.md - Auxiliary Station Design Concepts
+
+2.1.1.AF.9 53-99-99-000 User Guide
+    * P/N: GPAM-AMPEL-0201-53-99 (Section P/N)
+    IN: GPAM-AMPEL-0201-53-99-000-001 - User Guide for Fuselage Systems (S100D) *(User Guide Kept here, but note to re-evaluate)*
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-53-99-000-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-53-99-000-001-A.md - User Guide for Fuselage Systems
+
+2.1.1.AG ATA 55 - Stabilizers:
+
+P/N: GPAM-AMPEL-0201-55
+
+IN: GPAM-AMPEL-0201-55-001-A - Horizontal Stabilizer Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-55-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-55-001-A.md - Horizontal Stabilizer Design
+IN: GPAM-AMPEL-0201-55-002-A - Vertical Stabilizer Load Analysis (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-55-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-55-002-A.md - Vertical Stabilizer Load Analysis
+
+2.1.1.AH ATA 56 - Windows:
+
+P/N: GPAM-AMPEL-0201-56
+
+IN: GPAM-AMPEL-0201-56-001-A - Cockpit Window Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-56-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-56-001-A.md - Cockpit Window Design
+IN: GPAM-AMPEL-0201-56-002-A - Cabin Window Specifications (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-56-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-56-002-A.md - Cabin Window Specifications
+IN: GPAM-AMPEL-0201-56-003-A - Window Inspection and Maintenance (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-56-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-56-003-A.md - Window Inspection and Maintenance
+
+2.1.1.AI ATA 57 - Wings:
+
+P/N: GPAM-AMPEL-0201-57
+
+IN: GPAM-AMPEL-0201-57-001-A - Wing Structural Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-57-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-57-001-A.md - Wing Structural Design
+IN: GPAM-AMPEL-0201-57-002-A - Wing Aerodynamic Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-57-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-57-002-A.md - Wing Aerodynamic Design
+IN: GPAM-AMPEL-0201-57-003-A - Winglet Integration (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-57-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-57-003-A.md - Winglet Integration
+IN: GPAM-AMPEL-0201-57-004-A - Wing Assembly and Installation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-57-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-57-004-A.md - Wing Assembly and Installation
+IN: GPAM-AMPEL-0201-57-005-A - Wing Inspection and Maintenance (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-57-005-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-57-005-A.md - Wing Inspection and Maintenance
+
+2.1.1.AJ ATA 58 - - Wing Anti-Icing:
+
+P/N: GPAM-AMPEL-0201-58 (Section P/N)
+
+IN: GPAM-AMPEL-0201-58-001-A - Wing De-Icing System Design (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-58-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-58-001-A.md - Wing De-Icing System Design
+IN: GPAM-AMPEL-0201-58-002-A - Wing Anti-Icing System Operation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-58-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-58-002-A.md - Wing Anti-Icing System Operation
+
+2.1.1.AK ATA 67 - Rotors (Not Applicable):
+
+P/N: GPAM-AMPEL-0201-67 (Section P/N - Placeholder for Fixed-Wing Completeness)
+
+IN: GPAM-AMPEL-0201-67-001-A - Rotor System Overview (S100D) (Placeholder)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-67-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-67-001-A.md (Placeholder)
+
+2.1.1.AL ATA 70 - Standard Practices - Engine:
+
+P/N: GPAM-AMPEL-0201-70 (Section P/N)
+
+IN: GPAM-AMPEL-0201-70-001-A - Engine Standard Practices Manual (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-70-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-70-001-A.md
+
+2.1.1.AM ATA 71 - Powerplant (Q-01 Quantum Propulsion System): *(Q-01 Top Level Section)*
+
+P/N: GPAM-AMPEL-0201-71 (Section P/N)
+
+2.1.1.AM.1 Q-01 Quantum Propulsion System Integration *(Q-01 Sub-section)*
+    * P/N: GPAM-AMPEL-0201-71-01 (Section P/N)
+    IN: GPAM-AMPEL-0201-71-01-001 - Q-01 Mounting and Interface Specifications (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-71-01-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-71-01-001-A.md - Q-01 Mounting and Interface Specifications
+    IN: GPAM-AMPEL-0201-71-01-002 - Q-01 Integration with Aircraft Systems (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-71-01-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-71-01-002-A.md - Q-01 Integration with Aircraft Systems
+
+2.1.1.AM.2 Propulsion System Control and Monitoring *(Q-01 Sub-section)*
+    * P/N: GPAM-AMPEL-0201-71-02 (Section P/N)
+    IN: GPAM-AMPEL-0201-71-02-001 - Propulsion Control System Design (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-71-02-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-71-02-001-A.md - Propulsion Control System Design
+    IN: GPAM-AMPEL-0201-71-02-002 - Real-Time Monitoring and Diagnostics (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-71-02-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-71-02-002-A.md - Real-Time Monitoring and Diagnostics
+
+2.1.1.AM.3 Interface with AEHCS *(Q-01 Sub-section)*
+    * P/N: GPAM-AMPEL-0201-71-03 (Section P/N)
+    IN: GPAM-AMPEL-0201-71-03-001 - AEHCS Power Integration with Q-01 (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-71-03-001-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-71-03-001-A.md - AEHCS Power Integration with Q-01
+    IN: GPAM-AMPEL-0201-71-03-002 - Energy Management Protocols (S100D)
+        * DMC: DMC-GAIAPULSE-AMPEL-0201-71-03-002-A-001-00_EN-US
+        * Document: GPAM-AMPEL-0201-71-03-002-A.md - Energy Management Protocols
+
+2.1.1.AU ATA 72 - Engine (Q-01): *(Q-01 Top Level Section)*
+
+P/N: GPAM-AMPEL-0201-72 (Section P/N)
+
+IN: GPAM-AMPEL-0201-72-001 - Engine General Description (Q-01) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-72-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-72-001-A.md - Engine General Description (Q-01)
+IN: GPAM-AMPEL-0201-72-002- QSM Design and Operation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-72-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-72-002-A.md - Quantum State Modulator (QSM) Design and Operation
+IN: GPAM-AMPEL-0201-72-003 - QEE Design and Operation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-72-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-72-003-A.md - Quantum Entanglement Engine (QEE) Design and Operation
+IN: GPAM-AMPEL-0201-72-004 - Cryogenic System Integration for Engine (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-72-004-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-72-004-A.md - Cryogenic System Integration for Engine
+IN: GPAM-AMPEL-0201-72-005 - Engine Performance Parameters (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-72-005-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-72-005-A.md - Engine Performance Parameters
+IN: GPAM-AMPEL-0201-72-006 - Engine Safety Features (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-72-006-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-72-006-A.md - Engine Safety Features
+
+2.1.1.AV ATA 73 - Engine Fuel and Control:
+
+P/N: GPAM-AMPEL-0201-73 (Section P/N)
+
+IN: GPAM-AMPEL-0201-73-001 - Q-01 Fuel System Description (If Applicable) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-73-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-73-001-A.md - Q-01 Fuel System Description
+    * Status: Planned
+    *(Note: Modified/Omitted if Q-01 is fuel-less. Document energy coupling if no fuel.)*
+
+2.1.1.AW ATA 74 - Ignition:
+
+P/N: GPAM-AMPEL-0201-74 (Section P/N)
+
+IN: GPAM-AMPEL-0201-74-001 - Ignition System for Q-01 (If Applicable) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-74-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-74-001-A.md - Ignition System for Q-01
+    * Status: Planned
+    *(Note: Renamed to "Q-01 Activation and Initialization" if more appropriate.)*
+
+2.1.1.AX ATA 75 - Air:
+
+P/N: GPAM-AMPEL-0201-75 (Section P/N)
+
+IN: GPAM-AMPEL-0201-75-001-A - Air Systems Integration for Q-01 (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-75-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-75-001-A.md - Air Systems Integration for Q-01
+    * Status: Planned
+    *(Note: Refine to specify "air systems" relation to Q-01, e.g., cooling.)*
+
+2.1.1.AY ATA 76 - Engine Controls:
+
+P/N: GPAM-AMPEL-0201-76 (Section P/N)
+
+IN: GPAM-AMPEL-0201-76-001-A - Engine Control System Integration with Q-01 (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-76-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-76-001-A.md - Engine Control System Integration with Q-01
+    * Status: Existing
+
+2.1.1.AZ ATA 77 - Engine Indicating:
+
+P/N: GPAM-AMPEL-0201-77 (Section P/N)
+
+IN: GPAM-AMPEL-0201-77-001-A - Engine Indicating System for Q-01 (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-77-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-77-001-A.md - Engine Indicating System for Q-01
+    * Status: Existing
+
+2.1.1.BA ATA 78 - Exhaust:
+
+P/N: GPAM-AMPEL-0201-78 (Section P/N)
+
+IN: GPAM-AMPEL-0201-78-001-A - Exhaust System for Q-01 (If Applicable) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-78-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-78-001-A.md - Exhaust System for Q-01
+    * Status: Planned
+    *(Note: Repurpose to document energy/particle emissions if no traditional exhaust.)*
+
+2.1.1.BB ATA 79 - Oil:
+
+P/N: GPAM-AMPEL-0201-79 (Section P/N)
+
+IN: GPAM-AMPEL-0201-79-001 - Oil System for Q-01 (If Applicable) (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-79-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-79-001-A.md - Oil System for Q-01
+    * Status: Planned
+    *(Note: May not be applicable unless Q-01 has lubrication needs.)*
+
+2.1.1.BC ATA 80 - Starting:
+
+P/N: GPAM-AMPEL-0201-80 (Section P/N)
+
+IN: GPAM-AMPEL-0201-80-001 - Starting System for Q-01 (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-80-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-80-001-A.md - Starting System for Q-01
+    * Status: Planned
+    *(Note: Renamed to "Q-01 Activation and Initialization" if more appropriate.)*
+
+2.1.1.CA ATA 91 - Charts
+
+P/N: GPAM-AMPEL-0201-91 (Section P/N)
+
+IN: GPAM-AMPEL-0201-91-001 - Performance Charts for Q-01 Propulsion System (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-91-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-91-001-A.md - Performance Charts for Q-01 Propulsion System
+    * Status: Planned
+
+2.1.1.DA ATA 92 - Electrical System Testing
+
+P/N: GPAM-AMPEL-0201-92 (Section P/N)
+
+IN: GPAM-AMPEL-0201-92-001 - Electrical Power System Tests (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-92-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-92-001-A.md
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-92-002 - Load Analysis and Power Consumption (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-92-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-92-002-A.md
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-92-003 - Emergency Power System Testing (S100D) *(Consistent "Emergency Power System" naming)*
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-92-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-92-003-A.md
+    * Status: Planned
+
+2.1.1.DB ATA 93 - Avionics Systems Testing
+
+P/N: GPAM-AMPEL-0201-93 (Section P/N)
+
+IN: GPAM-AMPEL-0201-93-001 - Flight Control System Tests (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-93-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-93-001-A.md
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-93-002 - Communication Systems Testing (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-93-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-93-002-A.md
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-93-003 - Navigation System Validation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-93-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-93-003-A.md
+    * Status: Planned
+
+2.1.1.DC ATA 94 - Propulsion System Testing
+
+P/N: GPAM-AMPEL-0201-94 (Section P/N)
+
+IN: GPAM-AMPEL-0201-94-001 - Q-01 Propulsion System Test Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-94-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-94-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-94-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-94-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-94-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-94-002 - Thrust Measurement and Analysis (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-94-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-94-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-94-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-94-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-94-002
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-94-003 - Cryogenic System Performance Test (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-94-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-94-003-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-94-003
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-94-003
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-94-003
+    * Status: Planned
+
+2.1.1.DD ATA 95 - Structural and Mechanical Testing
+
+P/N: GPAM-AMPEL-0201-95 (Section P/N)
+
+IN: GPAM-AMPEL-0201-95-001 - Fuselage Structural Integrity Test (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-95-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-95-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-95-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-95-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-95-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-95-002 - Landing Gear Load Testing (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-95-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-95-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-95-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-95-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-95-002
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-95-003 - Vibration and Acoustics Testing (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-95-003-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-95-003-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-95-003
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-95-003
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-95-003
+    * Status: Planned
+
+2.1.1.DE ATA 96 - Environmental Control and Life Support Testing
+
+P/N: GPAM-AMPEL-0201-96 (Section P/N)
+
+IN: GPAM-AMPEL-0201-96-001 - Cabin Pressurization and Air Quality Tests (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-96-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-96-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-96-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-96-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-96-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-96-002 - Emergency Oxygen System Validation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-96-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-96-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-96-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-96-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-96-002
+    * Status: Planned
+
+2.1.1.DF ATA 97 - Fire Protection System Testing
+
+P/N: GPAM-AMPEL-0201-97 (Section P/N)
+
+IN: GPAM-AMPEL-0201-97-001 - Fire Detection System Testing (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-97-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-97-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-97-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-97-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-97-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-97-002 - Fire Suppression System Validation (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-97-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-97-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-97-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-97-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-97-002
+    * Status: Planned
+
+2.1.1.DG ATA 98 - Flight Test Program
+
+P/N: GPAM-AMPEL-0201-98 (Section P/N)
+
+IN: GPAM-AMPEL-0201-98-001 - Flight Test Plan and Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-98-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-98-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-98-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-98-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-98-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-98-002 - Flight Test Data Analysis (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-98-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-98-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-98-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-98-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-98-002
+    * Status: Planned
+
+2.1.1.DH ATA 99 - Software and System Integration Testing
+
+P/N: GPAM-AMPEL-0201-99 (Section P/N)
+
+IN: GPAM-AMPEL-0201-99-001 - Software Verification and Validation Plan (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-99-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-99-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-99-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-99-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-99-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-99-002 - System Integration Test Procedures (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-99-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-99-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-99-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-99-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-99-002
+    * Status: Planned
+
+2.1.1.DI ATA 100 - Certification and Documentation
+
+P/N: GPAM-AMPEL-0201-100 (Section P/N)
+
+IN: GPAM-AMPEL-0201-100-001 - Certification Plan for AMPEL360XWLRGA (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-100-001-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-100-001-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-100-001
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-100-001
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-100-001
+    * Status: Planned
+
+IN: GPAM-AMPEL-0201-100-002 - Compliance Documentation and Reports (S100D)
+    * DMC: DMC-GAIAPULSE-AMPEL-0201-100-002-A-001-00_EN-US
+    * Document: GPAM-AMPEL-0201-100-002-A.md
+    * PDR: PDR-GAIAPULSE-AMPEL-0201-100-002
+    * PBS: PBS-GAIAPULSE-AMPEL-0201-100-002
+    * BOM: BOM-GAIAPULSE-AMPEL-0201-100-002
+    * Status: Planned
+
+2.1.2 AMPEL360XWLRGA General Documentation:
+
+P/N: GPAM-AMPEL-0201-DOC (Section P/N)
+
+IN: GPAM-AMPEL-0201-DOC-0001 - AMPEL360XWLRGA Aircraft Specifications Document
+    * Document: GPAM-AMPEL-0201-DOC-0001-A.md
+
+IN: GPAM-AMPEL-0201-DOC-0002 - AMPEL360XWLRGA Design and Engineering Principles
+    * Document: GPAM-AMPEL-0201-DOC-0002-A.md
+
+IN: GPAM-AMPEL-0201-DOC-0003 - AMPEL360XWLRGA Safety and Certification Plan
+    * Document: GPAM-AMPEL-0201-DOC-0003-A.md
+
+IN: GPAM-AMPEL-0201-DOC-0004 - AMPEL360XWLRGA Manufacturing and Production Plan
+    * Document: GPAM-AMPEL-0201-DOC-0004-A.md
+
+2.1.3 AMPEL360XWLRGA Maintenance Manuals: *(Example DMCs Added for AMM, CMM, TSM)*
+    * P/N: GPAM-AMPEL-0201-MAINT (Section P/N)
+    IN: GPAM-AMPEL-0201-MAINT-0001 - AMPEL360XWLRGA Aircraft Maintenance Manual (AMM) (S100D)
+        * DMC:
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0001-A-05-001-00_EN-US *(Example DMC: ATA 05 - Scheduled Maintenance)*
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0001-A-24-001-00_EN-US *(Example DMC: ATA 24 - Electrical Power)*
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0001-A-27-001-00_EN-US *(Example DMC: ATA 27 - Flight Controls)*
+            * ... (Multiple DMCs, structured according to ATA chapters)
+        * Document: GPAM-AMPEL-0201-MAINT-0001-A.md
+
+    IN: GPAM-AMPEL-0201-MAINT-0002 - AMPEL360XWLRGA Component Maintenance Manuals (CMM) (S100D)
+        * DMC:
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0002-A-24-BATTERY-001-00_EN-US *(Example DMC: ATA 24 - Battery CMM)*
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0002-A-34-GPS-RCVR-001-00_EN-US *(Example DMC: ATA 34 - GPS Receiver CMM)*
+            * ... (Multiple DMCs, organized by component or system)
+        * Document: GPAM-AMPEL-0201-MAINT-0002-A.md
+
+    IN: GPAM-AMPEL-0201-MAINT-0003 - AMPEL360XWLRGA Troubleshooting Manual (TSM) (S100D)
+        * DMC:
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0003-A-24-POWER-LOSS-001-00_EN-US *(Example DMC: ATA 24 - Power Loss Troubleshooting)*
+            * DMC-GAIAPULSE-AMPEL-0201-MAINT-0003-A-27-FC-RESP-001-00_EN-US *(Example DMC: ATA 27 - Flight Control Unresponsive)*
+            * ... (Multiple DMCs, structured according to ATA chapters or systems)
+        * Document: GPAM-AMPEL-0201-MAINT-0003-A.md
+
+2.1.4 AMPEL360XWLRGA Illustrated Parts Catalog: *(Example DMCs Added for IPD)*
+    * P/N: GPAM-AMPEL-0201-IPD (Section P/N)
+    IN: GPAM-AMPEL-0201-IPD-0001 - AMPEL360XWLRGA Illustrated Parts Data (IPD) (S100D)
+        * DMC:
+            * DMC-GAIAPULSE-AMPEL-0201-IPD-0001-A-53-FRAME-001-00_EN-US *(Example DMC: ATA 53 - Fuselage Frame IPD)*
+            * DMC-GAIAPULSE-AMPEL-0201-IPD-0001-A-27-AILERON-001-00_EN-US *(Example DMC: ATA 27 - Aileron IPD)*
+            * ... (Multiple DMCs, structured according to ATA chapters)
+        * Document: GPAM-AMPEL-0201-IPD-0001-A.md
+
+2.1.5 AMPEL360XWLRGA Wiring and Schematics: *(Example DMCs Added for WSM)*
+    * P/N: GPAM-AMPEL-0201-WIRE (Section P/N)
+    IN: GPAM-AMPEL-0201-WIRE-0001 - AMPEL360XWLRGA Wiring and Schematics Manual (WSM) (S100D)
+        * DMC:
+            * DMC-GAIAPULSE-AMPEL-0201-WIRE-0001-A-24-POWER-DIST-001-00_EN-US *(Example DMC: ATA 24 - Power Distribution Wiring)*
+            * DMC-GAIAPULSE-AMPEL-0201-WIRE-0001-A-34-NAV-SYSTEM-001-00_EN-US *(Example DMC: ATA 34 - Navigation System Wiring)*
+            * ... (Multiple DMCs, structured according to ATA chapters)
+        * Document: GPAM-AMPEL-0201-WIRE-0001-A.md
+```
+
+**Explanation of Changes:**
+
+1.  **Glossary Added:**  A section `8.1 Glossary of Terms and Abbreviations` has been added to Part VIII (Appendices).
+2.  **Version Control Note:** A section `Documentation Processes and Standards` added to Part VII with an IN `GP-DOC-PROC-0701-001-A - Documentation Version Control Procedures` to hold the version control strategy document.
+3.  **AEHCS Sub-section in ATA 28:** Created a dedicated sub-section `2.1.1.Q.1 Alternative Energy Harvesting and Control System (AEHCS)` under ATA 28 (Fuel) to group AEHCS-related INs.
+4.  **Q-01 Top-Level Sections in ATA 71 & 72:** ATA 71 (Powerplant) and ATA 72 (Engine) are now explicitly labeled as "(Q-01 Quantum Propulsion System)" and "(Q-01)" respectively, to highlight the Q-01 system. Sub-sections for Q-01 Integration, Control, and AEHCS Interface are added under ATA 71.
+5.  **ATA 46 Additions:** INs for `Data Logging and Telemetry System` and `System Health Monitoring (SHM) Software` are added to ATA 46 (Information Systems).
+6.  **ATA 49 Consistency:**  "Emergency Power System" is consistently used in ATA 24, 49, and 92.
+7.  **Example DMCs:** Representative DMC examples have been added to the descriptions for AMM, CMM, TSM, IPD, and WSM to illustrate the intended DMC structure.
+8.  **.md Extensions:** Ensured all `Document:` entries have the `.md` extension.
+9.  **ATA 53 User Guide Note:** A note is added to the ATA 53 User Guide IN description to re-evaluate its placement later.
+10. **Redundancy and Process Notes:** Mental notes about redundancy and version control are addressed through the added Glossary section and Version Control documentation IN.
+
+This revised Table of Contents is now even more detailed and structured, incorporating all the suggestions. It is truly ready to serve as a robust blueprint for your documentation website. Let me know if you have any further questions or if you'd like to move on to generating placeholder files!
 
 
 # GAIA AIR CSDB
