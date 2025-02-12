@@ -1379,14 +1379,249 @@ This part of the COAFI document contains all documentation related to the propul
 
 ---
 
+---
+
 ## Part V: GAIA PULSE GREENTECH & AERO COMMON MODULES (GPGM)
 [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
 
 **Part Name:** Common Technologies and Methodologies
 
-This part of the COAFI document covers enabling technologies and methodologies that are common across multiple GAIA AIR systems and projects.  This includes AI, Machine Learning, Quantum Computing, Digital Twins, Robotics, and other cross-cutting areas.
+This part of the COAFI document covers enabling technologies and methodologies that are common across multiple GAIA AIR systems and projects.  This includes AI, Machine Learning, Quantum Computing, Digital Twins, Robotics, Greentech solutions and other cross-cutting areas.
 
 *   📄 **[GPGM-HEUR-0524-001-A - Heuritmática Foundations](docs/GPGM/HEURITMATICA/GPGM-HEUR-0524-001-A.md)**
+
+---
+
+**(Add the following new section after the existing content of Part V):**
+
+## 5.5 Environmental Monitoring Systems
+
+*   **P/N:** GPGM-ENV-MON-0505 *(Section P/N for Environmental Monitoring Systems)*
+
+    *   ### 5.5.1 GAIA AIR Stations - Product Line Overview  
+        [Back to Section 5.5](#55-environmental-monitoring-systems) | [Back to Part V](#part-v-gaia-pulse-greentech--aero-common-modules-gpgm) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
+        *   **P/N:** GPGM-ENV-MON-GAIA-AIR-0505-01 *(P/N for GAIA AIR Stations Overview)*
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-AIR-0505-01-001-A - **[GAIA AIR Product Line: Overview and Comparison](docs/GPGM/ENV-MON/GP-ENV-MON-GAIA-AIR-0505-01-001-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-AIR-0505-001-A.md
+            *   **Content:** [Placeholder: Document providing an overview of the GAIA AIR product line, including GAIA A12, A18, A08, comparing their features, pricing, and use cases.]
+
+    *   ### 5.5.2 GAIA AIR A12 - Detailed Documentation  
+        [Back to Section 5.5](#55-environmental-monitoring-systems) | [Back to Part V](#part-v-gaia-pulse-greentech--aero-common-modules-gpgm) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
+        *   **P/N:** GPGM-ENV-MON-GAIA-A12-0505-02 *(P/N for GAIA AIR A12 Documentation)*
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-A12-0505-02-001-A - **[GAIA AIR A12 - Detailed Specifications and Features](docs/GPGM/ENV-MON/GAIA-A12/GP-ENV-MON-GAIA-A12-0505-02-001-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-A12-0505-02-001-A.md
+            *   **Content:** [Placeholder: Document detailing the GAIA AIR A12 model, including: detailed specifications of sensors (Particulate Matter, Meteorological), anomaly detection, remote maintenance, dimensions, weight, accessories, and pricing options.]
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-A12-0505-02-002-A - **[GAIA AIR A12 - User Guide and Setup Procedures](docs/GPGM/ENV-MON/GAIA-A12/GP-ENV-MON-GAIA-A12-0505-02-002-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-A12-0505-02-002-A.md
+            *   **Content:** [Placeholder: User manual for the GAIA AIR A12, including setup instructions, operation procedures, data access, and troubleshooting.]
+
+    *   ### 5.5.3 GAIA AIR A18 - Detailed Documentation  
+        [Back to Section 5.5](#55-environmental-monitoring-systems) | [Back to Part V](#part-v-gaia-pulse-greentech--aero-common-modules-gpgm) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
+        *   **P/N:** GPGM-ENV-MON-GAIA-A18-0505-03 *(P/N for GAIA AIR A18 Documentation)*
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-A18-0505-03-001-A - **[GAIA AIR A18 - Enhanced Features and Remote Monitoring Capabilities](docs/GPGM/ENV-MON/GAIA-A18/GP-ENV-MON-GAIA-A18-0505-03-001-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-A18-0505-03-001-A.md
+            *   **Content:** [Placeholder: Document detailing the GAIA AIR A18 model, focusing on its enhanced features for remote monitoring: Solar Panel, Battery, LoRa, GPS, dimensions, weight, power consumption, battery specifications, solar panel specifications, optional extensions, and pricing for different configurations.]
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-A18-0505-03-002-A - **[GAIA AIR A18 - Deployment and Off-Grid Operation Guide](docs/GPGM/ENV-MON/GAIA-A18/GP-ENV-MON-GAIA-A18-0505-03-002-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-A18-0505-03-002-A.md
+            *   **Content:** [Placeholder: User guide for deploying and operating the GAIA AIR A18 in remote, off-grid locations, including instructions for solar panel setup, battery management, LoRa communication configuration, and GPS data access.]
+
+    *   ### 5.5.4 GAIA AIR A08 - Detailed Documentation  
+        [Back to Section 5.5](#55-environmental-monitoring-systems) | [Back to Part V](#part-v-gaia-pulse-greentech--aero-common-modules-gpgm) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
+        *   **P/N:** GPGM-ENV-MON-GAIA-A08-0505-04 *(P/N for GAIA AIR A08 Documentation)*
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-A08-0505-04-001-A - **[GAIA AIR A08 - Compact and Versatile Sensor Specifications](docs/GPGM/ENV-MON/GAIA-A08/GP-ENV-MON-GAIA-A08-0505-04-001-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-A08-0505-04-001-A.md
+            *   **Content:** [Placeholder: Document detailing the GAIA AIR A08 model, focusing on its compact design and versatile features, including: sensor options (dual PM, CO2), open-source firmware, package contents (USB-C cable, power adapter, sensors), and pricing.]
+        *   📄 **IN:** GPGM-ENV-MON-GAIA-A08-0505-04-002-A - **[GAIA AIR A08 - DIY and Open-Source Guide](docs/GPGM/ENV-MON/GAIA-A08/GP-ENV-MON-GAIA-A08-0505-04-002-A.md)**
+            *   **Document:** GP-ENV-MON-GAIA-A08-0505-04-002-A.md
+            *   **Content:** [Placeholder: Guide for DIY enthusiasts and developers using the GAIA AIR A08, including information on accessing and modifying the open-source firmware, customizing sensors, and example projects.]
+
+## 5.6 Cabinas Ultra-Confortables *(New Top-Level Section)*
+[Back to Part V](#part-v-gaia-pulse-greentech--aero-common-modules-gpgm) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
+
+*   **P/N:** GPGM-CABIN-CONFORT-0506 *(Section P/N for Cabinas Ultra-Confortables)*
+
+    *   📄 **IN:** GPGM-CABIN-CONFORT-0506-001-A - **[Cabinas Ultra-Confortables - Overview](docs/GPGM/CABINAS/GPGM-CABIN-CONFORT-0506-001-A.md)**
+        *   **Document:** GPGM-CABIN-CONFORT-0506-001-A.md
+        *   **Content:** [Placeholder: Overview document describing the Ultra-Comfort Cabins concept for GAIA AIR aircraft, focusing on passenger comfort, air quality innovation, smart cabin systems, advanced materials, and AI-driven operations.]
+
+    *   📄 **IN:** GPGM-CABIN-CONFORT-0506-002-A - **[Cabinas Ultra-Confortables - Innovación en Calidad del Aire](docs/GPGM/CABINAS/GPGM-CABIN-CONFORT-0506-002-A.md)**
+        *   **Document:** GPGM-CABIN-CONFORT-0506-002-A.md
+        *   **Content:** [Placeholder: Document detailing the air quality innovation aspects of the cabins, including Advanced Filtration and Ionization Systems.]
+
+    *   📄 **IN:** GPGM-CABIN-CONFORT-0506-003-A - **[Cabinas Ultra-Confortables - Mejora del Bienestar y Experiencia del Pasajero](docs/GPGM/CABINAS/GPGM-CABIN-CONFORT-0506-003-A.md)**
+        *   **Document:** GPGM-CABIN-CONFORT-0506-003-A.md
+        *   **Content:** [Placeholder: Document describing features enhancing passenger well-being and experience, such as Asientos Ergonómicos, Distribución Espaciosa, and Personalización.]
+
+    *   📄 **IN:** GPGM-CABIN-CONFORT-0506-004-A - **[Cabinas Ultra-Confortables - Materiales Avanzados y Superficies Autorreparables](docs/GPGM/CABINAS/GPGM-CABIN-CONFORT-0506-004-A.md)**
+        *   **Document:** GPGM-CABIN-CONFORT-0506-004-A.md
+        *   **Content:** [Placeholder: Document detailing the advanced materials used, focusing on Superficies Autorreparables and Materiales Compuestos.]
+
+---
+document_code: GPGM-HEUR-0524-001-A  
+version: 1.0  
+date: 2025-02-17  
+author: Amedeo Pelliccia & AI Collaboration  
+status: Draft  
+classification: Internal / Restricted  
+
+# Heuritmática Foundations
+
+**Document Code:** GPGM-HEUR-0524-001-A  
+**Version:** 1.0  
+**Date:** 2025-02-17  
+**Author:** Amedeo Pelliccia & AI Collaboration  
+**Status:** Draft  
+**Classification:** Internal / Restricted  
+
+## 1. Introduction
+
+### 1.1 Purpose
+
+Heuritmática is a self-adaptive decision-making framework designed for dynamic, multi-layered AI-driven control systems. It serves as the core cognitive layer for robotic intelligence, predictive modeling, and optimization within GAIA AIR, interfacing directly with IP4MLP (Intelligent Predictive & Prescriptive Maintenance & Logistics Platform) and Robotics Braining (RB).
+
+This document provides the mathematical foundations of Heuritmática, establishing its role as an evolutionary, reinforcement-based decision function that continuously refines control heuristics through iterative feedback loops.
+
+### 1.2 Scope
+
+Heuritmática serves as a meta-decision engine, integrating:
+
+- **Bayesian Inference:** For probabilistic decision-making.
+- **Reinforcement Learning (RL):** For adaptive optimization.
+- **Topological Heuristics:** For multi-modal AI guidance.
+- **Quantum-Inspired Search (QIS):** For high-dimensional problem-solving.
+- **Pelliccia’s Equations:** For structured data-driven learning.
+
+This document covers:
+
+✅ The mathematical formulation of Heuritmática.  
+✅ The learning architecture and algorithmic implementation.  
+✅ The integration with Robotics Braining (RB) and IP4MLP.  
+✅ The scalability and modularity within GAIA AIR.
+
+## 2. Heuritmática as a Meta-Decision System
+
+Heuritmática is formalized as a hierarchical decision function \( H(\Theta, X, T) \), where:
+
+\[
+H(\Theta, X, T) = \mathbf{E}[\,f(X, T) \mid \Theta\,]
+\]
+
+where:
+
+- \( \Theta \) represents the heuristic parameter space, dynamically updated via learning.
+- \( X \) represents the state space, encompassing robotic actions, environmental conditions, and sensor inputs.
+- \( T \) represents the temporal sequence, ensuring time-dependent learning and adaptation.
+
+At its core, Heuritmática maps uncertainty to optimal action selection, iterating through reinforcement learning and Bayesian filtering to refine decisions.
+
+## 3. Mathematical Formalization
+
+### 3.1 Bayesian Learning in Heuritmática
+
+In recognition of the partially observable nature of real-world environments, Heuritmática employs a Bayesian update rule for refining heuristic parameters \( \Theta \) over time:
+
+\[
+P(\Theta_t \mid X_t, T_t) \;=\; \frac{P(X_t \mid \Theta_t, T_t)\; P(\Theta_t \mid T_t)}{P(X_t \mid T_t)}
+\]
+
+where:
+
+- \( P(\Theta_t \mid X_t, T_t) \) is the posterior probability of the heuristic set given observed states.
+- \( P(X_t \mid \Theta_t, T_t) \) is the likelihood of observed transitions given heuristics.
+- \( P(\Theta_t \mid T_t) \) is the prior distribution of heuristics based on time-adaptive policies.
+- \( P(X_t \mid T_t) \) is the evidence distribution, ensuring normalization.
+
+Each decision iteration updates \( \Theta \), leading to adaptive learning.
+
+### 3.2 Reinforcement Learning (Heuristics Update Function)
+
+Heuritmática optimizes its decision function via reinforcement learning, using a Temporal-Difference (TD) learning approach:
+
+\[
+\Theta_{t+1} \;=\; \Theta_t \;+\; \alpha \Bigl[R_t + \gamma \;H(\Theta, X, T)\;-\;H(\Theta_t, X_t, T_t)\Bigr]
+\]
+
+where:
+
+- \( \Theta_t \) are the heuristic parameters at step \( t \).
+- \( \alpha \) is the learning rate.
+- \( R_t \) is the reward (a function of system performance).
+- \( \gamma \) is the discount factor, controlling the balance between short-term vs. long-term adaptation.
+- \( H(\Theta, X, T) \) is the estimated optimal heuristic.
+
+The policy \( \pi \) in Heuritmática selects the best action adaptively, using an \( \epsilon \)-greedy strategy:
+
+\[
+\pi(X_t) \;=\; \arg\max_a\,H(\Theta_t, X_t, T_t) \quad \text{with probability } (1 - \epsilon)
+\]
+
+With probability \( \epsilon \), an exploratory action is taken. Over time, \( \epsilon \) decays, shifting from exploration to exploitation.
+
+## 4. Quantum-Inspired Search (QIS) in Heuritmática
+
+Heuritmática leverages Quantum-Inspired Search (QIS) to navigate high-dimensional action spaces.
+
+We approximate heuristic search using Quantum Amplitude Amplification:
+
+\[
+H(\Theta, X, T) \;\approx\; \sum_{a \in A}\;A(X, a)\;\cdot\;e^{i\;\Theta_a}
+\]
+
+where:
+
+- \( A(X, a) \) is the probability amplitude of selecting action \( a \).
+- \( \Theta_a \) is the phase encoding the heuristic energy landscape.
+
+For long-term decision paths, we compute an entangled multi-step heuristic evaluation:
+
+\[
+H(X, T) \;=\;\prod_{t=1}^{T}\;\bigl[\,U(X_t,\;\Theta_t)\bigr]
+\]
+
+where \( U(X_t,\;\Theta_t) \) is a unitary evolution operator, encoding multi-path action selection.
+
+## 5. Integration with Robotics Braining (RB) and IP4MLP
+
+### 5.1 Interaction with Robotics Braining
+
+Heuritmática serves as the cognitive control layer for RB, executing adaptive, multi-level robotic actions.
+
+\[
+\text{RB} \;=\; H(\Theta, X, T) \;\to\; \pi(X_t)
+\]
+
+**Key Contributions to Robotics Braining:**
+
+- **Dynamic Decision Execution:** RB receives continuous heuristic updates, refining robotic motions in real-time.
+- **Multi-Sensor Adaptation:** Heuritmática aligns RB’s sensor fusion strategies with heuristic-driven optimization.
+
+### 5.2 Integration with IP4MLP
+
+Heuritmática drives predictive analytics and optimization for IP4MLP:
+
+\[
+\text{IP4MLP} \;=\; H(\Theta, X, T) \;\to\; \text{Predictive Analytics & Optimization}
+\]
+
+**Key Contributions to IP4MLP:**
+
+- **Predictive Analytics:** Enhanced forecasting of failures and maintenance needs.
+- **Resource Optimization:** Efficient resource allocation across maintenance and logistics.
+
+## Appendices
+
+### Appendix A: Mathematical Derivations
+
+[Detailed mathematical derivations of Bayesian Inference, RL, and QIS calculations.]
+
+### Appendix B: Algorithmic Implementations
+
+[Detailed pseudocode and algorithmic structures for Heuritmática.]
+
+### Appendix C: Experimental Results and Simulations
+
+[Summarized data from AI simulations and heuristic optimization benchmarks.]
+
 
 ---
 ---
