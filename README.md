@@ -486,6 +486,8 @@ El URS cubre todos los aspectos del sistema relacionados con la funcionalidad, r
 ## Descripción General
 ### Necesidades y Expectativas del Cliente
 - **Monitoreo en Tiempo Real:** Los operadores necesitan monitorear el estado de los NeuronBits en tiempo real.
+
+  Nota: "NeuronBits" se refiere a los componentes críticos del sistema que actúan como nodos de procesamiento, encargados de recopilar, analizar y transmitir datos en tiempo real para garantizar un funcionamiento óptimo y una respuesta ágil frente a incidentes.
 - **Seguridad de Datos:** Garantizar que todos los datos estén protegidos contra accesos no autorizados.
 - **Interfaz Intuitiva:** Una interfaz de usuario fácil de usar que permita una rápida adopción por parte de los operadores.
 
