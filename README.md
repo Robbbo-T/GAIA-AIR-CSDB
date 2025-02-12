@@ -114,15 +114,15 @@ where:
 *   \( H(\Theta_t, X_t, T_t) \) is the heuristic value at the current time step \( t \), serving as the baseline against which improvements are measured and updates are made.
 
 To balance exploration and exploitation, Heuritmática employs an ε-greedy policy, defined as:
+````
+The policy π in Heuritmática selects the best action adaptively, using an ε-greedy strategy:
 
-$$
-\pi(X_t) =
-\begin{cases}
-    \underset{a}{\operatorname{argmax}} H(\Theta_t, X_t, T_t) & \text{with probability } (1 - \varepsilon) \\
-    \text{exploratory action} & \text{with probability } \varepsilon
-\end{cases}
-$$
+𝜋(𝑋𝑡) = arg max𝑎 𝐻(Θ𝑡,𝑋𝑡,𝑇𝑡) with probability (1−𝜀)
 
+With probability ε, an exploratory action is taken. This exploration ensures that Heuritmática continuously refines its heuristics, moving towards increasingly optimal decision-making.
+
+Over time, ε decays, shifting from exploration to exploitation.
+````
 This policy dictates that with a probability of \( (1 - \varepsilon) \), the system will choose the action \( a \) that maximizes the heuristic function \( H(\Theta_t, X_t, T_t) \), representing exploitation of learned knowledge. Complementarily, with a probability of \( \varepsilon \), the system engages in exploratory actions, allowing for the discovery of potentially more optimal strategies beyond current heuristics. Over time, the exploration rate \( \varepsilon \) is set to decay, gradually shifting the system's behavior from exploration towards exploitation as learning progresses and heuristics become more refined.
 
 ### 4. Quantum-Inspired Search (QIS) in Heuritmática
