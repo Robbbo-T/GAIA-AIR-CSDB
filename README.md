@@ -200,7 +200,6 @@ This part of the COAFI document contains all documentation related to the AMPEL3
 [Back to Section 2.1](#21-ampel360xwlrga-advanced-aircraft-systems) | [Back to Part II](#part-ii-gaia-pulse-air-modules-gpam---atmospheric-operations) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
 **P/N:** GPAM-AMPEL-0201-ATA *(Section P/N)*
 
-![image](https://github.com/user-attachments/assets/20f15a8f-cb64-42cf-ab06-8f541476c89a)
 
 
 ##### 2.1.1.A ATA 05 - Time Limits/Maintenance Checks
