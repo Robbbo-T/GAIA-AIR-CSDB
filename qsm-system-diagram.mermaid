@@ -1,0 +1,69 @@
+graph TB
+    subgraph PCU[Propulsion Control Unit]
+        PCU_INT[PCU Interface]
+    end
+
+    subgraph QSM[Quantum State Modulator]
+        subgraph QEE[Quantum Entanglement Engine]
+            PUMP[Pump Laser]
+            CRYSTAL[SPDC Crystal]
+            OPTICAL[Optical Setup]
+        end
+        
+        subgraph CORE[QSM Core]
+            ALG[Quantum Algorithms]
+            STATE[State Control]
+            MGMT[System Management]
+        end
+        
+        subgraph CRYO[Cryogenic System]
+            CRYOSTAT[Cryostat]
+            TEMP[Temperature Control]
+        end
+        
+        subgraph MEAS[Measurement & Instrumentation]
+            SNSPD[SNSPD Detectors]
+            TDC[Time-to-Digital Converter]
+            TOMO[State Tomography]
+        end
+    end
+
+    subgraph AEHCS[Alternative Energy Harvesting]
+        ENERGY[Energy Management]
+        STORAGE[Energy Storage]
+    end
+
+    %% Data Flow Connections
+    PUMP --> CRYSTAL
+    CRYSTAL --> OPTICAL
+    OPTICAL --> SNSPD
+    SNSPD --> TDC
+    TDC --> TOMO
+    
+    %% Control Connections
+    PCU_INT <--> MGMT
+    MGMT --> ALG
+    MGMT --> STATE
+    MGMT --> TEMP
+    
+    %% Power Management
+    ENERGY --> PUMP
+    ENERGY --> CRYO
+    STORAGE --> ENERGY
+
+    %% Interface Connections
+    PCU_INT -.->|CAN Bus| MGMT
+    PCU_INT -.->|ARINC 429| MGMT
+    MGMT -.->|Quantum Ethernet| STATE
+
+    classDef default fill:#e6e6e6,stroke:#333,stroke-width:1px,color:#333
+    classDef mainSystem fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:white
+    classDef subSystem fill:#4299e1,stroke:#2c5282,stroke-width:1px,color:white
+    classDef component fill:#63b3ed,stroke:#2b6cb0,stroke-width:1px,color:white
+    classDef interface fill:#d69e2e,stroke:#744210,stroke-width:1px,color:white
+    classDef critical fill:#e53e3e,stroke:#822727,stroke-width:1px,color:white
+
+    class QSM,PCU mainSystem
+    class QEE,CORE,CRYO,MEAS,AEHCS subSystem
+    class PUMP,CRYSTAL,OPTICAL,ALG,STATE,MGMT,CRYOSTAT,TEMP,SNSPD,TDC,TOMO,ENERGY,STORAGE component
+    class PCU_INT interface
