@@ -245,38 +245,144 @@ graph LR
 
 ---
 
-## 5. Maintenance and Troubleshooting
+# Maintenance DMRL
 
-The following sections outline the maintenance and troubleshooting procedures for the air conditioning system components.
+---
 
-#### **5.1 Air Conditioning Packs**
-- Inspect and clean heat exchangers
-- Check and replenish refrigerant levels
-- Inspect and test compressors
-- Inspect and test expansion valves
-- Inspect and test temperature sensors
-- Inspect and test control valves
+### **Refined S1000D DMC Assignments for Air Conditioning System**
+**Format:**  
+```
+DMC-AAA-BBB-CCC-DDD-EEE-FFF-GGGG-LLLL
+```
+Where:
+- **AAA**: ATA System Code
+- **BBB**: Subsystem Code
+- **CCC**: Data Type Code (Maintenance, Troubleshooting, etc.)
+- **DDD**: Information Type Code (Procedure, Description, etc.)
+- **EEE**: Model Identifier
+- **FFF**: Variant Identifier
+- **GGGG**: Language Code
+- **LLLL**: Revision Level
 
-#### **5.2 Air Distribution System**
-- Inspect and clean ducts and diffusers
-- Inspect and test air mix valves
-- Inspect and test recirculation fans
+---
 
-#### **5.3 Temperature Control System**
-- Inspect and test temperature sensors
-- Inspect and test control valves
-- Inspect and test Electronic Control Unit (ECU)
+## **Step 1: Define ATA System and Subsystems**
+**ATA Chapter:**  
+- **21 - Air Conditioning System**  
+  - **Subsystems (BBB) Selection:**
+    - `000` - General
+    - `001` - Air Conditioning System
+    - `002` - Air Distribution System
+    - `003` - Temperature Control System
+    - `004` - Humidity Control System
+    - `005` - Air Quality Control System
 
-#### **5.4 Humidity Control System**
-- Inspect and test humidity sensors
-- Inspect and test control valves
-- Inspect and test Electronic Control Unit (ECU)
+---
 
-#### **5.5 Air Quality Control System**
-- Inspect and replace air filters
-- Inspect and test air quality sensors
-- Inspect and test control valves
-- Inspect and test Electronic Control Unit (ECU)
+## **Step 2: Define Data Types and Information Types**
+**Data Type (CCC) Codes:**  
+- `31` - Maintenance Practices  
+- `32` - Troubleshooting  
+
+**Information Type (DDD) Codes:**  
+- `001` - General Maintenance Procedure  
+- `002` - Troubleshooting Procedure  
+
+---
+
+## **Step 3: Assign DMCs**
+### **A. Maintenance Procedures**
+For **General Maintenance Procedures** of the **Air Conditioning System**, assign:
+
+| System | Subsystem | Data Type | Info Type | Model | Variant | Lang | Rev | DMC |
+|---------|------------|------------|------------|------------|------------|------------|------------|--------------------------------|
+| 21 | 001 | 31 | 001 | AMPEL | 001 | EN-US | 0001 | `DMC-21-001-31-001-AMPEL-001-EN-US-0001` |
+| 21 | 002 | 31 | 001 | AMPEL | 001 | EN-US | 0001 | `DMC-21-002-31-001-AMPEL-001-EN-US-0001` |
+| 21 | 003 | 31 | 001 | AMPEL | 001 | EN-US | 0001 | `DMC-21-003-31-001-AMPEL-001-EN-US-0001` |
+| 21 | 004 | 31 | 001 | AMPEL | 001 | EN-US | 0001 | `DMC-21-004-31-001-AMPEL-001-EN-US-0001` |
+| 21 | 005 | 31 | 001 | AMPEL | 001 | EN-US | 0001 | `DMC-21-005-31-001-AMPEL-001-EN-US-0001` |
+
+---
+
+### **B. Troubleshooting Procedures**
+For **Troubleshooting the Air Conditioning System**, assign:
+
+| System | Subsystem | Data Type | Info Type | Model | Variant | Lang | Rev | DMC |
+|---------|------------|------------|------------|------------|------------|------------|------------|--------------------------------|
+| 21 | 001 | 32 | 002 | AMPEL | 001 | EN-US | 0001 | `DMC-21-001-32-002-AMPEL-001-EN-US-0001` |
+| 21 | 002 | 32 | 002 | AMPEL | 001 | EN-US | 0001 | `DMC-21-002-32-002-AMPEL-001-EN-US-0001` |
+| 21 | 003 | 32 | 002 | AMPEL | 001 | EN-US | 0001 | `DMC-21-003-32-002-AMPEL-001-EN-US-0001` |
+| 21 | 004 | 32 | 002 | AMPEL | 001 | EN-US | 0001 | `DMC-21-004-32-002-AMPEL-001-EN-US-0001` |
+| 21 | 005 | 32 | 002 | AMPEL | 001 | EN-US | 0001 | `DMC-21-005-32-002-AMPEL-001-EN-US-0001` |
+
+---
+
+## **Step 4: Assign DMCs to Sections**
+Now, let’s map these **DMCs** to your **Maintenance and Troubleshooting Manual** sections.
+
+### **5. Maintenance and Troubleshooting**
+#### **5.1 Air Conditioning Packs**  
+- **DMC:** `DMC-21-001-31-001-AMPEL-001-EN-US-0001`
+  - Inspect and clean heat exchangers  
+  - Check and replenish refrigerant levels  
+  - Inspect and test compressors  
+  - Inspect and test expansion valves  
+  - Inspect and test temperature sensors  
+  - Inspect and test control valves  
+
+#### **5.2 Air Distribution System**  
+- **DMC:** `DMC-21-002-31-001-AMPEL-001-EN-US-0001`
+  - Inspect and clean ducts and diffusers  
+  - Inspect and test air mix valves  
+  - Inspect and test recirculation fans  
+
+#### **5.3 Temperature Control System**  
+- **DMC:** `DMC-21-003-31-001-AMPEL-001-EN-US-0001`
+  - Inspect and test temperature sensors  
+  - Inspect and test control valves  
+  - Inspect and test Electronic Control Unit (ECU)  
+
+#### **5.4 Humidity Control System**  
+- **DMC:** `DMC-21-004-31-001-AMPEL-001-EN-US-0001`
+  - Inspect and test humidity sensors  
+  - Inspect and test control valves  
+  - Inspect and test Electronic Control Unit (ECU)  
+
+#### **5.5 Air Quality Control System**  
+- **DMC:** `DMC-21-005-31-001-AMPEL-001-EN-US-0001`
+  - Inspect and replace air filters  
+  - Inspect and test air quality sensors  
+  - Inspect and test control valves  
+  - Inspect and test Electronic Control Unit (ECU)  
+
+---
+
+### **6. Troubleshooting Procedures**
+#### **6.1 Air Conditioning Packs**  
+- **DMC:** `DMC-21-001-32-002-AMPEL-001-EN-US-0001`
+  - Diagnose issues with temperature sensors  
+  - Troubleshoot ECU malfunctions  
+  - Resolve refrigerant circulation problems  
+
+#### **6.2 Air Distribution System**  
+- **DMC:** `DMC-21-002-32-002-AMPEL-001-EN-US-0001`
+  - Diagnose airflow inconsistencies  
+  - Troubleshoot faulty air mix valves  
+
+#### **6.3 Temperature Control System**  
+- **DMC:** `DMC-21-003-32-002-AMPEL-001-EN-US-0001`
+  - Diagnose inaccurate temperature readings  
+  - Troubleshoot ECU malfunctions  
+
+#### **6.4 Humidity Control System**  
+- **DMC:** `DMC-21-004-32-002-AMPEL-001-EN-US-0001`
+  - Diagnose sensor calibration errors  
+  - Troubleshoot malfunctioning humidity control  
+
+#### **6.5 Air Quality Control System**  
+- **DMC:** `DMC-21-005-32-002-AMPEL-001-EN-US-0001`
+  - Troubleshoot air filter clogging  
+  - Diagnose malfunctioning air quality sensors  
 
 ---
 
@@ -320,10 +426,4 @@ The Air Conditioning System Schematics document for the AMPEL360XWLRGA aircraft 
 **Document Code:** GPAM-AMPEL-0201-21-001-A
 ```
 
-**To use this code:**
 
-1.  **Copy the entire Markdown code block above.**
-2.  **Replace the content** of your `GPAM-AMPEL-0201-21-001-A.md` file with this code.
-3.  **Preview:**  Preview the Markdown file to ensure that the Mermaid diagrams now render with black text and that all other formatting is correct.
-
-Let me know if the text color is now black in your diagrams and if you have any other adjustments!
