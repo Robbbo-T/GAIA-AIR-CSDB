@@ -1,0 +1,40 @@
+# Airworthiness Limitations (S100D)
+
+**Document Code:** GPAM-AMPEL-0201-05-003-A  
+**Owner:** GAIA AIR Maintenance Team  
+**Version:** 0.1  
+**Date:** 2025-02-17  
+**Status:** Placeholder  
+**Classification:** Internal / Restricted  
+**Review Cycle:** Annual  
+
+## 1. Introduction
+
+### 1.1 Purpose
+This document outlines the airworthiness limitations for the AMPEL360XWLRGA aircraft. It defines the mandatory maintenance tasks, intervals, and procedures to ensure the continued airworthiness and safety of the aircraft.
+
+### 1.2 Scope
+The scope of this document includes all airworthiness limitations for the AMPEL360XWLRGA aircraft, covering airframe, systems, and components.
+
+### 1.3 Objectives
+- Establish a comprehensive set of airworthiness limitations for the AMPEL360XWLRGA aircraft.
+- Define the mandatory maintenance tasks and intervals.
+- Ensure compliance with regulatory and manufacturer requirements.
+- Maintain the airworthiness and safety of the aircraft.
+
+### 1.4 Airworthiness Limitations
+The airworthiness limitations for the AMPEL360XWLRGA aircraft include the following:
+- Structural inspections
+- System checks and tests
+- Component replacements
+- Life-limited parts
+
+### 1.5 Maintenance Intervals
+The maintenance intervals for the airworthiness limitations are based on flight hours, calendar time, and cycles. The specific intervals for each task are defined in the maintenance planning document.
+
+### 1.6 Review and Approval
+This document will be reviewed and approved by the GAIA AIR Maintenance Team on an annual basis.
+
+---
+
+**Note:** This is a placeholder document. Detailed content will be added in future revisions.
