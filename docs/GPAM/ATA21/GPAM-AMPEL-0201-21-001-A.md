@@ -1,4 +1,3 @@
-
 # Air Conditioning System Schematics (S1000D)
 **Document Code:** GPAM-AMPEL-0201-21-001-A
 
@@ -415,15 +414,44 @@ The Air Conditioning System Schematics document for the AMPEL360XWLRGA aircraft 
 
 ---
 
-## 9. Revision History
+## 9. Roles and Responsibilities
+
+Clear roles and responsibilities are crucial for the successful creation, maintenance, and evolution of the ECS documentation. Assigning ownership for each Data Module ensures accountability and streamlines the workflow. The following table outlines the proposed roles responsible for the development and upkeep of each Data Module. These roles are indicative and may need to be adjusted based on the specific organizational structure and project team.
+
+| DMC                                | Title                                        | Primary Responsibility Role(s)                | Supporting Role(s)                                |
+|------------------------------------|----------------------------------------------|-------------------------------------------------|---------------------------------------------------|
+| DM-FTC_21-00-00-00-000-AGI-D        | ECS Abstract (AGI)                             | Systems Engineering, Project Management          | Lead Design Engineer, Technical Publications Lead      |
+| DM-FTC_21-00-00-00-000-CON-D        | ECS Concept (Preliminary Design)             | Lead Design Engineer, Systems Engineering         | Design Engineering Team, Aerodynamics Team          |
+| DM-FTC_21-00-00-00-000-DES-SYS-DESC | ECS Design - System Description              | Design Engineering Team                          | Systems Engineering, Technical Specialist (ECS)      |
+| DM-FTC_21-00-00-00-010-DES-SYS-STD  | ECS Design - System Standard Practices        | Design Engineering Team, Reliability Engineering | Systems Engineering, Certification Engineer        |
+| DM-FTC_21-00-00-00-030-DES-COMP-LST | ECS Design - Components List                 | Component Engineering, Procurement              | Design Engineering Team, Supply Chain Management      |
+| DM-FTC_21-00-00-00-040-DES-PBS      | ECS Design - Components Breakdown (PBS)       | Systems Engineering, Design Engineering Team      | Configuration Management, Integration Engineering    |
+| DM-FTC_21-00-00-00-050-DES-BOM      | ECS Design - Bill of Materials (BoM)          | Procurement, Component Engineering              | Supply Chain Management, Configuration Management      |
+| DM-FTC_21-00-00-00-051-DES-SYS-STR  | ECS Design - System Standard Practices & Structures | Structural Engineering, Design Engineering Team  | Materials Engineering, Certification Engineer        |
+| DM-FTC_21-00-00-00-053-DES-TRB      | ECS Design - Troubleshooting                  | Maintenance Engineering, Technical Support        | Field Service Engineers, Reliability Engineering     |
+| DM-FTC_21-00-00-00-060-DES-PROP     | ECS Design - Propellant Interaction           | Fuel Systems Engineering, Safety Engineering     | Chemical Engineering (if applicable), Ground Operations |
+| DM-FTC_21-00-00-00-070-DES-ENG-INT  | ECS Design - Engine Integration               | Propulsion Engineering, Design Engineering Team    | Engine OEM Liaison, Flight Controls Engineering      |
+| DM-FTC_21-00-00-00-080-DES-SAF-MOD  | ECS Design - Safety and Failure Modes         | Safety Engineering, Reliability Engineering       | Design Engineering Team, Certification Engineer        |
+| DM-FTC_21-00-00-00-090-DES-ENV-IMP  | ECS Design - Environmental Impact             | Environmental Engineering, Sustainability Team    | Design Engineering Team, Regulatory Compliance     |
+| DM-FTC_21-00-00-00-100-DES-MNT-PRO  | ECS Design - Maintenance Procedures           | Maintenance Engineering, Technical Publications   | Field Service Engineers, Reliability Engineering     |
+| DM-FTC_21-00-00-00-103-DES-HMI      | Human-Machine Interface (HMI) Design          | Human Factors Engineering, Avionics Engineering   | Flight Operations, Maintenance Engineering         |
+| DM-FTC_21-00-00-00-110-DES-EVO-UPG | ECS Design - System Evolution and Upgrades      | Systems Engineering, Product Development        | Design Engineering Team, Certification Engineer        |
+| DM-FTC_21-00-00-00-120-DES-TRN-DOC  | ECS Design - Training and Documentation       | Technical Publications, Training Department       | Subject Matter Experts (from relevant engineering teams) |
+| DM-FTC_21-00-00-00-130-DES-PER-MET  | ECS Design - Performance Metrics              | Performance Analysis, Systems Engineering        | Flight Test Engineering, Data Analytics Team         |
+| DM-FTC_21-00-00-00-140-DES-CFG-MGT  | ECS Design - Configuration Management         | Configuration Management, Quality Assurance     | All DM Owners (for content inputs and approvals)      |
+| DM-FTC_21-00-00-00-150-DES-INN-CON  | ECS Design - Innovative Considerations        | Innovation Team, R&D Department                 | Systems Engineering, Future Product Strategy        |
+| DM-FTC_21-00-00-00-170-DES-ACR      | ECS Design - Acronyms                         | Technical Publications, Configuration Management  | All DM Owners (for acronym contribution and review) |
+
+**Note:** "Primary Responsibility Role(s)" indicates the team or role primarily accountable for the content and updates of the DM. "Supporting Role(s)" indicates teams or roles that contribute to or review the DM content. These assignments are preliminary and should be formally validated and adjusted within the project's organizational context.
+
+---
+
+## 10. Revision History
 
 | Version | Date       | Author(s)                | Description of Changes                                  |
 | :------ | :--------- | :----------------------- | :-------------------------------------------------------- |
 | 1.0     | 2025-02-14 | AI Assistant & Amedeo Pelliccia     | Initial Draft Document                                  |
-
+| 1.1     | 2025-10-27 | Amedeo Pelliccia         | Added "Roles and Responsibilities" section              |
 
 ---
 **Document Code:** GPAM-AMPEL-0201-21-001-A
-```
-
-
