@@ -6,16 +6,6 @@
 
 The Autopilot Modes and Functions document for the AMPEL360XWLRGA aircraft provides the necessary guidelines and specifications for the design, installation, and maintenance of the autopilot system. This document ensures the proper functioning and operational efficiency of the autopilot system, maintaining the safety and comfort of the aircraft's occupants.
 
-## System Overview
-
-The autopilot system in the AMPEL360XWLRGA aircraft is designed to provide automatic control of the aircraft's flight path, reducing the workload on the pilot and enhancing flight safety. The system consists of the following main components:
-
-- Autopilot Computer
-- Control Panel
-- Sensors and Feedback Mechanisms
-- Actuators
-- Communication Interfaces
-
 ## Autopilot Modes
 
 The autopilot system supports various modes of operation, each designed to control specific aspects of the aircraft's flight path. The following sections provide an overview of the key autopilot modes.

@@ -6,7 +6,7 @@
 
 The Optimized Influence Protocol (OIP) for Pilot-Aircraft Synergy is designed to enhance the interaction between the pilot and the aircraft, ensuring optimal performance and safety. This document outlines the specifications, architecture, and operational procedures for the OIP, providing a comprehensive guide for its implementation and maintenance.
 
-## System Overview
+## Protocol
 
 The OIP is an advanced system that integrates various aircraft systems and pilot inputs to achieve a harmonious and efficient flight experience. The system consists of the following main components:
 

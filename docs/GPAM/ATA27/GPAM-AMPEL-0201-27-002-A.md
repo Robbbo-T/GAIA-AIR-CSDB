@@ -1,6 +1,6 @@
 # Secondary Flight Control System Description (S1000D)
 
-## Overview
+## Introduction
 
 The secondary flight control system is responsible for the control and stability of the aircraft during flight. It includes the following components:
 - Flaps

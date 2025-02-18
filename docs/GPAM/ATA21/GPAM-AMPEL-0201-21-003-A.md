@@ -6,7 +6,7 @@
 
 The Air Source Selection and Configuration document for the AMPEL360XWLRGA aircraft provides the necessary guidelines and specifications for the design, installation, and maintenance of the air source selection system. This document ensures the proper functioning and operational efficiency of the air source selection system, maintaining the comfort and safety of the aircraft's occupants.
 
-## System Overview
+## Selection
 
 The air source selection system in the AMPEL360XWLRGA aircraft is designed to provide a reliable and efficient source of air for the cabin and other systems. The system consists of the following main components:
 
@@ -59,7 +59,7 @@ The air quality control system ensures the supply of clean and fresh air to the 
 - Control Valves
 - Electronic Control Unit (ECU)
 
-## System Schematics
+## Configuration
 
 The following sections provide detailed schematics of the air source selection system components and their interconnections.
 

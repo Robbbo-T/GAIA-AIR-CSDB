@@ -6,7 +6,7 @@
 
 The Alternative Energy Harvesting and Control System (AEHCS) for the AMPEL360XWLRGA aircraft is designed to harness and manage alternative energy sources to enhance the aircraft's efficiency and reduce its environmental impact. This document provides an overview of the AEHCS, including its components, architecture, and operation.
 
-## System Overview
+## Overview
 
 The AEHCS integrates multiple alternative energy harvesting technologies, including triboelectric nanogenerators (TENGs), piezoelectric energy harvesters, and concave solar panels. The system is designed to capture and convert ambient energy into electrical power, which is then stored and managed for use by the aircraft's systems.
 
@@ -26,19 +26,19 @@ Piezoelectric energy harvesters generate electrical power by converting mechanic
 
 Concave solar panels are designed to capture solar energy more efficiently by focusing sunlight onto photovoltaic cells. The AEHCS integrates concave solar panels on the aircraft's surface to maximize solar energy harvesting.
 
-### System Architecture
+## Architecture
 
 The AEHCS architecture is designed to efficiently capture, convert, store, and manage alternative energy sources. The following sections provide an overview of the system architecture.
 
-#### Energy Harvesting Modules
+### Energy Harvesting Modules
 
 The energy harvesting modules include TENGs, piezoelectric energy harvesters, and concave solar panels. These modules are strategically placed on the aircraft to capture ambient energy from various sources.
 
-#### Energy Conversion and Storage
+### Energy Conversion and Storage
 
 The energy conversion and storage subsystem is responsible for converting the harvested energy into electrical power and storing it in the aircraft's battery system. This subsystem includes power converters, charge controllers, and energy storage devices.
 
-#### Energy Management and Control
+### Energy Management and Control
 
 The energy management and control subsystem is responsible for monitoring and managing the flow of energy within the AEHCS. This subsystem includes control algorithms, sensors, and communication interfaces to ensure efficient energy utilization and distribution.
 

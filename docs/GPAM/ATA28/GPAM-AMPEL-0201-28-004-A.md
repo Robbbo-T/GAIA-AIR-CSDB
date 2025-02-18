@@ -58,6 +58,17 @@ The following steps outline the procedure for refueling the AMPEL360XWLRGA aircr
    - Record the date, time, and quantity of fuel added in the aircraft's maintenance logbook.
    - Include the name and signature of the technician performing the refueling.
 
+## Safety Precautions
+
+The following safety precautions must be observed during the refueling process to ensure the safety of personnel and the aircraft:
+
+- Ensure that all personnel involved in the refueling process are properly trained and certified.
+- Wear appropriate personal protective equipment (PPE) at all times.
+- Do not smoke or use open flames in the refueling area.
+- Ensure that the aircraft and refueling equipment are properly grounded to prevent static discharge.
+- Monitor the refueling process closely to prevent overfilling and fuel spills.
+- In the event of a fuel spill, immediately stop the refueling process and follow the spill response procedures outlined in the aircraft's maintenance manual.
+
 ## Documentation and Records
 
 All refueling activities must be documented in the aircraft's maintenance logbook. The following information should be recorded for each refueling procedure:

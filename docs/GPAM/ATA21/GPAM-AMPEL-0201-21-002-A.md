@@ -6,7 +6,7 @@
 
 The Cabin Temperature Control System (CTCS) for the AMPEL360XWLRGA aircraft is designed to maintain a comfortable cabin environment by regulating the temperature. This document outlines the components, operation, and maintenance procedures for the CTCS, ensuring the continued comfort and safety of the aircraft's occupants.
 
-## System Overview
+## Control System
 
 The CTCS consists of the following main components:
 
@@ -16,23 +16,25 @@ The CTCS consists of the following main components:
 - Electronic Control Unit (ECU)
 - Air Distribution System
 
-## Temperature Sensors
+## Components
+
+### Temperature Sensors
 
 The temperature sensors are responsible for monitoring the cabin temperature and providing feedback to the ECU. The sensors are strategically placed throughout the cabin to ensure accurate temperature readings.
 
-## Control Valves
+### Control Valves
 
 The control valves regulate the flow of hot and cold air into the air mix valves, maintaining the desired cabin temperature. The valves are controlled by the ECU based on the temperature readings from the sensors.
 
-## Air Mix Valves
+### Air Mix Valves
 
 The air mix valves blend the hot and cold air to achieve the desired temperature. The valves are controlled by the ECU and adjust the air mixture based on the temperature settings.
 
-## Electronic Control Unit (ECU)
+### Electronic Control Unit (ECU)
 
 The ECU is the central component of the CTCS, responsible for processing the temperature readings from the sensors and controlling the operation of the control valves and air mix valves. The ECU ensures that the cabin temperature remains within the desired range.
 
-## Air Distribution System
+### Air Distribution System
 
 The air distribution system ensures the even distribution of conditioned air throughout the cabin. The system consists of ducts, diffusers, and recirculation fans, which work together to maintain a comfortable cabin environment.
 
