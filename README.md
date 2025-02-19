@@ -1,6 +1,3 @@
-
-<!-- ******************* START: PASTE THIS SECTION AT THE VERY TOP OF YOUR README.md ******************* -->
-
 **Tip: Use Ctrl+F (or Cmd+F on Mac) to search this document for specific keywords, document codes (e.g., GPAM-AMPEL-0201-21), or ATA chapters.**
 
 <br>
