@@ -3,7 +3,7 @@
 product: GAIA-AIR-CSDB
 applicability: AMPEL Hydraulic System
 ata: 29
-dmc: GPAM-AMPEL-0201-28-001-A
+dmc: GPAM-AMPEL-0201-29-001-A
 issueDate: 2024-01-26
 status: final
 security: public
@@ -11,7 +11,7 @@ type: maintenance procedure
 title: Hydraulic System Leak Check and Component Inspection
 ---
 
-# GPAM-AMPEL-0201-28-001-A: Hydraulic System Leak Check and Component Inspection
+# GPAM-AMPEL-0201-29-001-A: Hydraulic System Leak Check and Component Inspection
 
 ## Table of Contents
 
