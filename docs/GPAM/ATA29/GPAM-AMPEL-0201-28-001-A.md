@@ -108,21 +108,73 @@ Refer to [AMM-ATA12-24-001](#cross-reference-to-AMM-ATA12-24-001) for aircraft s
 *   Verify pressure output is between 2900-3100 PSI using the hydraulic test stand per [CMM-AMPEL-HYD-PUMP-100, Section 4.1](#cross-reference-to-CMM-AMPEL-HYD-PUMP-100).
 
     ```svg
-Thought for 2 seconds```mermaid
-Diagram.download-icon {
-            cursor: pointer;
-            transform-origin: center;
-        }
-        .download-icon .arrow-part {
-            transition: transform 0.35s cubic-bezier(0.35, 0.2, 0.14, 0.95);
-             transform-origin: center;
-        }
-        button:has(.download-icon):hover .download-icon .arrow-part, button:has(.download-icon):focus-visible .download-icon .arrow-part {
-          transform: translateY(-1.5px);
-        }
-        #mermaid-diagram-r5b0{font-family:var(--font-geist-sans);font-size:12px;fill:#000000;}#mermaid-diagram-r5b0 .error-icon{fill:#552222;}#mermaid-diagram-r5b0 .error-text{fill:#552222;stroke:#552222;}#mermaid-diagram-r5b0 .edge-thickness-normal{stroke-width:1px;}#mermaid-diagram-r5b0 .edge-thickness-thick{stroke-width:3.5px;}#mermaid-diagram-r5b0 .edge-pattern-solid{stroke-dasharray:0;}#mermaid-diagram-r5b0 .edge-thickness-invisible{stroke-width:0;fill:none;}#mermaid-diagram-r5b0 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-diagram-r5b0 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-diagram-r5b0 .marker{fill:#666;stroke:#666;}#mermaid-diagram-r5b0 .marker.cross{stroke:#666;}#mermaid-diagram-r5b0 svg{font-family:var(--font-geist-sans);font-size:12px;}#mermaid-diagram-r5b0 p{margin:0;}#mermaid-diagram-r5b0 .label{font-family:var(--font-geist-sans);color:#000000;}#mermaid-diagram-r5b0 .cluster-label text{fill:#333;}#mermaid-diagram-r5b0 .cluster-label span{color:#333;}#mermaid-diagram-r5b0 .cluster-label span p{background-color:transparent;}#mermaid-diagram-r5b0 .label text,#mermaid-diagram-r5b0 span{fill:#000000;color:#000000;}#mermaid-diagram-r5b0 .node rect,#mermaid-diagram-r5b0 .node circle,#mermaid-diagram-r5b0 .node ellipse,#mermaid-diagram-r5b0 .node polygon,#mermaid-diagram-r5b0 .node path{fill:#eee;stroke:#999;stroke-width:1px;}#mermaid-diagram-r5b0 .rough-node .label text,#mermaid-diagram-r5b0 .node .label text{text-anchor:middle;}#mermaid-diagram-r5b0 .node .katex path{fill:#000;stroke:#000;stroke-width:1px;}#mermaid-diagram-r5b0 .node .label{text-align:center;}#mermaid-diagram-r5b0 .node.clickable{cursor:pointer;}#mermaid-diagram-r5b0 .arrowheadPath{fill:#333333;}#mermaid-diagram-r5b0 .edgePath .path{stroke:#666;stroke-width:2.0px;}#mermaid-diagram-r5b0 .flowchart-link{stroke:#666;fill:none;}#mermaid-diagram-r5b0 .edgeLabel{background-color:white;text-align:center;}#mermaid-diagram-r5b0 .edgeLabel p{background-color:white;}#mermaid-diagram-r5b0 .edgeLabel rect{opacity:0.5;background-color:white;fill:white;}#mermaid-diagram-r5b0 .labelBkg{background-color:rgba(255, 255, 255, 0.5);}#mermaid-diagram-r5b0 .cluster rect{fill:hsl(0, 0%, 98.9215686275%);stroke:#707070;stroke-width:1px;}#mermaid-diagram-r5b0 .cluster text{fill:#333;}#mermaid-diagram-r5b0 .cluster span{color:#333;}#mermaid-diagram-r5b0 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:var(--font-geist-sans);font-size:12px;background:hsl(-160, 0%, 93.3333333333%);border:1px solid #707070;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-diagram-r5b0 .flowchartTitleText{text-anchor:middle;font-size:18px;fill:#000000;}#mermaid-diagram-r5b0 .flowchart-link{stroke:hsl(var(--gray-400));stroke-width:1px;}#mermaid-diagram-r5b0 .marker,#mermaid-diagram-r5b0 marker,#mermaid-diagram-r5b0 marker *{fill:hsl(var(--gray-400))!important;stroke:hsl(var(--gray-400))!important;}#mermaid-diagram-r5b0 .label,#mermaid-diagram-r5b0 text,#mermaid-diagram-r5b0 text>tspan{fill:hsl(var(--black))!important;color:hsl(var(--black))!important;}#mermaid-diagram-r5b0 .background,#mermaid-diagram-r5b0 rect.relationshipLabelBox{fill:hsl(var(--white))!important;}#mermaid-diagram-r5b0 .entityBox,#mermaid-diagram-r5b0 .attributeBoxEven{fill:hsl(var(--gray-150))!important;}#mermaid-diagram-r5b0 .attributeBoxOdd{fill:hsl(var(--white))!important;}#mermaid-diagram-r5b0 .label-container,#mermaid-diagram-r5b0 rect.actor{fill:hsl(var(--white))!important;stroke:hsl(var(--gray-400))!important;}#mermaid-diagram-r5b0 line{stroke:hsl(var(--gray-400))!important;}#mermaid-diagram-r5b0 :root{--mermaid-font-family:var(--font-geist-sans);}#mermaid-diagram-r5b0 .inspection rect{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection polygon{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection ellipse{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection circle{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection path{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .setup rect{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup polygon{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup ellipse{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup circle{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup path{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .testing rect{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing polygon{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing ellipse{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing circle{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing path{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .decision rect{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision polygon{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision ellipse{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision circle{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision path{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .result rect{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result polygon{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result ellipse{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result circle{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result path{fill:#ffebee!important;stroke:#b71c1c!important;}Test PreparationCheck for CracksCheck for DentsCheck FittingsYesNoYesSetup CompleteTest CompleteNoYesNoYesStart InspectionVisual Inspection• All Surfaces• Housing Joints• Mounting Points• Max Depth: 0.010&#39;• Document Location• Input: 65 ft-lbs• Output: 55 ft-lbs• Drain: 25 ft-lbsDamage Found?Document DefectsRepair/AdjustRe&#45;inspectWithin Limits?Test Stand SetupConnect Lines• Inlet: 30 PSI Min• Return: Open• Case Drain: ConnectedWarm Up System• Oil Temp: 120°F• Run Time: 5 minDis&#45;assembly for TestingStep 1: Remove All ConnectorsStep 2: Clean and Inspect InternalPartsStep 3: Assemble with Test GearsReady for TestingPressure Testing• Target: 2900-3100 PSI• Hold: 2 minutesWithin Limits?Check for Leaks• External Seals• Connections• Case Drain FlowVerify Temperature120°F ±10°FVerify Speed1800 RPM ±50Issue Found?Accept UnitDocument ActionsReturn to ServiceEnd Inspection
+## Diagrammatic Recap of GPAM Documentation Suite
+
+This Markdown provides a diagrammatic recap of the different types of diagrams developed for the GPAM (Ground Procedure and Maintenance Manual) documentation suite. This visual index helps users understand the structure of the visual aids and quickly locate the appropriate diagram for their needs.
+
+```mermaid
+flowchart TB
+    root("GPAM Diagram Types Overview")
+    root --> workflow(Overall Maintenance Workflow Diagrams)
+    root --> inspection(Component Inspection Diagrams)
+    root --> repair(Repair Procedure Diagrams)
+    root --> troubleshoot(Troubleshooting Guides)
+
+    subgraph workflow_cluster [Overall Workflow Diagrams]
+        direction TB
+        workflow --> workflow_main["Main Maintenance Workflow <br/> (Diagram 1)"]
+    end
+
+    subgraph inspection_cluster [Component Inspection Diagrams]
+        direction TB
+        inspection --> inspect_actuator["Actuator Inspection <br/> (Diagram 3)"]
+        inspection --> inspect_reservoir["Reservoir Inspection <br/> (Diagram 4)"]
+        inspection --> inspect_pump["Pump Inspection <br/> (Diagram - Textual Section 6.3)"]
+    end
+
+    subgraph repair_cluster [Repair Procedure Diagrams]
+        direction TB
+        repair --> repair_line["Line Replacement <br/> (Diagram 5)"]
+        repair --> repair_actuator_seal["Actuator Seal Replacement <br/> (Diagram 6)"]
+        repair --> repair_pump_seal["Pump Seal Replacement <br/> (Diagram 7)"]
+        repair --> repair_valve_overhaul["Valve Overhaul <br/> (Diagram 8)"]
+    end
+
+    subgraph troubleshoot_cluster [Troubleshooting Guides]
+        direction TB
+        troubleshoot --> troubleshoot_hydraulic["Hydraulic System Troubleshooting <br/> (Diagram 2)"]
+    end
+
+    style root fill:#f9f9f9,stroke:#333,stroke-width:2px
+    style workflow_cluster fill:#e0f7fa,stroke:#333,stroke-width:1px
+    style inspection_cluster fill:#e0f7fa,stroke:#333,stroke-width:1px
+    style repair_cluster fill:#f0f4c3,stroke:#333,stroke-width:1px
+    style troubleshoot_cluster fill:#ffe0b2,stroke:#333,stroke-width:1px
+
+    linkStyle default stroke:#999,stroke-width:1px,color:#555
 ```
 
+**Diagrammatic Recap - Explanation:**
+
+This Mermaid diagram provides a high-level visual index of the GPAM diagrammatic documentation:
+
+*   **"GPAM Diagram Types Overview" (Central Node):**  Represents the entry point to the visual index.
+*   **Main Diagram Categories (Branches):**
+    *   **Overall Maintenance Workflow Diagrams:**  Diagrams showing the general maintenance process flow.
+    *   **Component Inspection Diagrams:** Diagrams detailing inspection procedures for specific components.
+    *   **Repair Procedure Diagrams:** Diagrams outlining step-by-step repair tasks.
+    *   **Troubleshooting Guides:** Diagrams providing decision trees for diagnosing system issues.
+*   **Subgraphs for Each Category:** Each category is visually grouped within a subgraph, making the diagram more organized and readable.
+*   **Diagram Labels and Numbers:** Each specific diagram is labeled with its name and assigned Diagram number for easy reference within the GPAM documentation.
+*   **Consistent Styling:**  Color coding and consistent link styles are used to enhance visual clarity and organization.
+
+**How to Use this Diagram:**
+
+1.  **Understand Diagram Types:**  Quickly grasp the different categories of visual documentation available.
+2.  **Navigate to Specific Diagrams:** Use the diagram as a visual index to locate the diagram needed for a particular task (e.g., "I need the diagram for Actuator Seal Replacement... Ah, it's Diagram 6 under 'Repair Procedure Diagrams'").
+3.  **See the Big Picture:** Understand how the different types of diagrams fit together to create a comprehensive visual documentation suite for Hydraulic System Maintenance.
+
+This Markdown provides the Mermaid code for the diagrammatic recap, along with a textual explanation of its structure and usage. You can copy and paste this Markdown directly into your GPAM documentation.
 #### 6.3.1 Hydraulic Pump (AMPEL-HYD-PUMP-100) `<a name="hydraulic-pump-ampel-hyd-pump-100">``</a>`
 
 **1. Visual Inspection Requirements:**
@@ -220,15 +272,7 @@ Diagram.download-icon {
 - Any repairs or adjustments made
 - Inspector name and date
 
-
-
-
-
-Would you like me to:
-
-1. Add specific leak test procedures?
-2. Include additional acceptance criteria?
-3. Provide detailed repair procedures for common issues?    ```
+``
 
 #### 6.3.2 Hydraulic Actuators (AMPEL-ACT-FLAP-100) <a name="hydraulic-actuators-ampel-act-flap-100"></a>
 
