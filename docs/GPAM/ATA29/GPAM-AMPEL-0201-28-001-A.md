@@ -108,8 +108,127 @@ Refer to [AMM-ATA12-24-001](#cross-reference-to-AMM-ATA12-24-001) for aircraft s
 *   Verify pressure output is between 2900-3100 PSI using the hydraulic test stand per [CMM-AMPEL-HYD-PUMP-100, Section 4.1](#cross-reference-to-CMM-AMPEL-HYD-PUMP-100).
 
     ```svg
-    <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI0YwRjBGMCUiIC8+CgogIDwhLS0gQ2lyY2xlIC0tPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQwIiBzdHlsZT0iZmlsbDojMDA3OGZmOyIgLz4KCiAgPHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBzdHlsZT0iZm9udC1zaXplOjIwcHg7Zm9udC1mYW1pbHk6QXJpYWwsc2Fucy1zZXJpZjtmaWxsOiNGRkZGRkY7Ij5QdW1wPC90ZXh0Pgo8L3N2Zz4K" alt="Hydraulic Pump Diagram">
-    ```
+Thought for 2 seconds```mermaid
+Diagram.download-icon {
+            cursor: pointer;
+            transform-origin: center;
+        }
+        .download-icon .arrow-part {
+            transition: transform 0.35s cubic-bezier(0.35, 0.2, 0.14, 0.95);
+             transform-origin: center;
+        }
+        button:has(.download-icon):hover .download-icon .arrow-part, button:has(.download-icon):focus-visible .download-icon .arrow-part {
+          transform: translateY(-1.5px);
+        }
+        #mermaid-diagram-r5b0{font-family:var(--font-geist-sans);font-size:12px;fill:#000000;}#mermaid-diagram-r5b0 .error-icon{fill:#552222;}#mermaid-diagram-r5b0 .error-text{fill:#552222;stroke:#552222;}#mermaid-diagram-r5b0 .edge-thickness-normal{stroke-width:1px;}#mermaid-diagram-r5b0 .edge-thickness-thick{stroke-width:3.5px;}#mermaid-diagram-r5b0 .edge-pattern-solid{stroke-dasharray:0;}#mermaid-diagram-r5b0 .edge-thickness-invisible{stroke-width:0;fill:none;}#mermaid-diagram-r5b0 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-diagram-r5b0 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-diagram-r5b0 .marker{fill:#666;stroke:#666;}#mermaid-diagram-r5b0 .marker.cross{stroke:#666;}#mermaid-diagram-r5b0 svg{font-family:var(--font-geist-sans);font-size:12px;}#mermaid-diagram-r5b0 p{margin:0;}#mermaid-diagram-r5b0 .label{font-family:var(--font-geist-sans);color:#000000;}#mermaid-diagram-r5b0 .cluster-label text{fill:#333;}#mermaid-diagram-r5b0 .cluster-label span{color:#333;}#mermaid-diagram-r5b0 .cluster-label span p{background-color:transparent;}#mermaid-diagram-r5b0 .label text,#mermaid-diagram-r5b0 span{fill:#000000;color:#000000;}#mermaid-diagram-r5b0 .node rect,#mermaid-diagram-r5b0 .node circle,#mermaid-diagram-r5b0 .node ellipse,#mermaid-diagram-r5b0 .node polygon,#mermaid-diagram-r5b0 .node path{fill:#eee;stroke:#999;stroke-width:1px;}#mermaid-diagram-r5b0 .rough-node .label text,#mermaid-diagram-r5b0 .node .label text{text-anchor:middle;}#mermaid-diagram-r5b0 .node .katex path{fill:#000;stroke:#000;stroke-width:1px;}#mermaid-diagram-r5b0 .node .label{text-align:center;}#mermaid-diagram-r5b0 .node.clickable{cursor:pointer;}#mermaid-diagram-r5b0 .arrowheadPath{fill:#333333;}#mermaid-diagram-r5b0 .edgePath .path{stroke:#666;stroke-width:2.0px;}#mermaid-diagram-r5b0 .flowchart-link{stroke:#666;fill:none;}#mermaid-diagram-r5b0 .edgeLabel{background-color:white;text-align:center;}#mermaid-diagram-r5b0 .edgeLabel p{background-color:white;}#mermaid-diagram-r5b0 .edgeLabel rect{opacity:0.5;background-color:white;fill:white;}#mermaid-diagram-r5b0 .labelBkg{background-color:rgba(255, 255, 255, 0.5);}#mermaid-diagram-r5b0 .cluster rect{fill:hsl(0, 0%, 98.9215686275%);stroke:#707070;stroke-width:1px;}#mermaid-diagram-r5b0 .cluster text{fill:#333;}#mermaid-diagram-r5b0 .cluster span{color:#333;}#mermaid-diagram-r5b0 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:var(--font-geist-sans);font-size:12px;background:hsl(-160, 0%, 93.3333333333%);border:1px solid #707070;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-diagram-r5b0 .flowchartTitleText{text-anchor:middle;font-size:18px;fill:#000000;}#mermaid-diagram-r5b0 .flowchart-link{stroke:hsl(var(--gray-400));stroke-width:1px;}#mermaid-diagram-r5b0 .marker,#mermaid-diagram-r5b0 marker,#mermaid-diagram-r5b0 marker *{fill:hsl(var(--gray-400))!important;stroke:hsl(var(--gray-400))!important;}#mermaid-diagram-r5b0 .label,#mermaid-diagram-r5b0 text,#mermaid-diagram-r5b0 text>tspan{fill:hsl(var(--black))!important;color:hsl(var(--black))!important;}#mermaid-diagram-r5b0 .background,#mermaid-diagram-r5b0 rect.relationshipLabelBox{fill:hsl(var(--white))!important;}#mermaid-diagram-r5b0 .entityBox,#mermaid-diagram-r5b0 .attributeBoxEven{fill:hsl(var(--gray-150))!important;}#mermaid-diagram-r5b0 .attributeBoxOdd{fill:hsl(var(--white))!important;}#mermaid-diagram-r5b0 .label-container,#mermaid-diagram-r5b0 rect.actor{fill:hsl(var(--white))!important;stroke:hsl(var(--gray-400))!important;}#mermaid-diagram-r5b0 line{stroke:hsl(var(--gray-400))!important;}#mermaid-diagram-r5b0 :root{--mermaid-font-family:var(--font-geist-sans);}#mermaid-diagram-r5b0 .inspection rect{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection polygon{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection ellipse{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection circle{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .inspection path{fill:#e1f5fe!important;stroke:#01579b!important;}#mermaid-diagram-r5b0 .setup rect{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup polygon{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup ellipse{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup circle{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .setup path{fill:#f3e5f5!important;stroke:#4a148c!important;}#mermaid-diagram-r5b0 .testing rect{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing polygon{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing ellipse{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing circle{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .testing path{fill:#e8f5e9!important;stroke:#1b5e20!important;}#mermaid-diagram-r5b0 .decision rect{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision polygon{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision ellipse{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision circle{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .decision path{fill:#fff3e0!important;stroke:#e65100!important;}#mermaid-diagram-r5b0 .result rect{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result polygon{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result ellipse{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result circle{fill:#ffebee!important;stroke:#b71c1c!important;}#mermaid-diagram-r5b0 .result path{fill:#ffebee!important;stroke:#b71c1c!important;}Test PreparationCheck for CracksCheck for DentsCheck FittingsYesNoYesSetup CompleteTest CompleteNoYesNoYesStart InspectionVisual Inspection• All Surfaces• Housing Joints• Mounting Points• Max Depth: 0.010&#39;• Document Location• Input: 65 ft-lbs• Output: 55 ft-lbs• Drain: 25 ft-lbsDamage Found?Document DefectsRepair/AdjustRe&#45;inspectWithin Limits?Test Stand SetupConnect Lines• Inlet: 30 PSI Min• Return: Open• Case Drain: ConnectedWarm Up System• Oil Temp: 120°F• Run Time: 5 minDis&#45;assembly for TestingStep 1: Remove All ConnectorsStep 2: Clean and Inspect InternalPartsStep 3: Assemble with Test GearsReady for TestingPressure Testing• Target: 2900-3100 PSI• Hold: 2 minutesWithin Limits?Check for Leaks• External Seals• Connections• Case Drain FlowVerify Temperature120°F ±10°FVerify Speed1800 RPM ±50Issue Found?Accept UnitDocument ActionsReturn to ServiceEnd Inspection
+```
+
+#### 6.3.1 Hydraulic Pump (AMPEL-HYD-PUMP-100) `<a name="hydraulic-pump-ampel-hyd-pump-100">``</a>`
+
+**1. Visual Inspection Requirements:**
+
+- Inspect for cracks, dents, and loose fittings per [CMM-AMPEL-HYD-PUMP-100, Section 3.2](#cross-reference-to-CMM-AMPEL-HYD-PUMP-100)
+
+- Surface inspection criteria:
+
+- No cracks permitted in any surface
+- Maximum dent depth: 0.010 inches
+- Document location of any damage
+
+
+
+- Torque specifications:
+
+- Input port fitting: 65 ft-lbs
+- Output port fitting: 55 ft-lbs
+- Case drain fitting: 25 ft-lbs
+
+
+
+
+
+
+
+
+**2. Disassembly and Test Preparation:**
+
+- Follow disassembly sequence:
+
+1. Remove all connectors and fittings
+2. Clean and inspect internal components
+3. Install test gears per specifications
+4. Verify all seals are properly seated
+
+
+
+
+
+**3. Test Stand Setup Requirements:**
+
+- Configure per [CMM-AMPEL-HYD-PUMP-100, Section 4.1](#cross-reference-to-CMM-AMPEL-HYD-PUMP-100)
+
+- System parameters:
+
+- Minimum inlet pressure: 30 PSI
+- Return line: unrestricted flow
+- Case drain: properly connected
+- Oil temperature: 120°F ±10°F
+- Warm-up time: 5 minutes minimum
+
+
+
+
+
+
+
+
+**4. Pressure Test Procedure:**
+
+- Test specifications:
+
+- Target pressure range: 2900-3100 PSI
+- Hold time: 2 minutes minimum
+- Operating speed: 1800 ±50 RPM
+- Maximum case drain flow: 2 GPM
+
+
+
+
+
+**5. Troubleshooting Guide:**
+
+- If pressure is out of range:
+
+1. Check all external seals
+2. Verify connection torques
+3. Monitor case drain flow
+4. Confirm oil temperature
+5. Verify operating speed
+6. Document all findings
+
+
+
+
+
+**6. Documentation Requirements:**
+
+- Record all test results:
+
+- Final pressure reading
+- Operating temperature
+- Case drain flow rate
+- Any repairs or adjustments made
+- Inspector name and date
+
+
+
+
+
+Would you like me to:
+
+1. Add specific leak test procedures?
+2. Include additional acceptance criteria?
+3. Provide detailed repair procedures for common issues?    ```
 
 #### 6.3.2 Hydraulic Actuators (AMPEL-ACT-FLAP-100) <a name="hydraulic-actuators-ampel-act-flap-100"></a>
 
