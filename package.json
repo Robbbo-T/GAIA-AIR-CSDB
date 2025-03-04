@@ -4,11 +4,11 @@
   "description": "Documentación Técnica y Digitalizada by GAIA AIR",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "your-build-command"
   },
   "author": "Robbbo-T",
   "license": "ISC",
   "dependencies": {
   }
 }
-
