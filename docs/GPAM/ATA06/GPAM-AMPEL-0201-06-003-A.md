@@ -1,4 +1,4 @@
-# AMPEL360XWLRGA Measurement Point Definitions
+# AMPEL360XWLRGA Measurement Point Definitions (S1000D)
 
 **Document Code:** GPAM-AMPEL-0201-06-003-A
 
