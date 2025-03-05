@@ -12,6 +12,20 @@ Se incorporará un gráfico de radar para visualizar la ventaja competitiva en:
 - Precisión predictiva
 - Adaptabilidad a condiciones extremas
 
+```mermaid
+radar
+  title Prototipo vs. Estado del Arte
+  indicator
+    Eficiencia computacional
+    Coste de implementación
+    Escalabilidad
+    Precisión predictiva
+    Adaptabilidad a condiciones extremas
+  data
+    Estado del Arte: 3, 4, 3, 4, 3
+    Prototipo: 4, 3, 4, 5, 4
+```
+
 ## Roadmap Visual
 
 Se implementará una línea temporal con los siguientes hitos:

@@ -43,6 +43,16 @@ El Plan de Obtención de Datos para el proyecto IP SKILLED ATMOSPHERIC AI detall
 - **Actualización en tiempo real:** Monitoreo y actualización continua de datos para asegurar la precisión y relevancia.
 - **Alertas y notificaciones:** Configuración de alertas para eventos críticos y anomalías detectadas.
 
+## Métodos de Obtención de Datos
+
+### Sensores y Dispositivos Utilizados
+
+- **Sensores de temperatura:** Monitoreo de la temperatura en diferentes componentes del sistema.
+- **Sensores de presión:** Medición de la presión en sistemas hidráulicos y neumáticos.
+- **Acelerómetros:** Detección de vibraciones y movimientos en la estructura del sistema.
+- **Sensores de humedad:** Control de los niveles de humedad en áreas críticas.
+- **Cámaras de alta resolución:** Captura de imágenes y videos para análisis visual.
+
 ## Conclusión
 
 El Plan de Obtención de Datos asegura que los datos recopilados sean precisos, relevantes y adecuados para los objetivos del proyecto IP SKILLED ATMOSPHERIC AI. La instrumentación adecuada, el análisis riguroso y la frecuencia de evaluación garantizan que el sistema se desarrolle y valide de manera efectiva.
