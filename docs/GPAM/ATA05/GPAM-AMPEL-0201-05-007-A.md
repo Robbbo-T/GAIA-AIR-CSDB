@@ -2,7 +2,17 @@
 
 **Document Code:** GPAM-AMPEL-0201-05-007-A
 
+## Introducción
+
+Este documento incluye ejemplos concretos de la propuesta de valor para el Sistema de Propulsión Cuántica (QPS) integrado en la aeronave AMPEL360XWLRGA.
+
 ## Casos de Uso
+
+- **Optimización de rutas logísticas:** Reducción del 18% en tiempos de entrega.
+- **Reducción de tiempos de parada en aeronaves:** Detección anticipada de fallos con 96% de precisión.
+- **Gestión climática en aviación:** Ajuste dinámico de rutas para minimizar impacto de turbulencias.
+
+### Value Proposition for Quantum Propulsion System
 
 - **Optimización de rutas logísticas:** Reducción del 18% en tiempos de entrega.
 - **Reducción de tiempos de parada en aeronaves:** Detección anticipada de fallos con 96% de precisión.

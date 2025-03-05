@@ -2,6 +2,10 @@
 
 **Document Code:** GPAM-AMPEL-0201-05-009-A
 
+## Introducción
+
+Este documento incluye detalles sobre el Sistema de Propulsión Cuántica (QPS) integrado en la aeronave AMPEL360XWLRGA.
+
 ## Diseño de Visualizaciones
 
 Se generarán gráficos para:
@@ -26,6 +30,25 @@ Se generarán gráficos para:
 
 5. **Integrar en la Documentación:**
    - Incluir los gráficos finales en la documentación del proyecto.
+
+### Next Steps for Quantum Propulsion System
+
+1. **Identificar los Datos Relevantes:**
+   - Recopilar datos de rendimiento y eficiencia del Sistema de Propulsión Cuántica (QPS).
+   - Comparar con datos del estado del arte.
+
+2. **Seleccionar Herramientas de Visualización:**
+   - Utilizar herramientas como Matplotlib, Seaborn o D3.js para crear gráficos específicos para el QPS.
+
+3. **Crear Prototipos de Gráficos:**
+   - Desarrollar prototipos iniciales de gráficos de radar y líneas de tiempo para el QPS.
+
+4. **Revisar y Refinar:**
+   - Revisar los gráficos con el equipo de desarrollo.
+   - Refinar según los comentarios recibidos.
+
+5. **Integrar en la Documentación:**
+   - Incluir los gráficos finales en la documentación del proyecto, destacando el rendimiento y la eficiencia del QPS.
 
 ## Sistema de Gestión Documental
 
