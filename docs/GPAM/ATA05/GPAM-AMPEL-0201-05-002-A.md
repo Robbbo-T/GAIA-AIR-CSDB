@@ -6,6 +6,8 @@
 
 The Maintenance Time Limits (MTL) document for the AMPEL360XWLRGA aircraft provides the necessary guidelines and intervals for performing maintenance tasks to ensure the continued airworthiness and operational efficiency of the aircraft. This document outlines the time limits for various maintenance tasks, inspections, and overhauls in accordance with regulatory requirements and manufacturer recommendations.
 
+**Note:** This document includes specific maintenance tasks and intervals for the Quantum Propulsion System (QPS) integrated into the AMPEL360XWLRGA aircraft.
+
 ## Maintenance Time Limits
 
 The maintenance time limits for the AMPEL360XWLRGA aircraft are based on flight hours, calendar time, and cycles. The following table provides an overview of the maintenance time limits:
@@ -51,6 +53,14 @@ The following sections outline the specific maintenance tasks to be performed at
 - Perform non-destructive testing (NDT) of critical structures
 - Update software and firmware for avionics systems
 - Conduct comprehensive system tests and validations
+
+### Inspection and Testing of Quantum Propulsion System
+
+- Inspect and test Quantum Propulsion System (QPS) components
+- Perform functional checks of QPS control systems
+- Verify QPS integration with aircraft systems
+- Conduct performance tests to ensure QPS efficiency and reliability
+- Document any discrepancies and corrective actions taken
 
 ## Documentation and Records
 

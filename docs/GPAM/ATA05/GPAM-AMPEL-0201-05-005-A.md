@@ -2,6 +2,10 @@
 
 **Document Code:** GPAM-AMPEL-0201-05-005-A
 
+## Introducción
+
+Este documento incluye visualizaciones y gráficos para el Sistema de Propulsión Cuántica (QPS) integrado en la aeronave AMPEL360XWLRGA.
+
 ## Comparación Prototipo vs. Estado del Arte
 
 Se incorporará un gráfico de radar para visualizar la ventaja competitiva en:
@@ -25,6 +29,10 @@ radar
     Estado del Arte: 3, 4, 3, 4, 3
     Prototipo: 4, 3, 4, 5, 4
 ```
+
+## Visualizaciones para el Sistema de Propulsión Cuántica
+
+Se incluirán visualizaciones específicas para el Sistema de Propulsión Cuántica (QPS) para resaltar su rendimiento y eficiencia en comparación con otros sistemas de propulsión.
 
 ## Roadmap Visual
 
