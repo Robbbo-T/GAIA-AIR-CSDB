@@ -291,9 +291,8 @@ This part of the COAFI document contains all documentation related to the AMPEL3
 *   📄 **IN:** GPAM-AMPEL-0201-23-001-A - **[VHF/UHF Radio Specifications (S1000D)](docs/GPAM/ATA23/GPAM-AMPEL-0201-23-001-A.md)**
 *   📄 **IN:** GPAM-AMPEL-0201-23-002-A - **[Satellite Communication System (S1000D)](docs/GPAM/ATA23/GPAM-AMPEL-0201-23-002-A.md)**
 *   📄 **IN:** GPAM-AMPEL-0201-23-003-A - **[Emergency Locator Transmitter (ELT) Design (S1000D)](docs/GPAM/ATA23/GPAM-AMPEL-0201-23-003-A.md)**
-*   Yes, it is entirely possible—and quite innovative—to create an interconnected mesh of circular networks nested within a 3D star topology, resembling hexagonal molecular distributions. Here's how you might structure it and why it can be advantageous:
 
-### Conceptual Framework:
+##### Conceptual Framework:
 
 - **3D Star Topology (Central Hub):**  
   Acts as the primary node or data center, managing high-level communication and distribution, employing secure quantum or post-quantum encrypted communication protocols to ensure security.
@@ -307,7 +306,7 @@ This part of the COAFI document contains all documentation related to the AMPEL3
 - **Hexagonal Molecular Distribution:**  
   This design mimics the stability and efficiency of hexagonal molecular arrangements (like graphene), optimizing communication paths, balance, and resilience.
 
-### Key Benefits:
+##### Key Benefits:
 
 1. **High Fault Tolerance:**  
    Combining the redundancy of circular networks with mesh topology provides multiple communication paths, significantly enhancing fault tolerance.
@@ -324,7 +323,7 @@ This part of the COAFI document contains all documentation related to the AMPEL3
 5. **Real-Time Communication:**  
    Minimizes latency by allowing direct, localized exchanges within circular networks while maintaining strategic, centralized oversight through the star topology.
 
-### Recommended Implementation Steps:
+###@@ Recommended Implementation Steps:
 
 - **Define Clear Hierarchies:**  
   Central hubs manage strategic data; local circular networks handle operational communication.
@@ -346,7 +345,7 @@ This advanced architecture would deliver significant strategic and operational a
 *   📄 **IN:** GPAM-AMPEL-0201-24-001-A - **[Primary Power Generation System (S1000D)](docs/GPAM/ATA24/GPAM-AMPEL-0201-24-001-A.md)**
 *   📄 **IN:** GPAM-AMPEL-0201-24-002-A - **[Power Distribution Schematics (S1000D)](docs/GPAM/ATA24/GPAM-AMPEL-0201-24-002-A.md)**
 *   📄 **IN:** GPAM-AMPEL-0201-24-003-A - **[Emergency Power System (Backup Batteries) (S1000D)](docs/GPAM/ATA24/GPAM-AMPEL-0201-24-003-A.md)**
-  ## Impact of Termination on Multipath Entanglement Purification (MEP)
+  ###### Impact of Termination on Multipath Entanglement Purification (MEP)
 
 The type of termination significantly impacts the fault tolerance of multipath entanglement purification (MEP) in bus topologies:
 
@@ -369,7 +368,7 @@ By optimizing termination strategies, the reliability and efficiency of MEP can 
 
 ---
 
-## Star Topology Advantages Over Daisy-Chained Topology
+###### Star Topology Advantages Over Daisy-Chained Topology
 
 Specific scenarios where star topology demonstrates superior fault tolerance compared to daisy-chain topology include:
 
@@ -405,7 +404,7 @@ Despite the potential single point of failure at the central hub, redundancy mea
 
 
 
-##### 2.1.1.N ATA 25 - Equipment / Furnishings:
+###### 2.1.1.N ATA 25 - Equipment / Furnishings:
 [Back to Section 2.1.1](#211-ata-chapters) | [Back to Section 2.1](#21-ampel360xwlrga-advanced-aircraft-systems) | [Back to Part II](#part-ii-gaia-pulse-air-modules-gpam---atmospheric-operations) | [Back to Top](#cosmic-omnidevelopable-aero-foresights-index-coafi---complete-table-of-contents)
 **P/N:** GPAM-AMPEL-0201-25 *(Section P/N)*
 *   📄 **IN:** GPAM-AMPEL-0201-25-001-A - **[Passenger Seat Specifications (S1000D)](docs/GPAM/ATA25/GPAM-AMPEL-0201-25-001-A.md)**
@@ -1357,89 +1356,131 @@ This section would cover systems and components common to multiple space vehicle
 
 </details>
 
-# Comprehensive Interview Framework for E-Commerce Marketing Manager Candidates  
+# Part IV: GAIA PULSE PROPULSION MODULES (GPPM)
 
-The following research report outlines a structured approach to interviewing candidates for a Marketing Manager position at an e-commerce organization, focusing on multi-channel campaign expertise, analytical rigor, cross-functional collaboration, and adaptability to emerging trends. The framework synthesizes industry best practices with forward-looking assessments tailored to 2025’s technological landscape.  
+**Part Name:** Propulsion Systems
 
----
+**Introduction:** *Part IV documents GAIA PULSE PROPULSION MODULES (GPPM), detailing both conventional and innovative propulsion technologies, with a focus on the experimental Q-01 Quantum Propulsion System and its components.*
 
-## Multi-Channel Strategy Development and Execution  
+## 4.1 Quantum Propulsion Systems (Q-Prop)
 
-### Campaign Architecture Across Platforms  
-Modern e-commerce demands seamless integration of paid social, email, SMS, and emerging channels like AR-powered shopping experiences. A candidate’s ability to articulate **channel prioritization matrices** – balancing customer lifetime value against platform-specific CAC – reveals strategic depth[7][12]. For instance, TikTok Shop’s algorithm favors native content that blends entertainment with commerce, requiring different creative rules than Google Performance Max campaigns[14].  
+*   **P/N:** GPPM-QPROP-0401 *(This is the top-level P/N for the Quantum Propulsion section)*
 
-### Dynamic Resource Reallocation  
-The gap between planned media mixes and real-time performance data remains a critical pain point. Strong candidates should demonstrate **predictive modeling capabilities**, such as using Meta’s Lattice framework to forecast channel saturation points before ROI diminishes[9]. A case study question about reallocating budget from underperforming Pinterest campaigns to TikTok LIVE Shopping integrations during Q4 peaks tests this skill[13].  
+    ### 4.1.1 Q-01 Quantum Propulsion System
 
----
+    *   **P/N:** GPPM-QPROP-0401-01 *(This is the P/N for the Q-01 system itself)*
 
-## Quantitative Analysis and Optimization  
+        *   📄 **IN:** GPPM-QPROP-0401-01-001-A - **[Q-01 System Description (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-01-001-A.md)** - *Existing (Placeholder)*
+            *   **Content:** Overview of the Q-01 system, its purpose, main components, and operating principles. This is a top-level system description.
+        *   📄 **IN:** GPPM-QPROP-0401-01-002-A - **[Q-01 Principles of Operation and Theoretical Basis](docs/GPPM/QPROP/GPPM-QPROP-0401-01-002-A.md)** - *Existing (Placeholder)*
+            *   **Content:** Detailed explanation of the theoretical underpinnings of the Q-01 system, including relevant quantum phenomena (entanglement, vacuum energy, etc.).  Includes equations, diagrams, and references to scientific literature (where appropriate, and considering the need for confidentiality).
+        *   📄 **IN:** GPPM-QPROP-0401-01-003-A - **[Q-01 System Architecture and Schematics](docs/GPPM/QPROP/GPPM-QPROP-0401-01-003-A.md)** - *Existing (Placeholder)*
+            *   **Content:** Detailed diagrams and schematics of the Q-01 system, including the QSM, QEE, cryogenic system, power supply, and control systems.  Shows component interconnections.
+        *   📄 **IN:** GPPM-QPROP-0401-01-004-A - **[Q-01 Control System Software Architecture](docs/GPPM/QPROP/GPPM-QPROP-0401-01-004-A.md)** - *New (Placeholder)*
+             *   **Content:** Software architecture of the Q-01's control system, including real-time monitoring and feedback mechanisms.  Might be linked to Part X (GPAQS) if using quantum-enhanced AI.
+        *   📄 **IN:** GPPM-QPROP-0401-01-005-A - **[Q-01 Control System Software Specification](docs/GPPM/QPROP/GPPM-QPROP-0401-01-005-A.md)** - *New (Placeholder)*
+             *   **Content:** Detailed specifications for the Q-01's control software, including algorithms, data structures, interfaces, and safety protocols.
+        *   📄 **IN:** GPPM-QPROP-0401-01-006-A - **[Q-01 Interface Control Document (ICD)](docs/GPPM/QPROP/GPPM-QPROP-0401-01-006-A.md)** - *New (Placeholder)*
+             *   **Content:** Defines all interfaces between the Q-01 system and other aircraft systems (e.g., electrical power, data bus, flight control system). Includes mechanical, electrical, and data interfaces.
+        *   📄 **IN:** GPPM-QPROP-0401-01-007-A - **[Q-01 Safety Assessment and Certification Plan](docs/GPPM/QPROP/GPPM-QPROP-0401-01-007-A.md)** - *New (Placeholder)*
+            *   **Content:** A critical document outlining the safety assessment process for the highly experimental Q-01 system.  Includes hazard analysis, risk mitigation strategies, and a plan for achieving certification (even if that is a very long-term goal). Links to FMEA.
+        * 📄 **IN:** GPPM-QPROP-0401-CERT-001-A - **[Q-01 Special Conditions Proposal](docs/GPPM/QPROP/GPPM-QPROP-0401-CERT-001-A.md)** - *New (Placeholder)*
+            * **Content:** Because Q-01 is a new technology, this document would propose to regulating authorities what *special conditions* will be requested/needed.
+        *   📄 **IN:** GPPM-QPROP-0401-MATH-001-A - **[QPS Mathematical Framework](docs/GPPM/QPROP/GPPM-QPROP-0401-MATH-001-A.md)** - *New (Placeholder)*
+            * **Content:** This is where all mathematical equations and models relevant to the Q-01 system will be detailed.
+        *   📄 **IN:** GPPM-QPROP-0401-SIM-001-A - **[QPS Simulations and Computational Validation](docs/GPPM/QPROP/GPPM-QPROP-0401-SIM-001-A.md)** - *New (Placeholder)*
+            * **Content:** This document details computational models used to validate the system's theoretical basis and behavior.
 
-### Metric Ecosystem Design  
-While ROAS remains table stakes, candidates must explain how they track **halo metrics** like branded search lift (+27% YoY for DTC brands using Google’s MMM tools) and cart abandonment recovery rates via Shopify’s Journey API[6][8]. A sophisticated answer might reference using Snowflake’s Marketing Data Cloud to unify GA4, CRM, and POS data for incrementality testing[10].  
+    ### 4.1.2 Quantum Entanglement Engine (QEE)
 
-### Failure Analysis Protocols  
-The 2024 Klaviyo breach highlighted the risks of over-indexing on single-platform strategies. Interview questions should probe **root cause analysis methodologies**, such as implementing New Relic’s distributed tracing to pinpoint checkout funnel breakdowns across hybrid web/app environments[5]. Candidates might describe rebuilding attribution models after iOS 18’s SKAdNetwork 5.0 changes forced probabilistic matching[11].  
+    *   **P/N:** GPPM-QPROP-0401-QEE *(This is the P/N for the QEE component)*
 
----
+        *   📄 **IN:** GPPM-QPROP-0401-QEE-001-A - **[QEE Design and Operation (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-QEE-001-A.md)** - *Existing (Placeholder)*
+            *   **Content:** Detailed design specifications, operating parameters, and assembly procedures for the QEE.
+        *   📄 **IN:** GPPM-QPROP-0401-QEE-002-A - **[QEE Materials and Manufacturing Processes](docs/GPPM/QPROP/GPPM-QPROP-0401-QEE-002-A.md)** - *New (Placeholder)*
+            *   **Content:** Describes the specific materials used in the QEE, their properties, and the manufacturing processes used to fabricate the component.
+        *   📄 **IN:** GPPM-QPROP-0401-QEE-003-A - **[QEE Testing and Validation Procedures](docs/GPPM/QPROP/GPPM-QPROP-0401-QEE-003-A.md)** - *New (Placeholder)*
+             *    **Content:** Detailed procedures for testing the QEE, including performance benchmarks, stress tests, and safety checks.
+        *   📄 **IN:** GPPM-QPROP-0401-QEE-004-A - **[QEE Maintenance and Repair Manual (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-QEE-004-A.md)** - *New (Placeholder)*
+             *  **Content:**  Maintenance procedures, troubleshooting guides, and repair instructions for the QEE.
 
-## Cross-Functional Leadership  
+    ### 4.1.3 Quantum State Modulator (QSM)
 
-### Customer Journey Mapping  
-With 63% of consumers using mixed research paths (social discovery → chatbot query → in-store purchase), candidates must show experience collaborating with UX teams on **unified interaction graphs**[3][14]. A strong response would detail integrating Salesforce Commerce Cloud’s Einstein AI with Figma prototypes to visualize touchpoint heatmaps[2].  
+    *   **P/N:** GPPM-QPROP-0401-QSM *(This is the P/N for the QSM component)*
 
-### Stakeholder Negotiation Frameworks  
-The rise of procurement-led tech stack decisions requires marketing leaders to master **TCO justification models**. Ask for examples of convincing CFOs to adopt headless CMS platforms by projecting 40% faster localization cycles[1][7]. Look for familiarity with G2’s ROI calculators and Forrester TEI templates in their toolkit[12].  
+        *   📄 **IN:** GPPM-QPROP-0401-QSM-001-A - **[QSM Design and Operation (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-QSM-001-A.md)** - *Existing (Placeholder)*
+            *   **Content:**  Detailed design specifications, operating parameters, and assembly procedures for the QSM.
+        * **IN:** GPPM-QPROP-0401-QSM-002-A - **[QSM Control Algorithms](docs/GPPM/QPROP/GPPM-QPROP-0401-QSM-002-A.md)** - *New (Placeholder)*
+            * **Content:** Describes the specific algorithms.
+        *  **IN:** GPPM-QPROP-0401-QSM-003-A - **[QSM Software](docs/GPPM/QPROP/GPPM-QPROP-0401-QSM-003-A.md)** - *New (Placeholder)*
+            * **Content:** Describes the QSM software architecture and specifications.
+        *   📄 **IN:** GPPM-QPROP-0401-QSM-004-A - **[QSM Testing and Validation Procedures](docs/GPPM/QPROP/GPPM-QPROP-0401-QSM-004-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-QPROP-0401-QSM-005-A - **[QSM Maintenance and Repair Manual (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-QSM-005-A.md)** - *New (Placeholder)*
 
----
+    ### 4.1.4 Cryogenic Cooling System (CCS)
 
-## Emerging Technology Adoption  
+    *   **P/N:** GPPM-QPROP-0401-CCS *(This is the P/N for the CCS component)*
 
-### AI-Personalization Implementation  
-Candidates should articulate strategies for deploying generative AI while maintaining brand safety. Probe their experience with tools like Adobe Firefly for dynamic creative optimization or Persado’s emotional resonance scoring[4][9]. A reference to A/B testing ChatGPT-5 product descriptions against human copy using Optimizely’s Stats Engine demonstrates hands-on expertise[6].  
+        *   📄 **IN:** GPPM-QPROP-0401-CCS-001-A - **[CCS Design and Operation (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-CCS-001-A.md)** - *Existing (Placeholder)*
+            *   **Content:**  Detailed design specifications, operating parameters, and assembly procedures for the CCS.
+        *   📄 **IN:** GPPM-QPROP-0401-CCS-002-A - **[CCS Performance Specifications](docs/GPPM/QPROP/GPPM-QPROP-0401-CCS-002-A.md)** - *New (Placeholder)*
+             *   **Content:** Defines the required cooling capacity, temperature stability, and other performance metrics for the CCS.
+        *   📄 **IN:** GPPM-QPROP-0401-CCS-003-A - **[CCS Testing and Validation Procedures](docs/GPPM/QPROP/GPPM-QPROP-0401-CCS-003-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-QPROP-0401-CCS-004-A - **[CCS Maintenance and Repair Manual (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-CCS-004-A.md)** - *New (Placeholder)*
 
-### MarTech Integration Challenges  
-With the average enterprise using 189 marketing tools, interview questions must assess **stack rationalization skills**[8]. Strong candidates might describe consolidating 22 legacy tools into a unified CDP using Workato’s iPaaS, achieving 70% cost reduction while improving data freshness[10][13].  
+   ### 4.1.5 Power Supply and Conditioning
+    * **P/N:** GPPM-QPROP-0401-POW *(This is the P/N for the Power Supply Unit)*
 
----
+        *   📄 **IN:** GPPM-QPROP-0401-POW-001-A - **[Power Supply Unit Design (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-POW-001-A.md)** - *New (Placeholder)*
+            *   **Content:**  Detailed design specifications for the Power Unit.
+        *   📄 **IN:** GPPM-QPROP-0401-POW-002-A - **[High-Voltage DC Distribution Schematics (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-POW-002-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-QPROP-0401-POW-003-A - **[Power Converter Specifications (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-POW-003-A.md)** - *New (Placeholder)*
 
-## Team Leadership in Distributed Environments  
+   ### 4.1.6 Control and Monitoring System
+    * **P/N:** GPPM-QPROP-0401-CON *(This is the P/N for the Control System)*
 
-### Hybrid Workflow Orchestration  
-Given that 78% of high-performing marketing teams now use async video standups via Loom, inquire about **digital watercooler tactics** that sustain creativity[5]. Look for examples like implementing Miro’s AI clustering of campaign ideas from global teams paired with Monday.com’s resource leveling algorithms[11].  
+        *   📄 **IN:** GPPM-QPROP-0401-CON-001-A - **[Control System Architecture (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-CON-001-A.md)** - *New (Placeholder)*
+            *   **Content:**  Details about control system architecture.
+        *   📄 **IN:** GPPM-QPROP-0401-CON-002-A - **[Sensor Specifications and Data Acquisition (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-CON-002-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-QPROP-0401-CON-003-A - **[Diagnostic Software Design (S1000D)](docs/GPPM/QPROP/GPPM-QPROP-0401-CON-003-A.md)** - *New (Placeholder)*
 
-### Brand Consistency Automation  
-As UGC comprises 42% of e-commerce content, candidates must explain QA processes at scale. A robust answer references using Galileo AI’s compliance layer to auto-flag off-brand visual elements while maintaining creator authenticity[3][14].  
+    ### 4.1.7 Integration Documents (Q-Prop)
 
----
+    *   📄 **IN:** GPPM-QPROP-0401-INT-001-A - **[Q-01 System Integration Test Plan](docs/GPPM/QPROP/GPPM-QPROP-0401-INT-001-A.md)** - *New (Placeholder)*
+    *   📄 **IN:** GPPM-QPROP-0401-INT-002-A - **[Q-01 System Integration Test Results](docs/GPPM/QPROP/GPPM-QPROP-0401-INT-002-A.md)** - *New (Placeholder)*
+    *   📄 **IN:** GPPM-QPROP-0401-INT-003-A - **[Q-01 Interface Control Document (ICD)](docs/GPPM/QPROP/GPPM-QPROP-0401-INT-003-A.md)** - *New (Placeholder)*
+        *   **Content:**  Defines all interfaces between the Q-01 system and other aircraft systems (electrical, mechanical, data).  A critical document for integration.
 
-## Conclusion  
+    ### 4.1.8 Safety and Certification
 
-This interview framework balances traditional competency assessment with evaluations of candidates’ preparedness for 2025’s key shifts: AI-native content production, privacy-preserving attribution, and composable tech stack architecture. By focusing on specific implementation examples rather than theoretical knowledge, hiring managers can identify candidates capable of leading through the coming paradigm changes in performance marketing. Future iterations should incorporate assessments of quantum computing readiness as encryption standards evolve post-2025[9][12].
+    *   📄 **IN:** GPPM-QPROP-0401-SAF-001-A - **[Q-01 System Safety Assessment](docs/GPPM/QPROP/GPPM-QPROP-0401-SAF-001-A.md)** - *New (Placeholder)*
+    *   📄 **IN:** GPPM-QPROP-0401-SAF-002-A - **[Q-01 Failure Modes and Effects Analysis (FMEA)](docs/GPPM/QPROP/GPPM-QPROP-0401-SAF-002-A.md)** - *New (Placeholder)*
+    *   📄 **IN:** GPPM-QPROP-0401-SAF-003-A - **[Q-01 Certification Plan](docs/GPPM/QPROP/GPPM-QPROP-0401-SAF-003-A.md)** - *New (Placeholder)*
 
-Citations:
-[1] https://v0.dev/chat/fork-of-image-analysis-ACoFJ3rjlhV
-[2] https://forum.image.sc/t/removing-out-of-focus-objects/14143
-[3] https://v0.dev/chat/fork-of-image-analysis-dashboard-6b2qGbe69cP
-[4] https://annjose.com/post/v0-dev-firsthand/
-[5] https://v0.dev/chat/fork-of-image-generation-app-XfmIxpryJHP
-[6] https://www.reddit.com/r/nextjs/comments/1fzs4ji/how_can_i_import_the_project_i_made_from_v0dev_to/
-[7] https://v0.dev/chat/image-analysis-xB3MgS9uA6c
-[8] https://v0.dev/docs
-[9] https://v0.dev/chat/fork-of-image-analysis-H9eVCMiSGhE
-[10] https://v0.dev/chat/fork-of-ai-agent-platform-GVA2CbWVf2L
-[11] https://v0.dev/chat/image-analysis-epsEti7Be9a
-[12] https://v0.dev
-[13] https://v0.dev/chat/image-analysis-IU5kJIso6NH
-[14] https://v0.dev/chat/image-analysis-W0EUgunUgkK
-[15] https://v0.dev/chat/image-analysis-bNlGhAwmyv3
-[16] https://v0.dev/chat/fork-of-ai-image-generator-RTni5Ipwtoy
-[17] https://v0.dev/chat/x7amZK6ZVXq
-[18] https://v0.dev/chat/image-analysis-fcOfFFOSb54
-[19] https://v0.dev/chat/fork-of-image-tools-landing-x7amZK6ZVXq
+## 4.2 Electric Propulsion Systems (EPS)
 
----
-Respuesta de Perplexity: pplx.ai/share
+*   **P/N:** GPPM-EPROP-0402 *(This is the top-level P/N for Electric Propulsion Systems)*
+
+    *   ### 4.2.1 High-Efficiency Electric Motors
+        *   📄 **IN:** GPPM-EPROP-0402-MOT-001-A - **[Electric Motor Design Specifications (S1000D)](docs/GPPM/EPROP/GPPM-EPROP-0402-MOT-001-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-EPROP-0402-MOT-002-A - **[Electric Motor Performance Characteristics](docs/GPPM/EPROP/GPPM-EPROP-0402-MOT-002-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-EPROP-0402-MOT-003-A - **[Electric Motor Maintenance Manual (S1000D)](docs/GPPM/EPROP/GPPM-EPROP-0402-MOT-003-A.md)** - *New (Placeholder)*
+    *   ### 4.2.2 Power Electronics and Control Systems
+       *    📄 **IN:** GPPM-EPROP-0402-PEC-001-A - **[Motor Controller Specifications (S1000D)](docs/GPPM/EPROP/GPPM-EPROP-0402-PEC-001-A.md)** - *New (Placeholder)*
+       *    📄 **IN:** GPPM-EPROP-0402-PEC-002-A - **[Power Inverter Design (S1000D)](docs/GPPM/EPROP/GPPM-EPROP-0402-PEC-002-A.md)** - *New (Placeholder)*
+    *   ### 4.2.3 Energy Storage Systems
+        *   📄 **IN:** GPPM-EPROP-0402-ESS-001-A - **[Battery System Specifications (S1000D)](docs/GPPM/EPROP/GPPM-EPROP-0402-ESS-001-A.md)** - *New (Placeholder)*
+        *   📄 **IN:** GPPM-EPROP-0402-ESS-002-A - **[Battery Management System (BMS) Design (S1000D)](docs/GPPM/EPROP/GPPM-EPROP-0402-ESS-002-A.md)** - *New (Placeholder)*
+
+## 4.3 Hybrid Propulsion Systems (HPS)
+
+*   **P/N:** GPPM-HYBRID-0403 *(This is the top-level P/N for Hybrid Propulsion Systems)*
+    *   ### 4.3.1 Hybrid System Architecture
+         *   📄 **IN:** GPPM-HYBRID-0403-ARCH-001-A - **[Hybrid Propulsion System Architectures (S1000D)](docs/GPPM/HYBRID/GPPM-HYBRID-0403-ARCH-001-A.md)** - *New (Placeholder)*
+    *   ### 4.3.2 Control Strategies
+         *   📄 **IN:** GPPM-HYBRID-0403-CTRL-001-A - **[Hybrid Propulsion Control Strategies (S1000D)](docs/GPPM/HYBRID/GPPM-HYBRID-0403-CTRL-001-A.md)** - *New (Placeholder)*
+    *   ### 4.3.3 System Integration and Testing
+         *  📄 **IN:** GPPM-HYBRID-0403-INT-001-A - **[Hybrid Propulsion System Integration and Testing (S1000D)](docs/GPPM/HYBRID/GPPM-HYBRID-0403-INT-001-A.md)** - *New (Placeholder)*
 
 <details>
 <summary id="part-v-summary"><b>Part V: GAIA PULSE GREENTECH & AERO COMMON MODULES (GPGM)</b></summary>
