@@ -6,6 +6,8 @@
 
 El Plan de Obtención de Datos para el proyecto IP SKILLED ATMOSPHERIC AI detalla los métodos y procedimientos para la recopilación, análisis y evaluación de datos necesarios para el desarrollo y validación del sistema. Este documento asegura que los datos obtenidos sean precisos, relevantes y adecuados para los objetivos del proyecto.
 
+**Nota:** Este documento incluye métodos específicos de obtención de datos para el Sistema de Propulsión Cuántica (QPS) integrado en la aeronave AMPEL360XWLRGA.
+
 ## Instrumentación
 
 ### Sensores y Dispositivos
@@ -18,6 +20,12 @@ El Plan de Obtención de Datos para el proyecto IP SKILLED ATMOSPHERIC AI detall
 
 - **Registros de eventos:** Captura de eventos significativos y anomalías durante la operación.
 - **Historial de mantenimiento:** Registro detallado de todas las actividades de mantenimiento y reparaciones.
+
+### Data Collection for Quantum Propulsion System
+
+- **Sensores de rendimiento del QPS:** Monitoreo de la eficiencia operativa y el consumo de recursos del QPS.
+- **Telemetría en tiempo real del QPS:** Recopilación de datos en tiempo real sobre el estado y rendimiento del QPS.
+- **Sensores embebidos en el QPS:** Integración de sensores en componentes críticos del QPS para el monitoreo continuo.
 
 ## Método de Análisis
 
@@ -42,6 +50,16 @@ El Plan de Obtención de Datos para el proyecto IP SKILLED ATMOSPHERIC AI detall
 
 - **Actualización en tiempo real:** Monitoreo y actualización continua de datos para asegurar la precisión y relevancia.
 - **Alertas y notificaciones:** Configuración de alertas para eventos críticos y anomalías detectadas.
+
+## Métodos de Obtención de Datos
+
+### Sensores y Dispositivos Utilizados
+
+- **Sensores de temperatura:** Monitoreo de la temperatura en diferentes componentes del sistema.
+- **Sensores de presión:** Medición de la presión en sistemas hidráulicos y neumáticos.
+- **Acelerómetros:** Detección de vibraciones y movimientos en la estructura del sistema.
+- **Sensores de humedad:** Control de los niveles de humedad en áreas críticas.
+- **Cámaras de alta resolución:** Captura de imágenes y videos para análisis visual.
 
 ## Conclusión
 

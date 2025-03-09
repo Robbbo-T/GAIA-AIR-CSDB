@@ -2662,7 +2662,7 @@ Este índice está diseñado como un recurso vivo y en constante evolución, ada
 
 - **Protección de:**
   - Sistemas de navegación y control de vuelo 🛰️
-    [Enlace a informe sobre ciberseguridad en aviación](https://enlace-al-informe.com)
+    [Enlace a informe sobre ciberseguridad en aviación](https://enlace-a-informe.com)
   - Comunicaciones y datos de pasajeros 📡
     [Enlace a artículo sobre protección de datos en aviación](https://enlace-al-articulo.com)
 

@@ -1,6 +1,3 @@
-              - name: Attest Build Provenance
-                uses: actions/attest-build-provenance@v1.4.4
-            
 site_name: 'GAIA AIR Documentation'
 theme: 'readthedocs'
 nav:
@@ -23,3 +20,5 @@ nav:
   - 'Propuesta de Valor: Ejemplos Concretos': 'docs/GPAM/ATA05/GPAM-AMPEL-0201-05-007-A.md'
   - 'Gestión Documental y Trazabilidad': 'docs/GPAM/ATA05/GPAM-AMPEL-0201-05-008-A.md'
   - 'Próximos Pasos': 'docs/GPAM/ATA05/GPAM-AMPEL-0201-05-009-A.md'
+  - 'GAIA AIR ATA Index': 'GAIA_AIR_ATA_Index.md'
+  - 'Glossary': 'Glossary'
